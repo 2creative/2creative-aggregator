@@ -1,0 +1,31 @@
+name: Scrape Jobs
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 AM UTC daily
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run job scrapers
+        run: python scripts/scrape_jobs.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "2Creative Bot"
+          git config user.email "bot@2creative.net"
+          git add public/data/jobs.json
+          git diff --cached --quiet || git commit -m "chore: update jobs data [skip ci]"
+          git push

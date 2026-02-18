@@ -1,0 +1,32 @@
+{
+  "lastUpdated": "2026-02-18T06:00:00Z",
+  "source": "aggregated",
+  "jobs": [
+    {
+      "id": "job-001",
+      "title": "Senior Frontend Developer (React/Next.js)",
+      "company": "AcmeDesignCo",
+      "location": "Remote",
+      "type": "Full-Time",
+      "salary": "$120k – $160k",
+      "tags": ["React", "Next.js", "TypeScript", "UI/UX"],
+      "source": "WeWorkRemotely",
+      "url": "https://example.com/jobs/001",
+      "postedAt": "2026-02-17T10:00:00Z",
+      "description": "Build beautiful, high-performance web applications for our design platform."
+    },
+    {
+      "id": "job-002",
+      "title": "Web3 UI/UX Designer",
+      "company": "CryptoVault",
+      "location": "Remote",
+      "type": "Contract",
+      "salary": "$90/hr",
+      "tags": ["Web3", "Figma", "DeFi", "Crypto"],
+      "source": "RemoteOK",
+      "url": "https://example.com/jobs/002",
+      "postedAt": "2026-02-17T14:30:00Z",
+      "description": "Design intuitive interfaces for next-generation DeFi products."
+    }
+  ]
+}

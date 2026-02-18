@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-02-18T07:00:00Z",
+  "source": "aggregated",
+  "templates": [
+    {
+      "id": "tpl-001",
+      "title": "Flavor — Creative Agency WordPress Theme",
+      "author": "Developer Unknown",
+      "platform": "ThemeForest",
+      "category": "Creative",
+      "price": "$59",
+      "rating": 4.9,
+      "sales": 12400,
+      "tags": ["WordPress", "Agency", "Portfolio", "Creative"],
+      "thumbnail": "https://via.placeholder.com/600x400",
+      "url": "https://example.com/templates/001",
+      "description": "A stunning multi-purpose theme for agencies, freelancers, and studios."
+    },
+    {
+      "id": "tpl-002",
+      "title": "Startup Flow — Modern Framer Template",
+      "author": "PixelPerfect",
+      "platform": "Framer",
+      "category": "Technology",
+      "price": "$49",
+      "rating": 4.7,
+      "sales": 3200,
+      "tags": ["Framer", "Startup", "SaaS", "Landing Page"],
+      "thumbnail": "https://via.placeholder.com/600x400",
+      "url": "https://example.com/templates/002",
+      "description": "Ship faster with this conversion-optimized startup template."
+    }
+  ]
+}

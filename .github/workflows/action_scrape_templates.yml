@@ -1,0 +1,33 @@
+name: Scrape Templates
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 07:00 AM UTC daily
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run template scrapers
+        run: |
+          python scripts/scrape_envato.py
+          python scripts/scrape_webflow.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "2Creative Bot"
+          git config user.email "bot@2creative.net"
+          git add public/data/templates.json
+          git diff --cached --quiet || git commit -m "chore: update templates data [skip ci]"
+          git push
