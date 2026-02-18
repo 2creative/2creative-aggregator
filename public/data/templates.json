@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T07:00:00Z",
+  "lastUpdated": "2026-02-18T16:07:42.739587+00:00",
   "source": "aggregated",
   "templates": [
     {
@@ -11,7 +11,12 @@
       "price": "$59",
       "rating": 4.9,
       "sales": 12400,
-      "tags": ["WordPress", "Agency", "Portfolio", "Creative"],
+      "tags": [
+        "WordPress",
+        "Agency",
+        "Portfolio",
+        "Creative"
+      ],
       "thumbnail": "https://via.placeholder.com/600x400",
       "url": "https://example.com/templates/001",
       "description": "A stunning multi-purpose theme for agencies, freelancers, and studios."
@@ -25,10 +30,4568 @@
       "price": "$49",
       "rating": 4.7,
       "sales": 3200,
-      "tags": ["Framer", "Startup", "SaaS", "Landing Page"],
+      "tags": [
+        "Framer",
+        "Startup",
+        "SaaS",
+        "Landing Page"
+      ],
       "thumbnail": "https://via.placeholder.com/600x400",
       "url": "https://example.com/templates/002",
       "description": "Ship faster with this conversion-optimized startup template."
+    },
+    {
+      "id": "envato-9228123",
+      "title": "Canvas | The Multi-Purpose HTML5 Template",
+      "author": "SemiColonWeb",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$16",
+      "rating": 4.9,
+      "sales": 73992,
+      "tags": [
+        "site-templates/corporate",
+        "blog",
+        "bootstrap",
+        "business",
+        "clean",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/482873925/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/canvas-the-multipurpose-html5-template/9228123",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Bootstrap 4.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407344+00:00"
+    },
+    {
+      "id": "envato-6221179",
+      "title": "Brooklyn | Creative Multipurpose Responsive WordPress Theme",
+      "author": "UnitedThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.7,
+      "sales": 52318,
+      "tags": [
+        "wordpress/creative/portfolio",
+        "agency",
+        "blog",
+        "business",
+        "clean",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/700885443/images/01_Brooklyn-Featured-Image.__large_preview.png",
+      "url": "https://themeforest.net/item/brooklyn-responsive-multipurpose-wordpress-theme/6221179",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, bbPress 2.5.x, Contact Form 7, El",
+      "scrapedAt": "2026-02-18T16:06:25.093445+00:00"
+    },
+    {
+      "id": "envato-10860525",
+      "title": "Kalium 3 | Creative WordPress & WooCommerce Theme",
+      "author": "Laborator",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$119",
+      "rating": 4.9,
+      "sales": 47235,
+      "tags": [
+        "wordpress/creative/portfolio",
+        "agency",
+        "architecture",
+        "blog",
+        "business",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/636923181/01_PREVIEW.__large_preview.jpg",
+      "url": "https://themeforest.net/item/kalium-creative-theme-for-professionals/10860525",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Block Editor, Contact Form 7, Easy Digital Downloads, Ele",
+      "scrapedAt": "2026-02-18T16:06:25.093463+00:00"
+    },
+    {
+      "id": "envato-6780226",
+      "title": "WPLMS Learning Management System for WordPress, WordPress LMS",
+      "author": "VibeThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$75",
+      "rating": 4.5,
+      "sales": 28696,
+      "tags": [
+        "wordpress/education",
+        "academy",
+        "classes",
+        "courses",
+        "elearning",
+        "headless cms"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/357816535/screenshots/01_preview1.__large_preview.png",
+      "url": "https://themeforest.net/item/wplms-learning-management-system/6780226",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, BuddyPress 10.x.x, Easy Digital ",
+      "scrapedAt": "2026-02-18T16:06:25.093473+00:00"
+    },
+    {
+      "id": "envato-13739153",
+      "title": "Massive Dynamic - WordPress Website Builder",
+      "author": "Pixflow",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.6,
+      "sales": 21160,
+      "tags": [
+        "wordpress/corporate",
+        "agency",
+        "agency wordpress",
+        "app",
+        "business",
+        "business agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/305877932/01_MD.__large_preview.jpg",
+      "url": "https://themeforest.net/item/massive-dynamic-wordpress-website-builder/13739153",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: WooCommerce 6.x.x, WPBakery Page Builder, WPML",
+      "scrapedAt": "2026-02-18T16:06:25.093481+00:00"
+    },
+    {
+      "id": "envato-14728833",
+      "title": "Jevelin | Multi-Purpose Responsive WordPress AMP Theme",
+      "author": "Shufflehound",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.5,
+      "sales": 14417,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "blog",
+        "business",
+        "clean",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/423811867/01_Jevelin-cover.__large_preview.png",
+      "url": "https://themeforest.net/item/jevelin-multipurpose-premium-responsive-wordpress-theme/14728833",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommerce 7",
+      "scrapedAt": "2026-02-18T16:06:25.093490+00:00"
+    },
+    {
+      "id": "envato-16869357",
+      "title": "Infinite - Corporate Business WordPress",
+      "author": "GoodLayers",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$67",
+      "rating": 4.8,
+      "sales": 13457,
+      "tags": [
+        "wordpress/corporate/business",
+        "architect",
+        "business",
+        "conference",
+        "corporate",
+        "eco"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/549611638/preview-infinite/01_intro.__large_preview.jpg",
+      "url": "https://themeforest.net/item/infinite-responsive-multipurpose-wordpress-theme/16869357",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Chrome, Edge, Compatible With: WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommerce 7.x.x, W",
+      "scrapedAt": "2026-02-18T16:06:25.093498+00:00"
+    },
+    {
+      "id": "envato-13674236",
+      "title": "App, SaaS & Software Startup Tech Theme - Stratus",
+      "author": "Themovation",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.9,
+      "sales": 13030,
+      "tags": [
+        "wordpress/technology/software",
+        "ai",
+        "app",
+        "artificial intelligence",
+        "cyber security",
+        "defi"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/651853473/01_Stratus-Preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/stratus-app-saas-product-showcase/13674236",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, Events Calendar, Events Calendar Pro, WooCommerce 9",
+      "scrapedAt": "2026-02-18T16:06:25.093506+00:00"
+    },
+    {
+      "id": "envato-13542725",
+      "title": "Startit - Startup Business WordPress Theme",
+      "author": "Select-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.5,
+      "sales": 12959,
+      "tags": [
+        "wordpress/technology",
+        "agency",
+        "app",
+        "app landing page",
+        "business",
+        "business theme"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/549337551/00_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/startit-a-fresh-startup-business-theme/13542725",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE9, IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WPBakery Page Bui",
+      "scrapedAt": "2026-02-18T16:06:25.093514+00:00"
+    },
+    {
+      "id": "envato-19337626",
+      "title": "Stack - Multi Purpose HTML with Page Builder",
+      "author": "medium_rare",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$12",
+      "rating": 4.8,
+      "sales": 12643,
+      "tags": [
+        "site-templates/corporate",
+        "app",
+        "bootstrap",
+        "business",
+        "corporate",
+        "ecommerce"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/266419192/stack-item-preview-2-0.__large_preview.png",
+      "url": "https://themeforest.net/item/stack-multipurpose-html-with-page-builder/19337626",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407362+00:00"
+    },
+    {
+      "id": "envato-11446068",
+      "title": "Materialize - Next.js, Vuejs, Nuxt, HTML, Laravel, Django, Asp.Net Material Design Admin Template",
+      "author": "PIXINVENT",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.8,
+      "sales": 12610,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard",
+        "admin panel",
+        "asp.net",
+        "bootstrap",
+        "laravel"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/666003021/theme-preview/01.__large_preview.png",
+      "url": "https://themeforest.net/item/materialize-material-design-admin-template/11446068",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge",
+      "scrapedAt": "2026-02-18T16:06:26.407371+00:00"
+    },
+    {
+      "id": "envato-21769397",
+      "title": "Fuse React - NextJS & Vite Admin Dashboard Template",
+      "author": "withinpixels",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$29",
+      "rating": 4.7,
+      "sales": 11257,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard",
+        "business",
+        "dark mode",
+        "enterprise",
+        "jwt authentication"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/642369512/01_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/fuse-react-react-redux-material-design-admin-template/21769397",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: ReactJS, Columns: 1",
+      "scrapedAt": "2026-02-18T16:06:26.407379+00:00"
+    },
+    {
+      "id": "envato-8539472",
+      "title": "Porto Admin - Responsive HTML5 Template",
+      "author": "Okler",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$12",
+      "rating": 4.9,
+      "sales": 9872,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin dashboard",
+        "admin template",
+        "admin themes",
+        "bootstrap"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/367666383/Porto-Admin-HTML-Themeforest-Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/porto-admin-responsive-html5-template/8539472",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407386+00:00"
+    },
+    {
+      "id": "envato-20432158",
+      "title": "Pearl - Corporate Business WordPress Theme",
+      "author": "StylemixThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.7,
+      "sales": 9056,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "business",
+        "company",
+        "construction",
+        "consulting"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/689590327/00_pearl-preview-2024.__large_preview.png",
+      "url": "https://themeforest.net/item/pearl-true-multiniche-wordpress-theme/20432158",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Gravity Forms, Visual Composer, WooCommerce 8.x.x, W",
+      "scrapedAt": "2026-02-18T16:06:25.093522+00:00"
+    },
+    {
+      "id": "envato-23362980",
+      "title": "Saasland - Saas, Startup, Technology & IT Solutions WordPress Theme",
+      "author": "DroitThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.5,
+      "sales": 8804,
+      "tags": [
+        "wordpress/technology/software",
+        "agency",
+        "app landing",
+        "business",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/670444344/Saasland_Preview_Jan_2026.__large_preview.png",
+      "url": "https://themeforest.net/item/saasland-creative-wordpress-theme-for-saas-business/23362980",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, WooCommerce 9.x.x, WooCommerce ",
+      "scrapedAt": "2026-02-18T16:06:25.093530+00:00"
+    },
+    {
+      "id": "envato-19775390",
+      "title": "Avas - Elementor MultiPurpose WordPress Theme",
+      "author": "theme-x",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$29",
+      "rating": 4.9,
+      "sales": 8784,
+      "tags": [
+        "wordpress/corporate/business",
+        "ai technology",
+        "business",
+        "consulting",
+        "corporate",
+        "creative agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/660691818/preview_90/01_90.__large_preview.png",
+      "url": "https://themeforest.net/item/avas-multi-purpose-responsive-wordpress-theme/19775390",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, bbPress 2.5.x, Block Edito",
+      "scrapedAt": "2026-02-18T16:06:25.093537+00:00"
+    },
+    {
+      "id": "envato-32441701",
+      "title": "Sandbox - Modern & Multipurpose Bootstrap 5 Template",
+      "author": "elemis",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$19",
+      "rating": 4.9,
+      "sales": 7447,
+      "tags": [
+        "site-templates/corporate",
+        "gulp",
+        "minimal",
+        "modern",
+        "multipurpose",
+        "one page"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/433804548/themepreview/01_Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/sandbox-modern-multipurpose-bootstrap-5-template/32441701",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x",
+      "scrapedAt": "2026-02-18T16:06:26.407393+00:00"
+    },
+    {
+      "id": "envato-23714045",
+      "title": "Ekko - Multi-Purpose WordPress Theme with Page Builder",
+      "author": "Key-Design",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.8,
+      "sales": 7238,
+      "tags": [
+        "wordpress/corporate/business",
+        "auto service",
+        "beauty salon",
+        "catering",
+        "home decor",
+        "lawyer"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/268162873/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/ekko-multipurpose-wordpress-theme-with-page-builder/23714045",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: bbPress 2.6.x, bbPress 2.5.x, Events Calendar, Event",
+      "scrapedAt": "2026-02-18T16:06:25.093545+00:00"
+    },
+    {
+      "id": "envato-25892002",
+      "title": "Engitech - IT Solutions & Services WordPress Theme",
+      "author": "OceanThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.7,
+      "sales": 6387,
+      "tags": [
+        "wordpress/technology/software",
+        "agency",
+        "app",
+        "business",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/490433112/Engitech_Preview/01_Preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/engitech-it-solutions-services-wordpress-theme/25892002",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, WooCommerce 9.x.",
+      "scrapedAt": "2026-02-18T16:06:25.093553+00:00"
+    },
+    {
+      "id": "envato-21514338",
+      "title": "LeadEngine - Multi-Purpose WordPress Theme with Page Builder",
+      "author": "Key-Design",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.8,
+      "sales": 5542,
+      "tags": [
+        "wordpress/corporate/business",
+        "app landing page",
+        "beauty salon",
+        "business",
+        "computer repair",
+        "conference"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/257704632/01_preview1.__large_preview.jpg",
+      "url": "https://themeforest.net/item/leadengine-multipurpose-wordpress-theme-with-page-builder/21514338",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: bbPress 2.6.x, bbPress 2.5.x, Gravity Forms, WooComm",
+      "scrapedAt": "2026-02-18T16:06:25.093561+00:00"
+    },
+    {
+      "id": "envato-25376496",
+      "title": "Consultio - Consulting Corporate WordPress Theme",
+      "author": "Case-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.9,
+      "sales": 5394,
+      "tags": [
+        "wordpress/corporate/business",
+        "accountant",
+        "advertising",
+        "agency",
+        "business",
+        "company"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/641635056/01_Consultio-Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/consultio-consulting-business-wordpress/25376496",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, bbPress 2.5.x, Block ",
+      "scrapedAt": "2026-02-18T16:06:25.093569+00:00"
+    },
+    {
+      "id": "envato-23211123",
+      "title": "Exponent - Modern Multi-Purpose Business WordPress theme",
+      "author": "brandexponents",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.8,
+      "sales": 5382,
+      "tags": [
+        "wordpress/corporate/business",
+        "app",
+        "book",
+        "business",
+        "construction",
+        "consulting"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/660011069/01_Exponent.__large_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/exponent-modern-multipurpose-business-wordpress-theme/23211123",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Chrome, Edge, Compatible With: Facebook, Easy Digital Downloads, Events Calendar, Gravity",
+      "scrapedAt": "2026-02-18T16:06:25.093577+00:00"
+    },
+    {
+      "id": "envato-19778599",
+      "title": "TheSaaS - Responsive Bootstrap SaaS, Startup & WebApp Template",
+      "author": "TheThemeio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.9,
+      "sales": 4938,
+      "tags": [
+        "site-templates/technology/software",
+        "app",
+        "application",
+        "business",
+        "cloud",
+        "company"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/276880983/preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/thesaas-responsive-bootstrap-saas-software-webapp-template/19778599",
+      "description": "Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 4.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407401+00:00"
+    },
+    {
+      "id": "envato-23169879",
+      "title": "SuperProps - React  Next JS Landing Page Templates",
+      "author": "redqteam",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$24",
+      "rating": 4.8,
+      "sales": 4832,
+      "tags": [
+        "site-templates",
+        "agency landing template",
+        "crypto landing",
+        "Food delivery landing",
+        "hosting template",
+        "Interior landing"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/396727736/preview/00_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/react-next-modern-landing-page-template/23169879",
+      "description": "Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: ReactJS, Columns: 1",
+      "scrapedAt": "2026-02-18T16:06:26.407409+00:00"
+    },
+    {
+      "id": "envato-26318700",
+      "title": "Skote - React Admin & Dashboard Template + Sketch",
+      "author": "Themesbrand",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$22",
+      "rating": 5.0,
+      "sales": 4611,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "backend",
+        "bootstrap",
+        "chat",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/658611438/01_skote-React.__large_preview.jpg",
+      "url": "https://themeforest.net/item/skote-react-admin-dashboard-template/26318700",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: ReactJS, Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407417+00:00"
+    },
+    {
+      "id": "envato-24438577",
+      "title": "Landrick - Multipurpose App, Saas & Software Landing & Admin Dashboard Template (Bootstrap 5)",
+      "author": "ShreeThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$19",
+      "rating": 5.0,
+      "sales": 4206,
+      "tags": [
+        "site-templates/technology",
+        "admin",
+        "agency",
+        "application",
+        "bootstrap 5",
+        "business"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/642810554/01_landrick.__large_preview.png",
+      "url": "https://themeforest.net/item/landrick-responsive-saas-and-software-template/24438577",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407425+00:00"
+    },
+    {
+      "id": "envato-49061887",
+      "title": "Sierra - SaaS & Tech Startup Elementor WordPress Theme",
+      "author": "Key-Design",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.7,
+      "sales": 4109,
+      "tags": [
+        "wordpress/technology",
+        "agency",
+        "app",
+        "clean",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/631053363/01_sierra.__large_preview.png",
+      "url": "https://themeforest.net/item/sierra-saas-tech-startup-elementor-wordpress-theme/49061887",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, Events Calendar",
+      "scrapedAt": "2026-02-18T16:06:25.093585+00:00"
+    },
+    {
+      "id": "envato-22251705",
+      "title": "Foton - Software and App Landing Page WordPress Theme",
+      "author": "Mikado-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.1,
+      "sales": 4106,
+      "tags": [
+        "wordpress/technology/software",
+        "app",
+        "app landing page",
+        "app showcase",
+        "cryptocurrency",
+        "digital agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/549382499/00_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/foton-a-multiconcept-software-and-app-landing-theme/22251705",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WPBakery Page Builder, WPML,",
+      "scrapedAt": "2026-02-18T16:06:25.093593+00:00"
+    },
+    {
+      "id": "envato-25780042",
+      "title": "DashLite - Bootstrap Responsive Admin Dashboard Template",
+      "author": "softnio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$24",
+      "rating": 4.9,
+      "sales": 3726,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard",
+        "admin panel",
+        "admin template",
+        "admin themes",
+        "ai content copywriting"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/636620349/01_screenshot.__large_preview.png",
+      "url": "https://themeforest.net/item/dashlite-bootstrap-responsive-admin-dashboard-template/25780042",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407433+00:00"
+    },
+    {
+      "id": "envato-21278677",
+      "title": "Bulkit - Saas Landing Pages",
+      "author": "cssninjaStudio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$24",
+      "rating": 4.8,
+      "sales": 3703,
+      "tags": [
+        "site-templates/technology/software",
+        "agency",
+        "bootstrap",
+        "bulma",
+        "business",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/489197480/bulkit-preview.__large_preview.png",
+      "url": "https://themeforest.net/item/bulkit-agency-startup-and-saas-template/21278677",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407440+00:00"
+    },
+    {
+      "id": "envato-19300403",
+      "title": "Able Pro | Bootstrap, Tailwind, React, Nextjs, Angular, Vue, Asp, Laravel Admin Dashboard Template",
+      "author": "phoenixcoded",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$35",
+      "rating": 4.7,
+      "sales": 3584,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard template",
+        "admin themes",
+        "bootstrap 5",
+        "chat",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/515568549/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/able-pro-responsive-bootstrap-4-admin-template/19300403",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Chrome, Edge, Compatible With: Angular 14.x.x, ReactJS, Bootstrap 5.x, TypeScript, Columns: 1",
+      "scrapedAt": "2026-02-18T16:06:26.407448+00:00"
+    },
+    {
+      "id": "envato-22544383",
+      "title": "Gogo - Vite React Admin Dashboard (React 19)",
+      "author": "ColoredStrategies",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$28",
+      "rating": 4.3,
+      "sales": 3560,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin panel",
+        "clean",
+        "dashboard",
+        "flat"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729869973/01_gogo-vite-outlined-preview.__large_preview.png",
+      "url": "https://themeforest.net/item/gogo-react-bootstrap-4-admin-dashboard/22544383",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: ReactJS, TypeScript, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407456+00:00"
+    },
+    {
+      "id": "envato-18747445",
+      "title": "MF - Multipurpose WordPress Theme",
+      "author": "mfdsgn",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$60",
+      "rating": 4.9,
+      "sales": 3558,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "boxed",
+        "business",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/395202594/01_preview.__large_preview.jpeg",
+      "url": "https://themeforest.net/item/mf-responsive-business-theme/18747445",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: bbPress 2.6.x, Elementor, Elementor Pro, Layers WP, WooCom",
+      "scrapedAt": "2026-02-18T16:06:22.548004+00:00"
+    },
+    {
+      "id": "envato-25548061",
+      "title": "Skote - HTML & Laravel 12 Admin Dashboard Template + Sketch",
+      "author": "Themesbrand",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$23",
+      "rating": 4.8,
+      "sales": 3451,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin dashboard",
+        "admin template",
+        "bootstrap",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/634366630/01_skote.__large_preview.jpg",
+      "url": "https://themeforest.net/item/skote-html-laravel-admin-dashboard-template/25548061",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407464+00:00"
+    },
+    {
+      "id": "envato-42355059",
+      "title": "HexaDash – Multipurpose Admin Dashboard Template (Svelte, React, Vue, Angular, Laravel & More)",
+      "author": "SovWare",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$12",
+      "rating": 4.0,
+      "sales": 3388,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard",
+        "admin templates",
+        "angular admin templates",
+        "html admin templates",
+        "Laravel Admin Templates"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/656977601/Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/hexadash-svelte-multipurpose-admin-dashboard-template/42355059",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: AngularJS, ReactJS, Bootstrap 5.x, TypeScript, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407472+00:00"
+    },
+    {
+      "id": "envato-53547630",
+      "title": "Arolax | Creative Digital Agency Theme",
+      "author": "crowdyTheme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$35",
+      "rating": 5.0,
+      "sales": 3284,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "Agency WordPress Theme",
+        "creative agency theme",
+        "creative portfolio",
+        "digital agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/715394552/01_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/arolax-creative-digital-agency-theme/53547630",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, Events Calendar, ",
+      "scrapedAt": "2026-02-18T16:06:25.093601+00:00"
+    },
+    {
+      "id": "envato-22064051",
+      "title": "Nanosoft - WP Theme for IT Solutions and Services Company",
+      "author": "linethemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.5,
+      "sales": 3254,
+      "tags": [
+        "wordpress/technology/software",
+        "app landing",
+        "bitcoin",
+        "bitcoin theme",
+        "cryptocurrency",
+        "kickstarter"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/263147885/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/nanosoft-wp-theme-for-it-solutions-and-services-company/22064051",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: WooCommerce 6.x.x, Software Version: WordPress 6.8.x",
+      "scrapedAt": "2026-02-18T16:06:25.093609+00:00"
+    },
+    {
+      "id": "envato-22358661",
+      "title": "Appilo - App Landing Page WordPress Theme",
+      "author": "themexriver",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 4.5,
+      "sales": 3208,
+      "tags": [
+        "wordpress/technology",
+        "app",
+        "app landing",
+        "app landing page",
+        "app showcase",
+        "app store"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/425454404/preview.__large_preview.png",
+      "url": "https://themeforest.net/item/appilo-app-landing-wordpress-theme/22358661",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 6.x.x, WooCommerce 5.x",
+      "scrapedAt": "2026-02-18T16:06:25.093617+00:00"
+    },
+    {
+      "id": "envato-28766239",
+      "title": "Nifty - Business Consulting WordPress Theme",
+      "author": "BoldThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.3,
+      "sales": 3198,
+      "tags": [
+        "wordpress/corporate/business",
+        "accountant",
+        "advertising",
+        "agency",
+        "business",
+        "company"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/313285926/01_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/nifty-business-consulting-wordpress-theme/28766239",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommerce 7",
+      "scrapedAt": "2026-02-18T16:06:25.093625+00:00"
+    },
+    {
+      "id": "envato-52246267",
+      "title": "Neuros | AI Agency & Technology WordPress Theme",
+      "author": "Artureanec",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$48",
+      "rating": 4.4,
+      "sales": 3194,
+      "tags": [
+        "wordpress/technology",
+        "ai",
+        "ai bots",
+        "AI chatgpt",
+        "ai generator",
+        "artificial intelligence"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/732004189/ThemePreview/00_main_preview_4.__large_preview.png",
+      "url": "https://themeforest.net/item/neuros-ai-agency-technology-wordpress-theme/52246267",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommerce 7.x.x, Woo",
+      "scrapedAt": "2026-02-18T16:06:25.093633+00:00"
+    },
+    {
+      "id": "envato-21093075",
+      "title": "Consultix - Business Consulting WordPress Theme",
+      "author": "radiantthemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.7,
+      "sales": 3186,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "blog",
+        "business",
+        "company",
+        "construction"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/409384754/01_Consultix.__large_preview.jpg",
+      "url": "https://themeforest.net/item/consultix-business-multipurpose-wordpress-theme/21093075",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 7.x.x, WooCommerce 6.x.x, WPBakery ",
+      "scrapedAt": "2026-02-18T16:06:25.093640+00:00"
+    },
+    {
+      "id": "envato-9533576",
+      "title": "imEvent - Conference Meetup Christmas New Year Halloween Event WordPress Theme",
+      "author": "Jthemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.6,
+      "sales": 3183,
+      "tags": [
+        "wordpress/corporate/marketing",
+        "business",
+        "christmas",
+        "conference",
+        "event",
+        "exhibition"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/656587816/01_im_event_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/im-event-event-conference-wordpress-theme/9533576",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE9, IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, WooCommerce 9.x.x, WooCom",
+      "scrapedAt": "2026-02-18T16:06:25.093648+00:00"
+    },
+    {
+      "id": "envato-21490319",
+      "title": "Mono - Multi-Purpose HTML5 Template",
+      "author": "FlaTheme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$16",
+      "rating": 5.0,
+      "sales": 3047,
+      "tags": [
+        "site-templates/corporate/business",
+        "agency",
+        "business",
+        "consulting",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/658200239/mono-preview.__large_preview.png",
+      "url": "https://themeforest.net/item/mono-creative-multipurpose-template/21490319",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407480+00:00"
+    },
+    {
+      "id": "envato-31941062",
+      "title": "Restly - IT Solutions & Technology WordPress Theme",
+      "author": "themepul",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$30",
+      "rating": 5.0,
+      "sales": 2875,
+      "tags": [
+        "wordpress/technology",
+        "agency theme",
+        "business",
+        "corporate",
+        "creative",
+        "digital"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/645168347/Preview-01.__large_preview.jpg",
+      "url": "https://themeforest.net/item/restly-it-solutions-technology-wordpress-theme/31941062",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, Jetpack, ",
+      "scrapedAt": "2026-02-18T16:06:25.093656+00:00"
+    },
+    {
+      "id": "envato-43074408",
+      "title": "Axtra | Digital Agency Creative Portfolio Theme",
+      "author": "crowdyTheme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$19",
+      "rating": 4.7,
+      "sales": 2790,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "agency website template",
+        "agency wordpress theme",
+        "Best Agency wordpress theme",
+        "creative agency wordpress theme"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/658745322/01_previewaxtra.__large_preview.png",
+      "url": "https://themeforest.net/item/axtra-digital-agency-creative-portfolio-theme/43074408",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Chrome, Edge, Compatible With: Elementor, Elementor Pro, Events Calendar, Events Cal",
+      "scrapedAt": "2026-02-18T16:06:25.093664+00:00"
+    },
+    {
+      "id": "envato-9095879",
+      "title": "Pursuit - A Flexible App & Cloud Software Theme",
+      "author": "Themovation",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.8,
+      "sales": 2777,
+      "tags": [
+        "wordpress/technology/software",
+        "app",
+        "bitcoin",
+        "cryptocurrency",
+        "defi",
+        "elementor"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/561122291/PreviewImage-2021.__large_preview.jpg",
+      "url": "https://themeforest.net/item/pursuit-flexible-app-cloud-software-theme/9095879",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, Events Calendar, Events Calendar Pro, WooCommerce 9.x.x, ",
+      "scrapedAt": "2026-02-18T16:06:25.093671+00:00"
+    },
+    {
+      "id": "envato-22712080",
+      "title": "SaasLand - Creative HTML5 Template for Saas, Startup & Agency",
+      "author": "DroitThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$19",
+      "rating": 4.6,
+      "sales": 2773,
+      "tags": [
+        "site-templates/technology/software",
+        "app",
+        "app landing page",
+        "app showcase template",
+        "application services",
+        "gradient color"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/431428345/Saasland_HTML_Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/saasland-creative-html5-template-for-saas-startup-agency/22712080",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Bootstrap 4.x",
+      "scrapedAt": "2026-02-18T16:06:26.407487+00:00"
+    },
+    {
+      "id": "envato-29621951",
+      "title": "Braintech - Technology & IT Solutions WordPress Theme",
+      "author": "rs-theme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.8,
+      "sales": 2727,
+      "tags": [
+        "wordpress/technology",
+        "agency",
+        "business consulting",
+        "company website",
+        "computer repair",
+        "data analysis"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/701202399/01_screen.__large_preview.png",
+      "url": "https://themeforest.net/item/braintech-technology-it-solutions-wordpress-theme/29621951",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, WooCommerc",
+      "scrapedAt": "2026-02-18T16:06:25.093679+00:00"
+    },
+    {
+      "id": "envato-10618851",
+      "title": "Blackfyre - Create Your Own Gaming Community",
+      "author": "Skywarrior",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$64",
+      "rating": 4.2,
+      "sales": 2711,
+      "tags": [
+        "wordpress/blog-magazine",
+        "buddypress",
+        "community",
+        "cool",
+        "dark",
+        "editorial"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/124748050/preview_wp.__large_preview.jpg",
+      "url": "https://themeforest.net/item/blackfyre-create-your-own-gaming-community/10618851",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Compatible With: bbPress 2.6.x, BuddyPress 9.x.x, WooCommerce 6.x.x, ",
+      "scrapedAt": "2026-02-18T16:06:25.093686+00:00"
+    },
+    {
+      "id": "envato-24219257",
+      "title": "BLO - Corporate Business WordPress Theme",
+      "author": "XpeedStudio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.9,
+      "sales": 2623,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app landing",
+        "bitcoin",
+        "business",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/398530085/preview/00_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/blo-corporate-business-wordpress-theme/24219257",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WooComme",
+      "scrapedAt": "2026-02-18T16:06:22.548023+00:00"
+    },
+    {
+      "id": "envato-31053035",
+      "title": "Vuero - Vuejs, Nuxt, Electron - Admin and Webapp UI Kit",
+      "author": "cssninjaStudio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.8,
+      "sales": 2395,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "app",
+        "business",
+        "clean",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/625603110/vuero-preview.__large_preview.png",
+      "url": "https://themeforest.net/item/vuero-vuejs-3-admin-and-webapp-ui-kit/31053035",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407494+00:00"
+    },
+    {
+      "id": "envato-38247812",
+      "title": "Lineone - Tailwind CSS  Admin Template, HTML + Laravel",
+      "author": "PiniaStudio",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$16",
+      "rating": 4.8,
+      "sales": 2304,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin template",
+        "alpine js",
+        "chat",
+        "crm"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/409662108/01_banner.__large_preview.jpg",
+      "url": "https://themeforest.net/item/lineone-multipurpose-admin-and-webapp-ui-kit-based-on-tailwind-css/38247812",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Chrome, Edge, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407501+00:00"
+    },
+    {
+      "id": "envato-23101970",
+      "title": "Gull -  Laravel  Admin Dashboard Template",
+      "author": "ui-lib",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.8,
+      "sales": 2185,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "angular admin dashboard",
+        "bootstrap 4",
+        "bootstrap admin",
+        "bootstrap admin dashboard"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/657621426/01_Gull-laravel.__large_preview.jpg",
+      "url": "https://themeforest.net/item/gull-bootstrap-laravel-admin-dashboard-template/23101970",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Bootstrap 4.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407509+00:00"
+    },
+    {
+      "id": "envato-23160320",
+      "title": "Gogo - Nextjs React Admin Dashboard (React 19)",
+      "author": "ColoredStrategies",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$28",
+      "rating": 4.8,
+      "sales": 2080,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin panel",
+        "clean",
+        "dashboard",
+        "flat"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729869954/01_gogo-next-outlined-preview.__large_preview.png",
+      "url": "https://themeforest.net/item/piaf-vuejs-admin-dashboard/23160320",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: ReactJS, TypeScript, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407516+00:00"
+    },
+    {
+      "id": "envato-24906742",
+      "title": "Mitech -  IT Solutions And Services Company HTML Template",
+      "author": "BootXperts",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$17",
+      "rating": 4.6,
+      "sales": 2056,
+      "tags": [
+        "site-templates/technology/software",
+        "clean",
+        "creative agency",
+        "digital agency",
+        "digital business",
+        "information technology"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/378730937/01_mitech_preview_html.__large_preview.jpg",
+      "url": "https://themeforest.net/item/mitech-it-solutions-html-template/24906742",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407527+00:00"
+    },
+    {
+      "id": "envato-21153150",
+      "title": "SmartHR - Business HR & Project Management Admin Dashboard Template",
+      "author": "dreamstechnologies",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$35",
+      "rating": 4.6,
+      "sales": 2047,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin dashboard",
+        "crm dashboard",
+        "employee management",
+        "hr management",
+        "payroll management"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/660753024/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/21153150",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Angular 14.x.x, Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407533+00:00"
+    },
+    {
+      "id": "envato-22397137",
+      "title": "DashCore - SaaS & Software Bootstrap 5 HTML Template",
+      "author": "5studiosnet",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$19",
+      "rating": 4.7,
+      "sales": 2008,
+      "tags": [
+        "site-templates/technology/software",
+        "app",
+        "app landing page",
+        "app showcase template",
+        "application services",
+        "babel"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/486415529/01_Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/dashcore-saas-startup-software-template/22397137",
+      "description": "High Resolution: No, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407540+00:00"
+    },
+    {
+      "id": "envato-38834413",
+      "title": "DreamsPOS - Retail & Restaurant POS, Inventory & Billing Admin Dashboard (React, Vue, Angular, Html)",
+      "author": "dreamstechnologies",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$35",
+      "rating": 4.9,
+      "sales": 1975,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin template",
+        "barcode system",
+        "billing software",
+        "cashier system",
+        "inventory saas"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/661843422/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/dreamspos-pos-inventory-management-admin-dashboard-template/38834413",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Angular 14.x.x, ReactJS, Bootstrap 5.x, TypeScript, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407547+00:00"
+    },
+    {
+      "id": "envato-25911071",
+      "title": "Skote - Angular 21 Admin & Dashboard Template + Sketch",
+      "author": "Themesbrand",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$22",
+      "rating": 4.6,
+      "sales": 1967,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "admin dashboard",
+        "admin template",
+        "angular",
+        "angular 16"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/660901525/01_skote-Angular%20(1).__large_preview.png",
+      "url": "https://themeforest.net/item/skote-angular-9-admin-dashboard-template/25911071",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Angular 14.x.x, AngularJS, Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407554+00:00"
+    },
+    {
+      "id": "envato-37847929",
+      "title": "Techwind - Tailwind CSS Multipurpose App, Saas & Software Landing & Admin Dashboard Template",
+      "author": "ShreeThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$15",
+      "rating": 4.9,
+      "sales": 1920,
+      "tags": [
+        "site-templates/technology",
+        "admin",
+        "agency",
+        "app",
+        "business",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/663573406/01_techwind.__large_preview.png",
+      "url": "https://themeforest.net/item/techwind-tailwind-css-multipurpose-landing-template/37847929",
+      "description": "High Resolution: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407561+00:00"
+    },
+    {
+      "id": "envato-25444550",
+      "title": "Skote - Vuejs + Laravel Admin & Dashboard Template + Sketch",
+      "author": "Themesbrand",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$22",
+      "rating": 4.7,
+      "sales": 1920,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "backend",
+        "bootstrap",
+        "clean",
+        "crm"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/553295656/01_Skote-Vuejs.__large_preview.png",
+      "url": "https://themeforest.net/item/skote-vuejs-admin-dashboard-template/25444550",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407569+00:00"
+    },
+    {
+      "id": "envato-34000752",
+      "title": "HUD - Bootstrap 5 Admin Template",
+      "author": "SeanTheme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.8,
+      "sales": 1895,
+      "tags": [
+        "site-templates/admin-templates",
+        "admin",
+        "bootstrap5",
+        "clean design",
+        "dark mode",
+        "futuristic"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/642720001/01_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/hud-bootstrap-5-admin-template/34000752",
+      "description": "High Resolution: Yes, Compatible Browsers: Firefox, Safari, Chrome, Edge, Compatible With: Bootstrap 5.x, Columns: 4+",
+      "scrapedAt": "2026-02-18T16:06:26.407576+00:00"
+    },
+    {
+      "id": "envato-37940677",
+      "title": "Bili - Creative Agency WordPress Theme",
+      "author": "WebGeniusLab",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 4.5,
+      "sales": 1804,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729454736/preview_light/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/bili-creative-agency-wordpress-theme/37940677",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, WooCommerce 9.x.x, WooCommerce 8",
+      "scrapedAt": "2026-02-18T16:06:22.548032+00:00"
+    },
+    {
+      "id": "envato-23373445",
+      "title": "Softlab - Startup and App WordPress Theme",
+      "author": "WebGeniusLab",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.3,
+      "sales": 809,
+      "tags": [
+        "wordpress/technology/software",
+        "agency",
+        "application",
+        "blog",
+        "bussines",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729782596/preview-59/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/softlab-startup-and-app-wordpress-theme/23373445",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommerce 7.x.x, ",
+      "scrapedAt": "2026-02-18T16:06:22.548040+00:00"
+    },
+    {
+      "id": "envato-46468989",
+      "title": "Gaaga - Creative Agency Theme",
+      "author": "venusweb",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 4.5,
+      "sales": 613,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/455008278/Preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/gaaga-business-consulting-wordpress-theme/46468989",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommer",
+      "scrapedAt": "2026-02-18T16:06:22.548047+00:00"
+    },
+    {
+      "id": "envato-54328916",
+      "title": "Cosion - Business Consulting WordPress Theme",
+      "author": "ThemeOri",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$28",
+      "rating": 5.0,
+      "sales": 587,
+      "tags": [
+        "wordpress/corporate/business",
+        "advisor",
+        "agency",
+        "broker",
+        "business",
+        "company"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/657258163/00_Live%20Preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/cosion-business-consulting-wordpress-theme/54328916",
+      "description": "High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, WooCommerce 9.x.x, WooCommerce 8.x.",
+      "scrapedAt": "2026-02-18T16:06:22.548055+00:00"
+    },
+    {
+      "id": "envato-33957941",
+      "title": "Technum | Digital Agency & Web Design WordPress Theme",
+      "author": "Artureanec",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 5.0,
+      "sales": 279,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "business",
+        "corporate",
+        "creative",
+        "digital agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729865363/ThemePreview/00_main_preview_5.__large_preview.jpg",
+      "url": "https://themeforest.net/item/technum-it-solutions-services-wordpress-theme/33957941",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, WooCommerce 9.x.x, WooCo",
+      "scrapedAt": "2026-02-18T16:06:22.548065+00:00"
+    },
+    {
+      "id": "envato-52228761",
+      "title": "Odefy - Creative Multipurpose WordPress Theme",
+      "author": "WebGeniusLab",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$69",
+      "rating": 4.3,
+      "sales": 228,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "animation",
+        "business",
+        "creative",
+        "crypto"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/729515261/preview/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/odefy-creative-multipurpose-wordpress-theme/52228761",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, Software ",
+      "scrapedAt": "2026-02-18T16:06:22.548073+00:00"
+    },
+    {
+      "id": "envato-54201136",
+      "title": "Aixor Agency WordPress Theme",
+      "author": "WPRiver",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 4.0,
+      "sales": 217,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/517640168/preview/Cover.__large_preview.png",
+      "url": "https://themeforest.net/item/aixor-creative-agency/54201136",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Bootstrap 5.x, Bootstrap ",
+      "scrapedAt": "2026-02-18T16:06:22.548081+00:00"
+    },
+    {
+      "id": "envato-23934824",
+      "title": "Gunter - IT Agency & SEO Marketing Portfolio WordPress Theme",
+      "author": "EnvyTheme",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 4.4,
+      "sales": 216,
+      "tags": [
+        "wordpress/corporate",
+        "agency",
+        "business",
+        "corporate",
+        "creative",
+        "digital agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/641939847/01_gunter_preview_large.__large_preview.jpg",
+      "url": "https://themeforest.net/item/gunter-itmarketing-agency-wordpress-theme/23934824",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, WooCommerc",
+      "scrapedAt": "2026-02-18T16:06:22.548088+00:00"
+    },
+    {
+      "id": "envato-39354794",
+      "title": "PowerNode - Multipurpose WordPress Theme",
+      "author": "TemplateOption",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$29",
+      "rating": 4.4,
+      "sales": 182,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "architecture",
+        "blog",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/408625433/preview_images/01_preview_image.__large_preview.jpg",
+      "url": "https://themeforest.net/item/powernode-multipurpose-wordpress-theme/39354794",
+      "description": "Gutenberg Optimized: No, High Resolution: No, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, Gravity Forms, Jetpack, ",
+      "scrapedAt": "2026-02-18T16:06:22.548095+00:00"
+    },
+    {
+      "id": "envato-39340290",
+      "title": "Wade - Business One Page WordPress Theme",
+      "author": "Mikado-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$85",
+      "rating": 4.2,
+      "sales": 170,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app landing page",
+        "business",
+        "company",
+        "consulting"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/404483063/00_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/wade-business-one-page-theme/39340290",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WooComme",
+      "scrapedAt": "2026-02-18T16:06:22.548103+00:00"
+    },
+    {
+      "id": "envato-47603757",
+      "title": "Exand - Creative Agency WordPress Theme",
+      "author": "Bravis-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 5.0,
+      "sales": 138,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "agency portfolio",
+        "app",
+        "app development",
+        "application"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/476823423/01_exand_preview.__large_preview.png",
+      "url": "https://themeforest.net/item/exand-creative-agency-wordpress-theme/47603757",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, bbPress 2.5.x, Block ",
+      "scrapedAt": "2026-02-18T16:06:22.548110+00:00"
+    },
+    {
+      "id": "envato-52108181",
+      "title": "GOATs - Business Agency WordPress Theme",
+      "author": "designthemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 2.0,
+      "sales": 126,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/508883968/Preview%20-%20Goat%20RTL%20Ready.__large_preview.png",
+      "url": "https://themeforest.net/item/goat-business-agency-wordpress-theme/52108181",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, Events Calendar, Events Calendar",
+      "scrapedAt": "2026-02-18T16:06:22.548117+00:00"
+    },
+    {
+      "id": "envato-24259424",
+      "title": "Onova - IT Solutions & Services WordPress Theme",
+      "author": "Case-Themes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$89",
+      "rating": 4.2,
+      "sales": 126,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "business",
+        "corporate",
+        "creative",
+        "it services"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/269009276/preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/onova-it-solutions-and-services-company-wordpress-theme/24259424",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Facebook, bbPress 2.6.x, bbPress 2.5.x, Block Editor",
+      "scrapedAt": "2026-02-18T16:06:22.548124+00:00"
+    },
+    {
+      "id": "envato-54167252",
+      "title": "Concho - Business Agency WordPress Theme",
+      "author": "BuddhaThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 3.0,
+      "sales": 113,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/522163825/Preview%20_%20Concho%20RTL.__large_preview.png",
+      "url": "https://themeforest.net/item/concho-business-agency-wordpress-theme/54167252",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, Events Calendar,",
+      "scrapedAt": "2026-02-18T16:06:22.548132+00:00"
+    },
+    {
+      "id": "envato-41977584",
+      "title": "Xoha - Startup Consulting WordPress",
+      "author": "venusweb",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 0.0,
+      "sales": 75,
+      "tags": [
+        "wordpress/technology/software",
+        "agency",
+        "business",
+        "consulting",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/449501609/zohapreview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/xoha-it-services-wordpress-theme/41977584",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, Events Calendar Pro, WooCommerce",
+      "scrapedAt": "2026-02-18T16:06:22.548139+00:00"
+    },
+    {
+      "id": "envato-38972546",
+      "title": "Binario - Digital Solutions WordPress Theme",
+      "author": "Opal_WP",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$29",
+      "rating": 0.0,
+      "sales": 46,
+      "tags": [
+        "wordpress/corporate",
+        "agency",
+        "business",
+        "clean",
+        "corporate",
+        "creative"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/404073037/preview/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/binario-digital-solutions-wordpress-theme/38972546",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x.x, WooCommer",
+      "scrapedAt": "2026-02-18T16:06:22.548146+00:00"
+    },
+    {
+      "id": "envato-25899459",
+      "title": "Startus - Multipurpose Business WordPress Theme",
+      "author": "CMSSuperHeroes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 0.0,
+      "sales": 46,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app landing",
+        "bitcoin",
+        "business",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/293537187/00_Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/startus-multipurpose-business-wordpress-theme/25899459",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, WooCommerce 9.x.x, WooCo",
+      "scrapedAt": "2026-02-18T16:06:22.548153+00:00"
+    },
+    {
+      "id": "envato-31144280",
+      "title": "Prologue - Creative Multipurpose WordPress Theme",
+      "author": "themewar",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$26",
+      "rating": 0.0,
+      "sales": 39,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "app",
+        "blog",
+        "construction",
+        "consulting"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/328657145/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/prologue-creative-multipurpose-wordpress-theme/31144280",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Elementor Pro, WooCommerce 8.x.x, WooCommerce 7",
+      "scrapedAt": "2026-02-18T16:06:22.548160+00:00"
+    },
+    {
+      "id": "envato-33405797",
+      "title": "Dotox - Multipurpose Creative Agency WordPess Theme",
+      "author": "SmartDataSoft",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$29",
+      "rating": 0.0,
+      "sales": 29,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "business",
+        "consulting",
+        "creative",
+        "marketing"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/351570587/dotox-banner-590.__large_preview.jpg",
+      "url": "https://themeforest.net/item/dotox-multipurpose-creative-agency-wordpess-theme/33405797",
+      "description": "Gutenberg Optimized: No, High Resolution: No, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, Software Version: WordPress 6.7.x, WordPress 6.6",
+      "scrapedAt": "2026-02-18T16:06:22.548167+00:00"
+    },
+    {
+      "id": "envato-55580481",
+      "title": "Cantia - Business Consulting WordPress Theme",
+      "author": "themexriver",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 0.0,
+      "sales": 29,
+      "tags": [
+        "wordpress/corporate/business",
+        "advisor",
+        "agency",
+        "broker",
+        "business",
+        "company"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/546179509/Cantia%20-%20Business%20Consulting%20Preview%20Page.__large_preview.png",
+      "url": "https://themeforest.net/item/cantia-business-consulting-wordpress-theme/55580481",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, WooCommerce 9.x.x, WooCo",
+      "scrapedAt": "2026-02-18T16:06:22.548174+00:00"
+    },
+    {
+      "id": "envato-29912525",
+      "title": "Mori - Business Corporate WordPress Theme",
+      "author": "CMSSuperHeroes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 0.0,
+      "sales": 27,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app landing",
+        "bitcoin",
+        "business",
+        "corporate"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/317326831/Mori_Preview.__large_preview.png",
+      "url": "https://themeforest.net/item/mori-business-corporate-wordpress-theme/29912525",
+      "description": "Gutenberg Optimized: Yes, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Elementor, WooCommerce 9.x.x, WooCommerce 8.x",
+      "scrapedAt": "2026-02-18T16:06:22.548182+00:00"
+    },
+    {
+      "id": "envato-56205390",
+      "title": "Mr.Black - Business Agency WordPress Theme",
+      "author": "BuddhaThemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 0.0,
+      "sales": 24,
+      "tags": [
+        "wordpress/corporate/business",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/614730528/Preview%20-%20mrblack.__large_preview.jpg",
+      "url": "https://themeforest.net/item/mrblack-business-agency-wordpress-theme/56205390",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Events Calendar, WooCommerce 9.",
+      "scrapedAt": "2026-02-18T16:06:22.548189+00:00"
+    },
+    {
+      "id": "envato-45381653",
+      "title": "Crotive - Agency WordPress Theme",
+      "author": "ThemeMascot",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 0.0,
+      "sales": 19,
+      "tags": [
+        "wordpress/creative/portfolio",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/447695338/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/crotive-creative-agency-wordpress-theme/45381653",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: bbPress 2.6.x, BuddyPress 10.x.x, Contact Form 7, Ea",
+      "scrapedAt": "2026-02-18T16:06:22.548196+00:00"
+    },
+    {
+      "id": "envato-45857567",
+      "title": "SmartSoft - Technology IT Solutions & Services WordPress Theme",
+      "author": "jwsthemes",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$59",
+      "rating": 0.0,
+      "sales": 15,
+      "tags": [
+        "wordpress/technology",
+        "agency",
+        "business",
+        "corporate",
+        "creative",
+        "IT services"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/450574061/preview/preview.__large_preview.png",
+      "url": "https://themeforest.net/item/smartsoft-technology-it-solutions-services-wordpress-theme/45857567",
+      "description": "Gutenberg Optimized: Yes, High Resolution: No, Widget Ready: Yes, Compatible Browsers: IE10, IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, Elementor Pro, WooC",
+      "scrapedAt": "2026-02-18T16:06:22.548202+00:00"
+    },
+    {
+      "id": "envato-55318408",
+      "title": "Onnat  – Digital Agency & Creative WordPress Theme",
+      "author": "kinforce",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$39",
+      "rating": 0.0,
+      "sales": 15,
+      "tags": [
+        "wordpress/creative",
+        "agency",
+        "company",
+        "creative",
+        "digital",
+        "digital agency"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/543629392/00_Preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/onnat-digital-agency-creative-wordpress-theme/55318408",
+      "description": "Gutenberg Optimized: No, High Resolution: No, Widget Ready: Yes, Compatible Browsers: Firefox, Safari, Opera, Chrome, Edge, Compatible With: Contact Form 7, Elementor, WooCommerce 9.x.x, WooCommerce 8",
+      "scrapedAt": "2026-02-18T16:06:22.548209+00:00"
+    },
+    {
+      "id": "envato-44959853",
+      "title": "Gulu - Agency WordPress Theme",
+      "author": "ThemeMascot",
+      "platform": "ThemeForest",
+      "category": "WordPress",
+      "price": "$49",
+      "rating": 0.0,
+      "sales": 9,
+      "tags": [
+        "wordpress/creative/portfolio",
+        "agency",
+        "app",
+        "application",
+        "business",
+        "clean"
+      ],
+      "thumbnail": "https://previews.customer.envatousercontent.com/files/444494812/01_preview.__large_preview.jpg",
+      "url": "https://themeforest.net/item/gulu-creative-agency-wordpress-theme/44959853",
+      "description": "Gutenberg Optimized: No, High Resolution: Yes, Widget Ready: Yes, Compatible Browsers: IE11, Firefox, Safari, Opera, Chrome, Edge, Compatible With: bbPress 2.6.x, BuddyPress 10.x.x, Contact Form 7, Ea",
+      "scrapedAt": "2026-02-18T16:06:22.548216+00:00"
+    },
+    {
+      "id": "webflow-boldway-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6980d8bbd6e361f8d28c58c4_boldway.webp",
+      "url": "https://webflow.com/templates/html/boldway-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356164+00:00"
+    },
+    {
+      "id": "webflow-climbr-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697d1e9c52bf926f7a74261e_eee59858-a98a-4ece-a3ed-f8a3a306db45.webp",
+      "url": "https://webflow.com/templates/html/climbr-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356285+00:00"
+    },
+    {
+      "id": "webflow-cc-club-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697d0a3a4f252776e34188c3_CCClub.webp",
+      "url": "https://webflow.com/templates/html/cc-club-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356386+00:00"
+    },
+    {
+      "id": "webflow-zenkai-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697bbbce6c453cf36f469dbc_48a186ca-933e-4f1c-bc01-5735bbb8f6b4.webp",
+      "url": "https://webflow.com/templates/html/zenkai-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356483+00:00"
+    },
+    {
+      "id": "webflow-aerialix-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6978f2af85539b7fd25bebff_9a6ab1e6-ea83-4043-a04b-890148818b49.webp",
+      "url": "https://webflow.com/templates/html/aerialix-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356584+00:00"
+    },
+    {
+      "id": "webflow-zyforia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6978fea5212cb37bb0897708_e82fea86-e2e4-4a3b-9e35-3693113f9af2.webp",
+      "url": "https://webflow.com/templates/html/zyforia-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356683+00:00"
+    },
+    {
+      "id": "webflow-lumyn-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/698366fd9235fe58c6da9473_1770219178576_593944918_LAnding_page_hero_section.webp",
+      "url": "https://webflow.com/templates/html/lumyn-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356787+00:00"
+    },
+    {
+      "id": "webflow-scalient-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6976aedd83eb03815e87a56d_1769160724318_718050574_Final.webp",
+      "url": "https://webflow.com/templates/html/scalient-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356889+00:00"
+    },
+    {
+      "id": "webflow-playza-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6976adbd4e0706bdb87b5b5b_62640633-f208-411b-b1d3-ff1e502b91dd.webp",
+      "url": "https://webflow.com/templates/html/playza-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.356992+00:00"
+    },
+    {
+      "id": "webflow-algarve-studio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6977d4c3055ea13c23aedb0c_1769460893493_953676346_ThumbMain.webp",
+      "url": "https://webflow.com/templates/html/algarve-studio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357093+00:00"
+    },
+    {
+      "id": "webflow-lyrias-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6972953ef4f4d0a7ce9b3894_06a36dbd-b984-468a-80ac-1d45d9df4895.webp",
+      "url": "https://webflow.com/templates/html/lyrias-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357193+00:00"
+    },
+    {
+      "id": "webflow-eduraflow-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696da969b88b20fa22979a38_fffa120e-3ded-4e6f-93a1-b3616ec17437.webp",
+      "url": "https://webflow.com/templates/html/eduraflow-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357293+00:00"
+    },
+    {
+      "id": "webflow-nerova-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696d9454b5f3f1058f260638_8914eb06-a09e-4880-9a78-afa11b10209b.webp",
+      "url": "https://webflow.com/templates/html/nerova-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357393+00:00"
+    },
+    {
+      "id": "webflow-growthway-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696c1e6057e8b0627914ce62_bd4ea6f2-8e76-414f-accf-af52efd73cca.webp",
+      "url": "https://webflow.com/templates/html/growthway-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357491+00:00"
+    },
+    {
+      "id": "webflow-eclipsis-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696ab674443a976c8bd84809_2194d4b7-269d-491a-a925-3a063490a56e.webp",
+      "url": "https://webflow.com/templates/html/eclipsis-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357608+00:00"
+    },
+    {
+      "id": "webflow-agentflow-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6969b016427289abe2222fae_d8ef91bc-75bd-462d-bf85-8642c0fa1e76.webp",
+      "url": "https://webflow.com/templates/html/agentflow-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357710+00:00"
+    },
+    {
+      "id": "webflow-quriss-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6965207bfbb1e36c9074ce1e_587fbf84-fa6e-4bc6-b448-369d1af8bea1.webp",
+      "url": "https://webflow.com/templates/html/quriss-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357819+00:00"
+    },
+    {
+      "id": "webflow-boono-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696665c2c3de6d213c9981aa_0503b26c-2904-481b-993d-b2489c5201e7.webp",
+      "url": "https://webflow.com/templates/html/boono-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.357915+00:00"
+    },
+    {
+      "id": "webflow-vertora-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69600573502162ed1c63504f_8eee807f-10bb-4431-874e-228d45fe077f.webp",
+      "url": "https://webflow.com/templates/html/vertora-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358014+00:00"
+    },
+    {
+      "id": "webflow-orvix-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/695bf1ebcdf64719b260da9d_f8e20151-f9ac-47d2-9931-7e15c6b165b1.webp",
+      "url": "https://webflow.com/templates/html/orvix-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358112+00:00"
+    },
+    {
+      "id": "webflow-ariyana-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69600573502162ed1c63503e_e466c256-c732-4d68-8a8b-91bd4ee13aeb.webp",
+      "url": "https://webflow.com/templates/html/ariyana-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358222+00:00"
+    },
+    {
+      "id": "webflow-flock-ramp-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6953e3b810a42715c6b6e4e0_0d62cb9c-2ced-4220-b99e-4334772b3256.webp",
+      "url": "https://webflow.com/templates/html/flock-ramp-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358324+00:00"
+    },
+    {
+      "id": "webflow-angestudio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6952efe5c6bc60c0c3056dc4_f8a444de-e18e-47a9-8527-28073199efb7.webp",
+      "url": "https://webflow.com/templates/html/angestudio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358420+00:00"
+    },
+    {
+      "id": "webflow-fynexa-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6959397560b8ec8b3490b380_519e7ccc-7034-46c1-9e44-0b8dab042cc6.webp",
+      "url": "https://webflow.com/templates/html/fynexa-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358513+00:00"
+    },
+    {
+      "id": "webflow-stuxen-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c320c611298673cab5555_b75e97ae.webp",
+      "url": "https://webflow.com/templates/html/stuxen-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358617+00:00"
+    },
+    {
+      "id": "webflow-ambrosia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c2dc35e93ec4468edeb33_0c6e8264-3585-4ea9-84eb-73b09551096f.webp",
+      "url": "https://webflow.com/templates/html/ambrosia-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358715+00:00"
+    },
+    {
+      "id": "webflow-novasite-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694aebc3aa6cba6c72ecbcde_Novasite-Webflow-HTML-Website.webp",
+      "url": "https://webflow.com/templates/html/novasite-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358822+00:00"
+    },
+    {
+      "id": "webflow-roundsite-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694acd269fb8ccf2e65faaf4_9ad3b6dc-1938-41a9-922f-9d96c238eb8e.webp",
+      "url": "https://webflow.com/templates/html/roundsite-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.358921+00:00"
+    },
+    {
+      "id": "webflow-Arooth-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c3f128afcd4593cd9aa4d_1766604529108_429159938_Thumbnail-1.webp",
+      "url": "https://webflow.com/templates/html/Arooth-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359020+00:00"
+    },
+    {
+      "id": "webflow-bitteschon-studio---e-commerce-website-template-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69430acff1840d82621a7628_23bc546c-9a55-4027-b214-6646c6841115.webp",
+      "url": "https://webflow.com/templates/html/bitteschon-studio---e-commerce-website-template-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359125+00:00"
+    },
+    {
+      "id": "webflow-inhubs-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6940c8ed5c1ffc0ed7758231_cb397e66-668c-421f-af95-fe4283ccbb2d.webp",
+      "url": "https://webflow.com/templates/html/inhubs-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359225+00:00"
+    },
+    {
+      "id": "webflow-visto-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693c6f82aa60d1c656cfa22b_323479ff-a6d9-4047-aac6-9097584729c6.webp",
+      "url": "https://webflow.com/templates/html/visto-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359326+00:00"
+    },
+    {
+      "id": "webflow-kanzo-studio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69633a9711a0b3847b1b81a4_1768108659031_93457011_thumbnail_1_1.webp",
+      "url": "https://webflow.com/templates/html/kanzo-studio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359424+00:00"
+    },
+    {
+      "id": "webflow-catalis-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693b557e3288c40dc8f16783_756a965b-966e-43cd-9db5-396eb9d877a8.webp",
+      "url": "https://webflow.com/templates/html/catalis-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359526+00:00"
+    },
+    {
+      "id": "webflow-prokit-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69361116532901b72334640e_b447646e-6c18-42e1-a642-990fef83a35c.webp",
+      "url": "https://webflow.com/templates/html/prokit-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359621+00:00"
+    },
+    {
+      "id": "webflow-infinite-canvas-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6935baa56e51a338c75bfe7d_2860ff45-3386-4d29-8515-c463b2c9d65f.webp",
+      "url": "https://webflow.com/templates/html/infinite-canvas-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359720+00:00"
+    },
+    {
+      "id": "webflow-brim-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6933f2422a339efdee722227_1765012019056_184530147_brim-Thumbnail.webp",
+      "url": "https://webflow.com/templates/html/brim-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359818+00:00"
+    },
+    {
+      "id": "webflow-movark-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69333846c1fb76afe8af6e70_3371e165-b45c-485f-a2c1-64921764cfd2.webp",
+      "url": "https://webflow.com/templates/html/movark-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.359915+00:00"
+    },
+    {
+      "id": "webflow-protex-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6932896d02d52aa1eafc70c7_ae91c546-480b-4243-9b92-82578b2fcd2e.webp",
+      "url": "https://webflow.com/templates/html/protex-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360071+00:00"
+    },
+    {
+      "id": "webflow-disort-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693206931539315bd4bd8681_f83b1797-a3f0-4323-8383-37dea3f5a2b2.webp",
+      "url": "https://webflow.com/templates/html/disort-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360184+00:00"
+    },
+    {
+      "id": "webflow-taskopia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6931bf574f648442d5f5a42f_d5b4f046-30ad-48e6-805f-2e66b517104e.webp",
+      "url": "https://webflow.com/templates/html/taskopia-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360281+00:00"
+    },
+    {
+      "id": "webflow-motion-studio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696d42aeed370beead1af888_1768768146661_767232480_1-20-288-29.webp",
+      "url": "https://webflow.com/templates/html/motion-studio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360375+00:00"
+    },
+    {
+      "id": "webflow-grabfy-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930a159bd33e2a06ebed076_544e6b20-cf24-4121-aaf9-e7c1a689b0cb.webp",
+      "url": "https://webflow.com/templates/html/grabfy-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360468+00:00"
+    },
+    {
+      "id": "webflow-arqonmuseum-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930483bf9457c40c4f62863_5eac3909-fc36-4c37-9f9c-e46c8d25470f.webp",
+      "url": "https://webflow.com/templates/html/arqonmuseum-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360559+00:00"
+    },
+    {
+      "id": "webflow-ancestra-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691bf332883d4a09faf867e8_277438ee-77fd-4f29-aec8-bcaf656a1f49.webp",
+      "url": "https://webflow.com/templates/html/ancestra-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360649+00:00"
+    },
+    {
+      "id": "webflow-snaped-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691c9a9b4323ae4cd1dbf528_c6463cc5-aa5d-4068-a97d-3cc227f1f148.webp",
+      "url": "https://webflow.com/templates/html/snaped-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360739+00:00"
+    },
+    {
+      "id": "webflow-ritoze-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f17da147364c179c25ffb_1763042316044_781753942_Primary.webp",
+      "url": "https://webflow.com/templates/html/ritoze-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360836+00:00"
+    },
+    {
+      "id": "webflow-fleet-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f12743ad06a723d818033_1764692557968_739318412_Fleet_1-20-281-29.webp",
+      "url": "https://webflow.com/templates/html/fleet-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.360930+00:00"
+    },
+    {
+      "id": "webflow-nomore-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f03ae66f25f03dec42a27_c59508c1-c7b1-4b80-9c07-22fb7b13f6cc.webp",
+      "url": "https://webflow.com/templates/html/nomore-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361022+00:00"
+    },
+    {
+      "id": "webflow-throne-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f0256f3d95699771fd89f_468c4404-1bab-4235-bf02-f8da6d65d2ee.webp",
+      "url": "https://webflow.com/templates/html/throne-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361112+00:00"
+    },
+    {
+      "id": "webflow-nimatra-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd79df24f2f20816e1758_187a4013-2951-41a0-be17-791c1523a991.webp",
+      "url": "https://webflow.com/templates/html/nimatra-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361204+00:00"
+    },
+    {
+      "id": "webflow-verin-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd53e9cafb98f1ea5c843_f04ca505-ccc1-4232-b62a-8b1704f019dc.webp",
+      "url": "https://webflow.com/templates/html/verin-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361295+00:00"
+    },
+    {
+      "id": "webflow-padelthon-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd44f1f6db484e1391fcd_c4a614c5-612b-4316-b475-d1ce6c607c8d.webp",
+      "url": "https://webflow.com/templates/html/padelthon-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361390+00:00"
+    },
+    {
+      "id": "webflow-lumira-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd061a9183ae3da607bc6_Thumbnail-1-(7).webp",
+      "url": "https://webflow.com/templates/html/lumira-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361478+00:00"
+    },
+    {
+      "id": "webflow-chatnext-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6953837c73506e2a155e2565_0464e74f-0667-4987-89f1-deb8c892b376.webp",
+      "url": "https://webflow.com/templates/html/chatnext-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361570+00:00"
+    },
+    {
+      "id": "webflow-gadgetar-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6929dcf9af52c63c7b170a9a_128e304e-f334-4a88-821d-0ce29cec884f.webp",
+      "url": "https://webflow.com/templates/html/gadgetar-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361670+00:00"
+    },
+    {
+      "id": "webflow-erontaraya-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692b2b5a4ae6de4b195f8847_1764436783557_363781019_sdsd.webp",
+      "url": "https://webflow.com/templates/html/erontaraya-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361758+00:00"
+    },
+    {
+      "id": "webflow-Axtira-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6928cc924a111717d2b4dde7_58d04539.webp",
+      "url": "https://webflow.com/templates/html/Axtira-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361855+00:00"
+    },
+    {
+      "id": "webflow-bungee-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6924a9450df62687b85a6c9c_5f1bec39-2278-4442-a619-0fa2c7f31e99.webp",
+      "url": "https://webflow.com/templates/html/bungee-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.361947+00:00"
+    },
+    {
+      "id": "webflow-lumenis-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692499f59d76026b77b3e2d2_ae97ac7c-01f4-49fa-91e6-1f6dc248fa5c.webp",
+      "url": "https://webflow.com/templates/html/lumenis-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362039+00:00"
+    },
+    {
+      "id": "webflow-credo-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691ca4bf0c29403971e0c1b8_380451b6-7b67-45c0-8d52-883a3716b370.webp",
+      "url": "https://webflow.com/templates/html/credo-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362131+00:00"
+    },
+    {
+      "id": "webflow-widvio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691bf8d6bf4cac8ed5bcee53_3b445454-1fc7-4499-ae08-dd1ac3dc530f.webp",
+      "url": "https://webflow.com/templates/html/widvio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362222+00:00"
+    },
+    {
+      "id": "webflow-fithive-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691be9dd0ab5918f25837543_2ef97f18-60c8-4b1e-bd9d-6a34a0f15f6f.webp",
+      "url": "https://webflow.com/templates/html/fithive-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362313+00:00"
+    },
+    {
+      "id": "webflow-aithra-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6918253251bca027d7eb9a09_f0fcc4e7-29f0-45a5-a7a4-739aa7e0f488.webp",
+      "url": "https://webflow.com/templates/html/aithra-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362403+00:00"
+    },
+    {
+      "id": "webflow-cinematicframe-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69180ae51d71635147272239_f3f66fa3-cc15-4da6-9708-61d084c39999.webp",
+      "url": "https://webflow.com/templates/html/cinematicframe-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362493+00:00"
+    },
+    {
+      "id": "webflow-shmse-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6916209a3c672589c0003709_f6ca6708-844e-4402-b849-99c47179af04.webp",
+      "url": "https://webflow.com/templates/html/shmse-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362585+00:00"
+    },
+    {
+      "id": "webflow-unusually-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69074cba3a4fd15cbbb0661b_1762086036064_975226254_thumbnail-01.webp",
+      "url": "https://webflow.com/templates/html/unusually-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362678+00:00"
+    },
+    {
+      "id": "webflow-vrtx-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691371597e321adb2756707b_51f80a8c-b893-488f-8201-e52da67ca5e9.webp",
+      "url": "https://webflow.com/templates/html/vrtx-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362808+00:00"
+    },
+    {
+      "id": "webflow-thimos-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d50932d0c9d19414a95e6_64601256-116e-4a49-ab63-50cb69d890a3.webp",
+      "url": "https://webflow.com/templates/html/thimos-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.362911+00:00"
+    },
+    {
+      "id": "webflow-axis-works-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d4bfe5d4ced0744b36a4f_b798526a-7823-440d-acf3-3848ae1992f0.webp",
+      "url": "https://webflow.com/templates/html/axis-works-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363011+00:00"
+    },
+    {
+      "id": "webflow-oxbridge-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d4aee68e2a31f91c9bb94_0295514b-afeb-4532-a47e-8e82d5e30cad.webp",
+      "url": "https://webflow.com/templates/html/oxbridge-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363101+00:00"
+    },
+    {
+      "id": "webflow-davai-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691679f26e35f23eea9b477b_2ef84192-d4e5-4b3c-9645-c70fce828cb3.webp",
+      "url": "https://webflow.com/templates/html/davai-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363198+00:00"
+    },
+    {
+      "id": "webflow-rowters-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690a146ccb0d4a9cf4515d40_e63f7df3-d746-47a2-aba7-2c8a5bc1ad6a.webp",
+      "url": "https://webflow.com/templates/html/rowters-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363295+00:00"
+    },
+    {
+      "id": "webflow-setrex-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69083fdbf61ec75cb176ddee_f19e0716-5bb5-4dbd-bdf3-2858da9521f5.webp",
+      "url": "https://webflow.com/templates/html/setrex-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363385+00:00"
+    },
+    {
+      "id": "webflow-kleno-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69067b210f48fd12fec6db53_2b7b7e8c-bfe1-48e6-a4c7-02221418c002.webp",
+      "url": "https://webflow.com/templates/html/kleno-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363473+00:00"
+    },
+    {
+      "id": "webflow-quantumai-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69042b4b793ea7d0f3b9a947_b2b9ab25-8b97-4f8c-be66-71e26cc76c72.webp",
+      "url": "https://webflow.com/templates/html/quantumai-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363566+00:00"
+    },
+    {
+      "id": "webflow-halden-miller-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69024499ece5fbb9d60ab1dd_07cde1de-9677-4c0f-ab1e-c7d8d956505c.webp",
+      "url": "https://webflow.com/templates/html/halden-miller-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363673+00:00"
+    },
+    {
+      "id": "webflow-reveo-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6900d8d9c47c2404dda915f4_fc797056-cec5-41ab-97f0-bf82af445702.webp",
+      "url": "https://webflow.com/templates/html/reveo-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363767+00:00"
+    },
+    {
+      "id": "webflow-aerio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6900d82038d4fb182dcea6a8_2eaed36a-c82a-4025-9fa3-6f35e0dc759a.webp",
+      "url": "https://webflow.com/templates/html/aerio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363859+00:00"
+    },
+    {
+      "id": "webflow-biodex-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ffa36cd394952593d36358_f1cff269-4280-49bd-a948-08c637f41ffc.webp",
+      "url": "https://webflow.com/templates/html/biodex-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.363951+00:00"
+    },
+    {
+      "id": "webflow-recrot-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ff9f7c5b0ee61c179aefd0_3780f182-6bca-4f51-99dc-e18e422769e6.webp",
+      "url": "https://webflow.com/templates/html/recrot-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364041+00:00"
+    },
+    {
+      "id": "webflow-signal-x-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6918b4e7c42440b0dfc557d7_1763226824415_775501683_Thumbnail-204-20-283-29.webp",
+      "url": "https://webflow.com/templates/html/signal-x-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364132+00:00"
+    },
+    {
+      "id": "webflow-cattleya-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68fa585a581a365ec48174e2_f56ebfd2-e971-4633-99fa-d9586fd91e08.webp",
+      "url": "https://webflow.com/templates/html/cattleya-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364239+00:00"
+    },
+    {
+      "id": "webflow-structon-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68fa4ad451ab36389e305f4d_2a53c055-f4a2-42c3-80e2-370602429846.webp",
+      "url": "https://webflow.com/templates/html/structon-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364331+00:00"
+    },
+    {
+      "id": "webflow-datalog-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f7b8cd45bfe77dd636e9bb_64870c09-1da4-49e5-a141-79bb4083373a.webp",
+      "url": "https://webflow.com/templates/html/datalog-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364427+00:00"
+    },
+    {
+      "id": "webflow-arcane-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f66dff99c9abd1ac08964e_73e0fa10-df35-43f0-85b2-b1b549da82a5.webp",
+      "url": "https://webflow.com/templates/html/arcane-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364525+00:00"
+    },
+    {
+      "id": "webflow-rustico-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2ff98af49b73061dc6177_558aa8b7-b4b9-458b-ba09-6da9529fea54.webp",
+      "url": "https://webflow.com/templates/html/rustico-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364613+00:00"
+    },
+    {
+      "id": "webflow-sustify-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2ff98af49b73061dc61ca_2dd383d6-cde1-45e3-84bf-35a1e45f3786.webp",
+      "url": "https://webflow.com/templates/html/sustify-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364707+00:00"
+    },
+    {
+      "id": "webflow-oakayu-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2c91beeb690babb2a23cc_7eb6d412-c82e-4516-9f50-ad52862c9fca.webp",
+      "url": "https://webflow.com/templates/html/oakayu-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364798+00:00"
+    },
+    {
+      "id": "webflow-poxmic-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2c3b0dd53e63688f83f45_Thumbnail-1.webp",
+      "url": "https://webflow.com/templates/html/poxmic-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364891+00:00"
+    },
+    {
+      "id": "webflow-proforma-db-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed86f1ee6b43e52ee2aae8_e644726f.webp",
+      "url": "https://webflow.com/templates/html/proforma-db-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.364994+00:00"
+    },
+    {
+      "id": "webflow-audrey-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed0f88e1a1a925d42bd9a8_7f9dbfd4-842a-4493-9255-038d87e0e440.webp",
+      "url": "https://webflow.com/templates/html/audrey-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365084+00:00"
+    },
+    {
+      "id": "webflow-jaeger-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed0012d491930f63b21ffb_a9b4ea42-e7f7-4b70-aba8-b81ae5495859.webp",
+      "url": "https://webflow.com/templates/html/jaeger-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365186+00:00"
+    },
+    {
+      "id": "webflow-ignitex-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e6b274b5466e68fb687f99_feffc8a3-d9df-4656-9fbe-399d8f90316e.webp",
+      "url": "https://webflow.com/templates/html/ignitex-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365286+00:00"
+    },
+    {
+      "id": "webflow-okio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e5cedab83919384f34b284_0944573d-d81c-4959-be87-13d2c6e9b41f.webp",
+      "url": "https://webflow.com/templates/html/okio-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365376+00:00"
+    },
+    {
+      "id": "webflow-mavon-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e53bb7e24ee74e3d4871d3_3f01cabe-949f-4d34-b352-26f81afc4207.webp",
+      "url": "https://webflow.com/templates/html/mavon-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365469+00:00"
+    },
+    {
+      "id": "webflow-nextel-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e3f06a3d537c618e4f7634_d4dabda8-c26a-4343-b6ae-c8f8bf283d08.webp",
+      "url": "https://webflow.com/templates/html/nextel-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365561+00:00"
+    },
+    {
+      "id": "webflow-ousya-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e789079ab8ca211f210cf2_45329001-a54b-4693-b3c5-ba8985ca977f.webp",
+      "url": "https://webflow.com/templates/html/ousya-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365651+00:00"
+    },
+    {
+      "id": "webflow-athlenia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e14863a96a59137944f64a_bb0ba619-c494-4866-ace2-2de53fc15751.webp",
+      "url": "https://webflow.com/templates/html/athlenia-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365738+00:00"
+    },
+    {
+      "id": "webflow-finture-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68dc1a5278960895667dd16b_02e427d4-2ad4-4b90-83f2-3cf52f2443d9.webp",
+      "url": "https://webflow.com/templates/html/finture-website-template",
+      "description": "View details — a featured Webflow template.",
+      "scrapedAt": "2026-02-18T16:07:16.365826+00:00"
+    },
+    {
+      "id": "framer-category",
+      "title": "See All →",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "",
+      "url": "https://framer.com/marketplace/templates/category/",
+      "description": "See All → — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731012+00:00"
+    },
+    {
+      "id": "framer-xtract",
+      "title": "Xtract",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51012%2Fxtract-xqzXUvtiwNfRpXdCNOSbHGhjlIXzdS&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/xtract/",
+      "description": "Xtract — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731127+00:00"
+    },
+    {
+      "id": "framer-formance",
+      "title": "Formance",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49608%2Fformance-nB2xQgmuHOpj33799k3B1sv94bJsj5&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/formance/",
+      "description": "Formance — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731382+00:00"
+    },
+    {
+      "id": "framer-cryptix",
+      "title": "Cryptix",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50660%2Fcryptix-gbRVsktFZZKMUHzIGSnzURlWkMBjnw&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/cryptix/",
+      "description": "Cryptix — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731298+00:00"
+    },
+    {
+      "id": "framer-holier",
+      "title": "Holier",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50510%2Fholier-ZSVOMZTG0fT5k0qUgS7JtLgFUvSntA&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/holier/",
+      "description": "Holier — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732204+00:00"
+    },
+    {
+      "id": "framer-wallet",
+      "title": "Wallet",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49239%2Fwallet-BcfpwAgJ1L3RP6d39sWPB457kqD8YB&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/wallet/",
+      "description": "Wallet — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731464+00:00"
+    },
+    {
+      "id": "framer-opalhaus",
+      "title": "Opalhaus",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55245%2Fopalhaus-eZsRMpnt6jMksbv99dPdIcNucpRUB0&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/opalhaus/",
+      "description": "Opalhaus — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.165740+00:00"
+    },
+    {
+      "id": "framer-plumbing-contractor-local-service-template",
+      "title": "Plumbing Contractor Local Service Template",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F46480%2Fplumbing-contractor-local-service-template-TsyUhDpwe5iC97qNbSrpyWUin1oPv8&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/plumbing-contractor-local-service-template/",
+      "description": "Plumbing Contractor Local Service Template — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731548+00:00"
+    },
+    {
+      "id": "framer-cybery",
+      "title": "Cybery",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51805%2Fcybery-OgTaP5yfJYTkuTwTGAOcBBUA5Ymwc3&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/cybery/",
+      "description": "Cybery — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.166012+00:00"
+    },
+    {
+      "id": "framer-najmai",
+      "title": "Najmai",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F46177%2Fnajmai-s7nr9JD5XcEQM18jYXexj4cQaPfIgn&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/najmai/",
+      "description": "Najmai — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731629+00:00"
+    },
+    {
+      "id": "framer-agenly",
+      "title": "Agenly",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F59833%2Fagenly-D1mMLYytzaCo8e5PTdhbwxySg6tVjm&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/agenly/",
+      "description": "Agenly — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.166221+00:00"
+    },
+    {
+      "id": "framer-draftr",
+      "title": "Draftr",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53016%2Fdraftr-oBWLGFZgtUfVOcJsCicxS1mPY6zNk6&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/draftr/",
+      "description": "Draftr — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731750+00:00"
+    },
+    {
+      "id": "framer-bombon",
+      "title": "Bombon",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49246%2Fbombon-cVngVZtc6LKOl1h4fJs9d6FK15XTeK&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/bombon/",
+      "description": "Bombon — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.166391+00:00"
+    },
+    {
+      "id": "framer-refit",
+      "title": "Refit",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50281%2Frefit-KHrqxTg7MUBBlJKeWxfwRIH2EA4T49&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/refit/",
+      "description": "Refit — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731921+00:00"
+    },
+    {
+      "id": "framer-menoa",
+      "title": "Menoa",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52509%2Fmenoa-QK9q22Kp3IQovYuVqhjzhktGEb5Ss2&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/menoa/",
+      "description": "Menoa — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.166557+00:00"
+    },
+    {
+      "id": "framer-limitless",
+      "title": "Limitless",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45423%2Flimitless-iUrhuyeHT4wlKxawc6lNUp0ygapDL4&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/limitless/",
+      "description": "Limitless — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732021+00:00"
+    },
+    {
+      "id": "framer-skyris",
+      "title": "Skyris",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55216%2Fskyris-ec8ScNhl63yI6w4r99l8asiQTy7Bnh&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/skyris/",
+      "description": "Skyris — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.166729+00:00"
+    },
+    {
+      "id": "framer-gardener",
+      "title": "Gardener",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45445%2Fgardener-HD45GxyyvfYOQwjrE5VLJDnlj3v6t8&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/gardener/",
+      "description": "Gardener — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732113+00:00"
+    },
+    {
+      "id": "framer-superior",
+      "title": "Superior",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49775%2Fsuperior-ZsPtCt6yei7TEo3I8jsCXoNm34LlkK&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/superior/",
+      "description": "Superior — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731708+00:00"
+    },
+    {
+      "id": "framer-perform",
+      "title": "Perform",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51062%2Fperform-KOFbrDtYWD9w0uNIbYc5gdeRZsc7v1&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/perform/",
+      "description": "Perform — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732309+00:00"
+    },
+    {
+      "id": "framer-vectura",
+      "title": "Vectura",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (7 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (7 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55472%2Fvectura-1n3Kk0xkPPxa7KzfgJXu6caPYQdCk8&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/vectura/",
+      "description": "Vectura — a popular (7 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:37.167086+00:00"
+    },
+    {
+      "id": "framer-arpeggio",
+      "title": "Arpeggio",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F48693%2Farpeggio-qRMShpuUYEGcVULUbvnU2MOUXmhQ1o&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/arpeggio/",
+      "description": "Arpeggio — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.730500+00:00"
+    },
+    {
+      "id": "framer-portfolite",
+      "title": "Portfolite",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50716%2Fportfolite-tSdwL2z7uMF6IBuGzhEUgbCmCKfrgt&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/portfolite/",
+      "description": "Portfolite — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.730590+00:00"
+    },
+    {
+      "id": "framer-fabrica",
+      "title": "Fabrica",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50744%2Ffabrica-RXrmPPc9YMOnPdwKvStOaE6BffXhoj&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/fabrica/",
+      "description": "Fabrica — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.730676+00:00"
+    },
+    {
+      "id": "framer-pearl",
+      "title": "Pearl",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45955%2Fpearl-tAAPET5MSOsE1HHKMijfwtUHKw80yW&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/pearl/",
+      "description": "Pearl — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732487+00:00"
+    },
+    {
+      "id": "framer-bartix",
+      "title": "Bartix",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54831%2Fbartix-xkpqGfPUz4d4YuNL7JXISes82AJpMU&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/bartix/",
+      "description": "Bartix — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.730844+00:00"
+    },
+    {
+      "id": "framer-dreelio",
+      "title": "Dreelio",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55602%2Fpreelio-i8w6bSSDDkflqbNH9y9gs42I4kLTgu&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/dreelio/",
+      "description": "Dreelio — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732396+00:00"
+    },
+    {
+      "id": "framer-viral",
+      "title": "Viral",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53466%2Fviral-eiXeroCBYNt4GbJaWO6MBeqzNu1Q7T&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/viral/",
+      "description": "Viral — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731095+00:00"
+    },
+    {
+      "id": "framer-portavia",
+      "title": "Portavia",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51964%2Fportavia-rILjFxAFp7MlOO3rVQYQdIHV5ybCX9&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/portavia/",
+      "description": "Portavia — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731186+00:00"
+    },
+    {
+      "id": "framer-orbai",
+      "title": "Orbai",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52038%2Forbai-wl01JtZG34cLRjQFIM1p97TJrvdCKN&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/orbai/",
+      "description": "Orbai — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731272+00:00"
+    },
+    {
+      "id": "framer-landio",
+      "title": "Landio",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50147%2Flandio-AKmog8ctF9MCV76Jfav3GhrsMQGnoI&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/landio/",
+      "description": "Landio — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731356+00:00"
+    },
+    {
+      "id": "framer-darling",
+      "title": "Darling",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53974%2Fdarling-Eux2tpRsXlIBQ59sNYQhLl516AfAJL&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/darling/",
+      "description": "Darling — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731441+00:00"
+    },
+    {
+      "id": "framer-palmer",
+      "title": "Palmer",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54074%2Fpalmer-AQEbhDjpT4yCnWbCg9F1WJHbDxJVPs&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/palmer/",
+      "description": "Palmer — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731796+00:00"
+    },
+    {
+      "id": "framer-fizens",
+      "title": "Fizens",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55582%2Ffizens-KFUEdvzppngDOcdt8GBQc4D2SDiFW6&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/fizens/",
+      "description": "Fizens — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.731879+00:00"
+    },
+    {
+      "id": "framer-kanso",
+      "title": "Kanso",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52723%2Fkanso-kg2U0s0rpYkwrBtCWM4jZzVbsxbk6o&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/kanso/",
+      "description": "Kanso — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.732047+00:00"
+    },
+    {
+      "id": "framer-jorge",
+      "title": "Jorge",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52947%2Fjorge-75PPjdDLxnPdMZKpu2pyaW4kZEuKbw&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/jorge/",
+      "description": "Jorge — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.732128+00:00"
+    },
+    {
+      "id": "framer-ai-supply",
+      "title": "Ai Supply",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "Popular (30 days)",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "Popular (30 days)"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54720%2Fai-supply-8FfceZkv3rkf6cI8AGl2Idi5LSrLOp&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/ai-supply/",
+      "description": "Ai Supply — a popular (30 days) Framer template.",
+      "scrapedAt": "2026-02-18T16:07:39.732213+00:00"
+    },
+    {
+      "id": "framer-finania",
+      "title": "Finania",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51016%2Ffinania-f20QuznGzzoMnx4DFIrmN1kVmqjRbO&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/finania/",
+      "description": "Finania — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.731214+00:00"
+    },
+    {
+      "id": "framer-consulting",
+      "title": "Consulting",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45523%2Fconsulting-op90MBKegeEqne7zczcc4CcmDEUjdN&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/consulting/",
+      "description": "Consulting — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732573+00:00"
+    },
+    {
+      "id": "framer-handyman",
+      "title": "Handyman",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45568%2Fhandyman-pHkXqnXpYrB1I63wCo6NBmgORhrzZH&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/handyman/",
+      "description": "Handyman — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732663+00:00"
+    },
+    {
+      "id": "framer-greenleaf",
+      "title": "Greenleaf",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52815%2Fgreenleaf-1AToFt8XlqhdNktyyvFgymcTxVGkMR&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/greenleaf/",
+      "description": "Greenleaf — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732756+00:00"
+    },
+    {
+      "id": "framer-stratex",
+      "title": "Stratex",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51203%2Fstratex-1dS7KRCTGo9f6cNBVU5zxNlDpsGvMb&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/stratex/",
+      "description": "Stratex — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732838+00:00"
+    },
+    {
+      "id": "framer-lando",
+      "title": "Lando",
+      "author": "Unknown",
+      "platform": "Framer",
+      "category": "New",
+      "price": "Free",
+      "rating": 0,
+      "sales": 0,
+      "tags": [
+        "Framer",
+        "Website",
+        "New"
+      ],
+      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45515%2Flando-Nh7vEa1uEBlro1UQzQRPI5zFaoXdW5&w=3840&q=100",
+      "url": "https://framer.com/marketplace/templates/lando/",
+      "description": "Lando — a new Framer template.",
+      "scrapedAt": "2026-02-18T16:07:41.732923+00:00"
     }
   ]
 }

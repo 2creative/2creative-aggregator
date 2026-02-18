@@ -23,6 +23,7 @@ import BrushIcon from "@mui/icons-material/Brush";
 import ShowChartIcon from "@mui/icons-material/ShowChart";
 import PaletteIcon from "@mui/icons-material/Palette";
 import RocketLaunchIcon from "@mui/icons-material/RocketLaunch";
+import Link from "next/link";
 
 const modules = [
   {
@@ -40,6 +41,7 @@ const modules = [
     phase: "Phase 1",
     phaseColor: "#22C55E",
     tags: ["WordPress", "Webflow", "Framer"],
+    href: "/templates",
   },
   {
     title: "AI & SaaS Tool Hunter",
@@ -110,7 +112,19 @@ export default function Home() {
           >
             2Creative.net
           </Typography>
-          <Stack direction="row" spacing={1}>
+          <Stack direction="row" spacing={1} alignItems="center">
+            <Button
+              component={Link}
+              href="/templates"
+              size="small"
+              sx={{
+                color: "text.secondary",
+                fontWeight: 600,
+                "&:hover": { color: "#6C63FF" },
+              }}
+            >
+              Templates
+            </Button>
             <Chip
               label="Coming Soon"
               size="small"
@@ -255,11 +269,15 @@ export default function Home() {
             {modules.map((mod) => (
               <Grid size={{ xs: 12, sm: 6, md: 4, lg: 3 }} key={mod.title}>
                 <Card
+                  component={mod.href ? Link : "div"}
+                  href={mod.href}
                   sx={{
                     height: "100%",
                     display: "flex",
                     flexDirection: "column",
                     p: 0.5,
+                    textDecoration: "none",
+                    color: "inherit",
                   }}
                 >
                   <CardContent sx={{ flexGrow: 1, p: 2.5 }}>

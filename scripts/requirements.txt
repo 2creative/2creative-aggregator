@@ -1,7 +1,5 @@
-# Python Scraper Dependencies
-# Install with: pip install -r requirements.txt
-
+# Python dependencies for 2Creative scrapers
 requests>=2.31.0
 beautifulsoup4>=4.12.0
+lxml>=5.0.0
 feedparser>=6.0.0
-python-dateutil>=2.8.0
