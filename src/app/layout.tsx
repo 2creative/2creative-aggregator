@@ -29,6 +29,10 @@ export const metadata: Metadata = {
     siteName: "2Creative.net",
     type: "website",
   },
+  icons: {
+    icon: "/images/2c-favicon.png",
+    apple: "/images/2c-favicon.png",
+  },
 };
 
 export default function RootLayout({

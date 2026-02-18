@@ -99,19 +99,16 @@ export default function Home() {
       {/* ─── Navigation ─── */}
       <AppBar position="fixed" elevation={0}>
         <Toolbar sx={{ justifyContent: "space-between" }}>
-          <Typography
-            variant="h6"
+          <Box
+            component="img"
+            src="/images/2creative-logo.jpg"
+            alt="2Creative.net"
             sx={{
-              fontWeight: 800,
-              background: "linear-gradient(135deg, #6C63FF, #00E5FF)",
-              backgroundClip: "text",
-              WebkitBackgroundClip: "text",
-              WebkitTextFillColor: "transparent",
-              fontSize: "1.25rem",
+              height: 36,
+              width: "auto",
+              borderRadius: 1,
             }}
-          >
-            2Creative.net
-          </Typography>
+          />
           <Stack direction="row" spacing={1} alignItems="center">
             <Button
               component={Link}

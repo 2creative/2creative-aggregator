@@ -77,7 +77,7 @@ export default function TemplateCard({
       <Box sx={{ position: "relative", overflow: "hidden" }}>
         <CardMedia
           component="img"
-          image={thumbnail || "/placeholder-template.svg"}
+          image={thumbnail || ""}
           alt={title}
           className="template-thumbnail"
           sx={{

@@ -118,6 +118,22 @@ def transform_item(item: dict) -> dict:
     if category_name and category_name not in tags_list:
         tags_list.insert(0, category_name)
 
+    # Get live preview URL
+    preview_url = ""
+    if "live_site" in previews:
+        preview_url = previews["live_site"].get("url", "")
+
+    # Rating count
+    rating_count = rating_data.get("count", 0) if isinstance(rating_data, dict) else 0
+
+    # Compatibility info from attributes
+    compatibility_parts = []
+    for key in ("compatible-software", "compatible-browsers", "software-version"):
+        val = attrs.get(key, "")
+        if val:
+            compatibility_parts.append(str(val))
+    compatibility = ", ".join(compatibility_parts)
+
     return {
         "id": f"envato-{item.get('id', '')}",
         "title": item.get("name", "Untitled"),
@@ -126,11 +142,15 @@ def transform_item(item: dict) -> dict:
         "category": attrs.get("category_name", "WordPress"),
         "price": f"${item.get('price_cents', 0) / 100:.0f}" if item.get("price_cents") else "$0",
         "rating": round(rating, 1),
+        "ratingCount": rating_count,
         "sales": item.get("number_of_sales", 0),
-        "tags": tags_list[:6],  # Limit to 6 tags
+        "tags": tags_list[:8],
         "thumbnail": thumbnail,
         "url": url,
-        "description": item.get("description_short", item.get("summary", ""))[:200],
+        "previewUrl": preview_url,
+        "description": item.get("description_short", item.get("summary", ""))[:300],
+        "compatibility": compatibility,
+        "updatedAt": item.get("updated_at", ""),
         "scrapedAt": datetime.now(timezone.utc).isoformat(),
     }
 

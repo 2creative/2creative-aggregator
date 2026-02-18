@@ -11,7 +11,8 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
+from typing import Dict, Optional
+from urllib.parse import unquote, urlparse, parse_qs
 
 import requests
 from bs4 import BeautifulSoup
@@ -53,6 +54,29 @@ def fetch_page(url: str) -> Optional[str]:
     except requests.RequestException as e:
         print(f"  ⚠ Failed to fetch {url}: {e}", file=sys.stderr)
         return None
+
+
+def resolve_image_url(raw_url: str) -> str:
+    """Resolve Framer Next.js image proxy URLs to the actual image URL.
+    
+    Framer uses paths like /creators-assets/_next/image/?url=<encoded>&w=3840&q=100
+    This extracts the actual image URL from the query param.
+    """
+    if not raw_url:
+        return ""
+
+    # If it's a Next.js image proxy path, extract the real URL
+    if "/_next/image" in raw_url:
+        parsed = urlparse(raw_url)
+        params = parse_qs(parsed.query)
+        if "url" in params:
+            return unquote(params["url"][0])
+
+    # If it's a relative path, make it absolute
+    if raw_url.startswith("/"):
+        return f"https://framer.com{raw_url}"
+
+    return raw_url
 
 
 def parse_templates(html: str, category: str = "General") -> list[dict]:
@@ -104,12 +128,13 @@ def parse_templates(html: str, category: str = "General") -> list[dict]:
             # Clean title
             title = title.split("\n")[0].strip()
 
-            # Get thumbnail
+            # Get thumbnail — resolve proxy URLs to actual image URLs
             thumbnail = ""
             img = card.find("img")
             if img:
-                thumbnail = (img.get("src", "") or img.get("data-src", "")
-                            or img.get("srcset", "").split(" ")[0])
+                raw_src = (img.get("src", "") or img.get("data-src", "")
+                          or img.get("srcset", "").split(" ")[0])
+                thumbnail = resolve_image_url(raw_src)
 
             # Get price (if visible)
             price = "Free"
@@ -137,11 +162,15 @@ def parse_templates(html: str, category: str = "General") -> list[dict]:
                 "category": category,
                 "price": price,
                 "rating": 0,
+                "ratingCount": 0,
                 "sales": 0,
                 "tags": [PLATFORM, "Website", category],
                 "thumbnail": thumbnail,
                 "url": url,
+                "previewUrl": url,
                 "description": f"{title} — a {category.lower()} Framer template.",
+                "compatibility": "Framer",
+                "updatedAt": "",
                 "scrapedAt": datetime.now(timezone.utc).isoformat(),
             })
 
@@ -172,7 +201,7 @@ def save_templates(data: dict):
 def main():
     print("🔍 Framer Scraper — fetching templates from framer.com/marketplace...")
 
-    all_templates: dict[str, dict] = {}  # Deduplicate by ID
+    all_templates: Dict[str, dict] = {}  # Deduplicate by ID
 
     for page_config in PAGES_TO_SCRAPE:
         url = page_config["url"]

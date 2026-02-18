@@ -142,22 +142,26 @@ export default function TemplatesPage() {
             >
               <ArrowBackIcon />
             </IconButton>
-            <Typography
-              variant="h6"
+            <Box
               component={Link}
               href="/"
               sx={{
-                fontWeight: 800,
-                background: "linear-gradient(135deg, #6C63FF, #00E5FF)",
-                backgroundClip: "text",
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
-                fontSize: "1.25rem",
+                display: "flex",
+                alignItems: "center",
                 textDecoration: "none",
               }}
             >
-              2Creative.net
-            </Typography>
+              <Box
+                component="img"
+                src="/images/2creative-logo.jpg"
+                alt="2Creative.net"
+                sx={{
+                  height: 36,
+                  width: "auto",
+                  borderRadius: 1,
+                }}
+              />
+            </Box>
           </Stack>
           <Chip
             icon={<ViewQuiltIcon sx={{ fontSize: 16 }} />}

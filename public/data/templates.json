@@ -1,45 +1,7 @@
 {
-  "lastUpdated": "2026-02-18T16:07:42.739587+00:00",
+  "lastUpdated": "2026-02-18T16:50:12.926859+00:00",
   "source": "aggregated",
   "templates": [
-    {
-      "id": "tpl-001",
-      "title": "Flavor — Creative Agency WordPress Theme",
-      "author": "Developer Unknown",
-      "platform": "ThemeForest",
-      "category": "Creative",
-      "price": "$59",
-      "rating": 4.9,
-      "sales": 12400,
-      "tags": [
-        "WordPress",
-        "Agency",
-        "Portfolio",
-        "Creative"
-      ],
-      "thumbnail": "https://via.placeholder.com/600x400",
-      "url": "https://example.com/templates/001",
-      "description": "A stunning multi-purpose theme for agencies, freelancers, and studios."
-    },
-    {
-      "id": "tpl-002",
-      "title": "Startup Flow — Modern Framer Template",
-      "author": "PixelPerfect",
-      "platform": "Framer",
-      "category": "Technology",
-      "price": "$49",
-      "rating": 4.7,
-      "sales": 3200,
-      "tags": [
-        "Framer",
-        "Startup",
-        "SaaS",
-        "Landing Page"
-      ],
-      "thumbnail": "https://via.placeholder.com/600x400",
-      "url": "https://example.com/templates/002",
-      "description": "Ship faster with this conversion-optimized startup template."
-    },
     {
       "id": "envato-9228123",
       "title": "Canvas | The Multi-Purpose HTML5 Template",
@@ -1977,6 +1939,28 @@
       "scrapedAt": "2026-02-18T16:06:22.548216+00:00"
     },
     {
+      "id": "webflow-portfolio-starter-website-template",
+      "title": "Portfolio Starter Website Template",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/686448d05205dcfb5867b75b_5e593fb060cf8750fe75f22c_Portfolio%2520Thumbnail.webp",
+      "url": "https://webflow.com/templates/html/portfolio-starter-website-template",
+      "previewUrl": "https://webflow.com/templates/html/portfolio-starter-website-template",
+      "description": "Portfolio Starter Website Template — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.477942+00:00"
+    },
+    {
       "id": "webflow-boldway-website-template",
       "title": "View details",
       "author": "Unknown",
@@ -1984,6 +1968,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -1991,8 +1976,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6980d8bbd6e361f8d28c58c4_boldway.webp",
       "url": "https://webflow.com/templates/html/boldway-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356164+00:00"
+      "previewUrl": "https://webflow.com/templates/html/boldway-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.749770+00:00"
     },
     {
       "id": "webflow-climbr-website-template",
@@ -2002,6 +1990,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2009,8 +1998,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697d1e9c52bf926f7a74261e_eee59858-a98a-4ece-a3ed-f8a3a306db45.webp",
       "url": "https://webflow.com/templates/html/climbr-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356285+00:00"
+      "previewUrl": "https://webflow.com/templates/html/climbr-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.749892+00:00"
     },
     {
       "id": "webflow-cc-club-website-template",
@@ -2020,6 +2012,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2027,8 +2020,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697d0a3a4f252776e34188c3_CCClub.webp",
       "url": "https://webflow.com/templates/html/cc-club-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356386+00:00"
+      "previewUrl": "https://webflow.com/templates/html/cc-club-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.749989+00:00"
     },
     {
       "id": "webflow-zenkai-website-template",
@@ -2038,6 +2034,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2045,26 +2042,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697bbbce6c453cf36f469dbc_48a186ca-933e-4f1c-bc01-5735bbb8f6b4.webp",
       "url": "https://webflow.com/templates/html/zenkai-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356483+00:00"
-    },
-    {
-      "id": "webflow-aerialix-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6978f2af85539b7fd25bebff_9a6ab1e6-ea83-4043-a04b-890148818b49.webp",
-      "url": "https://webflow.com/templates/html/aerialix-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356584+00:00"
+      "previewUrl": "https://webflow.com/templates/html/zenkai-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750080+00:00"
     },
     {
       "id": "webflow-zyforia-website-template",
@@ -2074,6 +2056,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2081,8 +2064,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6978fea5212cb37bb0897708_e82fea86-e2e4-4a3b-9e35-3693113f9af2.webp",
       "url": "https://webflow.com/templates/html/zyforia-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356683+00:00"
+      "previewUrl": "https://webflow.com/templates/html/zyforia-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750304+00:00"
     },
     {
       "id": "webflow-lumyn-website-template",
@@ -2092,6 +2078,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2099,8 +2086,33 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/698366fd9235fe58c6da9473_1770219178576_593944918_LAnding_page_hero_section.webp",
       "url": "https://webflow.com/templates/html/lumyn-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356787+00:00"
+      "previewUrl": "https://webflow.com/templates/html/lumyn-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750466+00:00"
+    },
+    {
+      "id": "webflow-aerialix-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6978f2af85539b7fd25bebff_9a6ab1e6-ea83-4043-a04b-890148818b49.webp",
+      "url": "https://webflow.com/templates/html/aerialix-website-template",
+      "previewUrl": "https://webflow.com/templates/html/aerialix-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750170+00:00"
     },
     {
       "id": "webflow-scalient-website-template",
@@ -2110,6 +2122,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2117,8 +2130,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6976aedd83eb03815e87a56d_1769160724318_718050574_Final.webp",
       "url": "https://webflow.com/templates/html/scalient-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356889+00:00"
+      "previewUrl": "https://webflow.com/templates/html/scalient-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750564+00:00"
     },
     {
       "id": "webflow-playza-website-template",
@@ -2128,6 +2144,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2135,8 +2152,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6976adbd4e0706bdb87b5b5b_62640633-f208-411b-b1d3-ff1e502b91dd.webp",
       "url": "https://webflow.com/templates/html/playza-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.356992+00:00"
+      "previewUrl": "https://webflow.com/templates/html/playza-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750657+00:00"
     },
     {
       "id": "webflow-algarve-studio-website-template",
@@ -2146,6 +2166,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2153,8 +2174,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6977d4c3055ea13c23aedb0c_1769460893493_953676346_ThumbMain.webp",
       "url": "https://webflow.com/templates/html/algarve-studio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357093+00:00"
+      "previewUrl": "https://webflow.com/templates/html/algarve-studio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750754+00:00"
     },
     {
       "id": "webflow-lyrias-website-template",
@@ -2164,6 +2188,7 @@
       "category": "Featured",
       "price": "$169",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2171,26 +2196,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6972953ef4f4d0a7ce9b3894_06a36dbd-b984-468a-80ac-1d45d9df4895.webp",
       "url": "https://webflow.com/templates/html/lyrias-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357193+00:00"
-    },
-    {
-      "id": "webflow-eduraflow-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$59",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696da969b88b20fa22979a38_fffa120e-3ded-4e6f-93a1-b3616ec17437.webp",
-      "url": "https://webflow.com/templates/html/eduraflow-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357293+00:00"
+      "previewUrl": "https://webflow.com/templates/html/lyrias-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750853+00:00"
     },
     {
       "id": "webflow-nerova-website-template",
@@ -2200,6 +2210,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2207,8 +2218,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696d9454b5f3f1058f260638_8914eb06-a09e-4880-9a78-afa11b10209b.webp",
       "url": "https://webflow.com/templates/html/nerova-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357393+00:00"
+      "previewUrl": "https://webflow.com/templates/html/nerova-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751049+00:00"
     },
     {
       "id": "webflow-growthway-website-template",
@@ -2218,6 +2232,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2225,26 +2240,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696c1e6057e8b0627914ce62_bd4ea6f2-8e76-414f-accf-af52efd73cca.webp",
       "url": "https://webflow.com/templates/html/growthway-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357491+00:00"
-    },
-    {
-      "id": "webflow-eclipsis-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "Free",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696ab674443a976c8bd84809_2194d4b7-269d-491a-a925-3a063490a56e.webp",
-      "url": "https://webflow.com/templates/html/eclipsis-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357608+00:00"
+      "previewUrl": "https://webflow.com/templates/html/growthway-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751162+00:00"
     },
     {
       "id": "webflow-agentflow-website-template",
@@ -2254,6 +2254,7 @@
       "category": "Featured",
       "price": "$169",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2261,26 +2262,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6969b016427289abe2222fae_d8ef91bc-75bd-462d-bf85-8642c0fa1e76.webp",
       "url": "https://webflow.com/templates/html/agentflow-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357710+00:00"
-    },
-    {
-      "id": "webflow-quriss-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6965207bfbb1e36c9074ce1e_587fbf84-fa6e-4bc6-b448-369d1af8bea1.webp",
-      "url": "https://webflow.com/templates/html/quriss-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357819+00:00"
+      "previewUrl": "https://webflow.com/templates/html/agentflow-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751372+00:00"
     },
     {
       "id": "webflow-boono-website-template",
@@ -2290,6 +2276,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2297,44 +2284,33 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696665c2c3de6d213c9981aa_0503b26c-2904-481b-993d-b2489c5201e7.webp",
       "url": "https://webflow.com/templates/html/boono-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.357915+00:00"
+      "previewUrl": "https://webflow.com/templates/html/boono-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751572+00:00"
     },
     {
-      "id": "webflow-vertora-website-template",
+      "id": "webflow-quriss-website-template",
       "title": "View details",
       "author": "Unknown",
       "platform": "Webflow",
       "category": "Featured",
-      "price": "$99",
+      "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
         "Featured"
       ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69600573502162ed1c63504f_8eee807f-10bb-4431-874e-228d45fe077f.webp",
-      "url": "https://webflow.com/templates/html/vertora-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358014+00:00"
-    },
-    {
-      "id": "webflow-orvix-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$29",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/695bf1ebcdf64719b260da9d_f8e20151-f9ac-47d2-9931-7e15c6b165b1.webp",
-      "url": "https://webflow.com/templates/html/orvix-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358112+00:00"
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6965207bfbb1e36c9074ce1e_587fbf84-fa6e-4bc6-b448-369d1af8bea1.webp",
+      "url": "https://webflow.com/templates/html/quriss-website-template",
+      "previewUrl": "https://webflow.com/templates/html/quriss-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751475+00:00"
     },
     {
       "id": "webflow-ariyana-website-template",
@@ -2344,6 +2320,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2351,44 +2328,55 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69600573502162ed1c63503e_e466c256-c732-4d68-8a8b-91bd4ee13aeb.webp",
       "url": "https://webflow.com/templates/html/ariyana-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358222+00:00"
+      "previewUrl": "https://webflow.com/templates/html/ariyana-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751866+00:00"
     },
     {
-      "id": "webflow-flock-ramp-website-template",
+      "id": "webflow-vertora-website-template",
       "title": "View details",
       "author": "Unknown",
       "platform": "Webflow",
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
         "Featured"
       ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6953e3b810a42715c6b6e4e0_0d62cb9c-2ced-4220-b99e-4334772b3256.webp",
-      "url": "https://webflow.com/templates/html/flock-ramp-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358324+00:00"
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69600573502162ed1c63504f_8eee807f-10bb-4431-874e-228d45fe077f.webp",
+      "url": "https://webflow.com/templates/html/vertora-website-template",
+      "previewUrl": "https://webflow.com/templates/html/vertora-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751677+00:00"
     },
     {
-      "id": "webflow-angestudio-website-template",
+      "id": "webflow-orvix-website-template",
       "title": "View details",
       "author": "Unknown",
       "platform": "Webflow",
       "category": "Featured",
-      "price": "$79",
+      "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
         "Featured"
       ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6952efe5c6bc60c0c3056dc4_f8a444de-e18e-47a9-8527-28073199efb7.webp",
-      "url": "https://webflow.com/templates/html/angestudio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358420+00:00"
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/695bf1ebcdf64719b260da9d_f8e20151-f9ac-47d2-9931-7e15c6b165b1.webp",
+      "url": "https://webflow.com/templates/html/orvix-website-template",
+      "previewUrl": "https://webflow.com/templates/html/orvix-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751775+00:00"
     },
     {
       "id": "webflow-fynexa-website-template",
@@ -2398,6 +2386,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2405,548 +2394,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6959397560b8ec8b3490b380_519e7ccc-7034-46c1-9e44-0b8dab042cc6.webp",
       "url": "https://webflow.com/templates/html/fynexa-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358513+00:00"
-    },
-    {
-      "id": "webflow-stuxen-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$39",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c320c611298673cab5555_b75e97ae.webp",
-      "url": "https://webflow.com/templates/html/stuxen-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358617+00:00"
-    },
-    {
-      "id": "webflow-ambrosia-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c2dc35e93ec4468edeb33_0c6e8264-3585-4ea9-84eb-73b09551096f.webp",
-      "url": "https://webflow.com/templates/html/ambrosia-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358715+00:00"
-    },
-    {
-      "id": "webflow-novasite-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$39",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694aebc3aa6cba6c72ecbcde_Novasite-Webflow-HTML-Website.webp",
-      "url": "https://webflow.com/templates/html/novasite-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358822+00:00"
-    },
-    {
-      "id": "webflow-roundsite-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$129",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694acd269fb8ccf2e65faaf4_9ad3b6dc-1938-41a9-922f-9d96c238eb8e.webp",
-      "url": "https://webflow.com/templates/html/roundsite-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.358921+00:00"
-    },
-    {
-      "id": "webflow-Arooth-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c3f128afcd4593cd9aa4d_1766604529108_429159938_Thumbnail-1.webp",
-      "url": "https://webflow.com/templates/html/Arooth-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359020+00:00"
-    },
-    {
-      "id": "webflow-bitteschon-studio---e-commerce-website-template-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69430acff1840d82621a7628_23bc546c-9a55-4027-b214-6646c6841115.webp",
-      "url": "https://webflow.com/templates/html/bitteschon-studio---e-commerce-website-template-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359125+00:00"
-    },
-    {
-      "id": "webflow-inhubs-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6940c8ed5c1ffc0ed7758231_cb397e66-668c-421f-af95-fe4283ccbb2d.webp",
-      "url": "https://webflow.com/templates/html/inhubs-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359225+00:00"
-    },
-    {
-      "id": "webflow-visto-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693c6f82aa60d1c656cfa22b_323479ff-a6d9-4047-aac6-9097584729c6.webp",
-      "url": "https://webflow.com/templates/html/visto-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359326+00:00"
-    },
-    {
-      "id": "webflow-kanzo-studio-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$59",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69633a9711a0b3847b1b81a4_1768108659031_93457011_thumbnail_1_1.webp",
-      "url": "https://webflow.com/templates/html/kanzo-studio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359424+00:00"
-    },
-    {
-      "id": "webflow-catalis-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$169",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693b557e3288c40dc8f16783_756a965b-966e-43cd-9db5-396eb9d877a8.webp",
-      "url": "https://webflow.com/templates/html/catalis-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359526+00:00"
-    },
-    {
-      "id": "webflow-prokit-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$29",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69361116532901b72334640e_b447646e-6c18-42e1-a642-990fef83a35c.webp",
-      "url": "https://webflow.com/templates/html/prokit-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359621+00:00"
-    },
-    {
-      "id": "webflow-infinite-canvas-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6935baa56e51a338c75bfe7d_2860ff45-3386-4d29-8515-c463b2c9d65f.webp",
-      "url": "https://webflow.com/templates/html/infinite-canvas-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359720+00:00"
-    },
-    {
-      "id": "webflow-brim-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6933f2422a339efdee722227_1765012019056_184530147_brim-Thumbnail.webp",
-      "url": "https://webflow.com/templates/html/brim-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359818+00:00"
-    },
-    {
-      "id": "webflow-movark-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69333846c1fb76afe8af6e70_3371e165-b45c-485f-a2c1-64921764cfd2.webp",
-      "url": "https://webflow.com/templates/html/movark-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.359915+00:00"
-    },
-    {
-      "id": "webflow-protex-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "Free",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6932896d02d52aa1eafc70c7_ae91c546-480b-4243-9b92-82578b2fcd2e.webp",
-      "url": "https://webflow.com/templates/html/protex-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360071+00:00"
-    },
-    {
-      "id": "webflow-disort-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$129",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693206931539315bd4bd8681_f83b1797-a3f0-4323-8383-37dea3f5a2b2.webp",
-      "url": "https://webflow.com/templates/html/disort-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360184+00:00"
-    },
-    {
-      "id": "webflow-taskopia-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$129",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6931bf574f648442d5f5a42f_d5b4f046-30ad-48e6-805f-2e66b517104e.webp",
-      "url": "https://webflow.com/templates/html/taskopia-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360281+00:00"
-    },
-    {
-      "id": "webflow-motion-studio-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696d42aeed370beead1af888_1768768146661_767232480_1-20-288-29.webp",
-      "url": "https://webflow.com/templates/html/motion-studio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360375+00:00"
-    },
-    {
-      "id": "webflow-grabfy-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930a159bd33e2a06ebed076_544e6b20-cf24-4121-aaf9-e7c1a689b0cb.webp",
-      "url": "https://webflow.com/templates/html/grabfy-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360468+00:00"
-    },
-    {
-      "id": "webflow-arqonmuseum-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$39",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930483bf9457c40c4f62863_5eac3909-fc36-4c37-9f9c-e46c8d25470f.webp",
-      "url": "https://webflow.com/templates/html/arqonmuseum-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360559+00:00"
-    },
-    {
-      "id": "webflow-ancestra-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691bf332883d4a09faf867e8_277438ee-77fd-4f29-aec8-bcaf656a1f49.webp",
-      "url": "https://webflow.com/templates/html/ancestra-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360649+00:00"
-    },
-    {
-      "id": "webflow-snaped-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$39",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691c9a9b4323ae4cd1dbf528_c6463cc5-aa5d-4068-a97d-3cc227f1f148.webp",
-      "url": "https://webflow.com/templates/html/snaped-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360739+00:00"
-    },
-    {
-      "id": "webflow-ritoze-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f17da147364c179c25ffb_1763042316044_781753942_Primary.webp",
-      "url": "https://webflow.com/templates/html/ritoze-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360836+00:00"
-    },
-    {
-      "id": "webflow-fleet-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f12743ad06a723d818033_1764692557968_739318412_Fleet_1-20-281-29.webp",
-      "url": "https://webflow.com/templates/html/fleet-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.360930+00:00"
-    },
-    {
-      "id": "webflow-nomore-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f03ae66f25f03dec42a27_c59508c1-c7b1-4b80-9c07-22fb7b13f6cc.webp",
-      "url": "https://webflow.com/templates/html/nomore-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361022+00:00"
-    },
-    {
-      "id": "webflow-throne-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$59",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f0256f3d95699771fd89f_468c4404-1bab-4235-bf02-f8da6d65d2ee.webp",
-      "url": "https://webflow.com/templates/html/throne-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361112+00:00"
-    },
-    {
-      "id": "webflow-nimatra-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd79df24f2f20816e1758_187a4013-2951-41a0-be17-791c1523a991.webp",
-      "url": "https://webflow.com/templates/html/nimatra-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361204+00:00"
-    },
-    {
-      "id": "webflow-verin-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$99",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd53e9cafb98f1ea5c843_f04ca505-ccc1-4232-b62a-8b1704f019dc.webp",
-      "url": "https://webflow.com/templates/html/verin-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361295+00:00"
-    },
-    {
-      "id": "webflow-padelthon-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd44f1f6db484e1391fcd_c4a614c5-612b-4316-b475-d1ce6c607c8d.webp",
-      "url": "https://webflow.com/templates/html/padelthon-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361390+00:00"
-    },
-    {
-      "id": "webflow-lumira-website-template",
-      "title": "View details",
-      "author": "Unknown",
-      "platform": "Webflow",
-      "category": "Featured",
-      "price": "$79",
-      "rating": 0,
-      "sales": 0,
-      "tags": [
-        "Webflow",
-        "Featured"
-      ],
-      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd061a9183ae3da607bc6_Thumbnail-1-(7).webp",
-      "url": "https://webflow.com/templates/html/lumira-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361478+00:00"
+      "previewUrl": "https://webflow.com/templates/html/fynexa-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752147+00:00"
     },
     {
       "id": "webflow-chatnext-website-template",
@@ -2956,6 +2408,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2963,8 +2416,1089 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6953837c73506e2a155e2565_0464e74f-0667-4987-89f1-deb8c892b376.webp",
       "url": "https://webflow.com/templates/html/chatnext-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361570+00:00"
+      "previewUrl": "https://webflow.com/templates/html/chatnext-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755165+00:00"
+    },
+    {
+      "id": "webflow-brim-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6933f2422a339efdee722227_1765012019056_184530147_brim-Thumbnail.webp",
+      "url": "https://webflow.com/templates/html/brim-website-template",
+      "previewUrl": "https://webflow.com/templates/html/brim-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753398+00:00"
+    },
+    {
+      "id": "webflow-ritoze-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f17da147364c179c25ffb_1763042316044_781753942_Primary.webp",
+      "url": "https://webflow.com/templates/html/ritoze-website-template",
+      "previewUrl": "https://webflow.com/templates/html/ritoze-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754398+00:00"
+    },
+    {
+      "id": "webflow-eduraflow-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696da969b88b20fa22979a38_fffa120e-3ded-4e6f-93a1-b3616ec17437.webp",
+      "url": "https://webflow.com/templates/html/eduraflow-website-template",
+      "previewUrl": "https://webflow.com/templates/html/eduraflow-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.750952+00:00"
+    },
+    {
+      "id": "webflow-flock-ramp-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6953e3b810a42715c6b6e4e0_0d62cb9c-2ced-4220-b99e-4334772b3256.webp",
+      "url": "https://webflow.com/templates/html/flock-ramp-website-template",
+      "previewUrl": "https://webflow.com/templates/html/flock-ramp-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751955+00:00"
+    },
+    {
+      "id": "webflow-fluxcon-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$59",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995df1aeddaceb85a1b78b3_6492d842-1c03-4c43-94f6-ed8bee1f6365.webp",
+      "url": "https://webflow.com/templates/html/fluxcon-website-template",
+      "previewUrl": "https://webflow.com/templates/html/fluxcon-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481132+00:00"
+    },
+    {
+      "id": "webflow-lenjoy-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$59",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995de3790ecefb62ace3586_0032cb77-11f6-4d72-93a0-4baba84f6f9d.webp",
+      "url": "https://webflow.com/templates/html/lenjoy-website-template",
+      "previewUrl": "https://webflow.com/templates/html/lenjoy-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481230+00:00"
+    },
+    {
+      "id": "webflow-electpro-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995dd7539fbc2fed4685a16_b66a3283-4b35-4598-a155-99ee2744af5e.webp",
+      "url": "https://webflow.com/templates/html/electpro-website-template",
+      "previewUrl": "https://webflow.com/templates/html/electpro-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481329+00:00"
+    },
+    {
+      "id": "webflow-vertical-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995da429030ecab0defb8b5_f76a31cd-7168-43f4-87ca-df85d209f4e8.webp",
+      "url": "https://webflow.com/templates/html/vertical-website-template",
+      "previewUrl": "https://webflow.com/templates/html/vertical-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481428+00:00"
+    },
+    {
+      "id": "webflow-saval-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995d7b4151edb1c5f55f64d_2d37fd06-3682-49a5-8922-b36a3ae868db.webp",
+      "url": "https://webflow.com/templates/html/saval-website-template",
+      "previewUrl": "https://webflow.com/templates/html/saval-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481526+00:00"
+    },
+    {
+      "id": "webflow-harvestiq-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995d383e2dc6fc1f6f5b63b_2298bb01-9b2b-4420-84e2-9838ef6edc6b.webp",
+      "url": "https://webflow.com/templates/html/harvestiq-website-template",
+      "previewUrl": "https://webflow.com/templates/html/harvestiq-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481624+00:00"
+    },
+    {
+      "id": "webflow-intellichat-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995d2ebc0784160eff2d32e_81990063-02c1-468e-8a35-ab7bf13f4e24.webp",
+      "url": "https://webflow.com/templates/html/intellichat-website-template",
+      "previewUrl": "https://webflow.com/templates/html/intellichat-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481722+00:00"
+    },
+    {
+      "id": "webflow-fontenta-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6995c92f1862ec457471145a_ee397c08-194c-49db-bd71-7ad8c1dfb716.webp",
+      "url": "https://webflow.com/templates/html/fontenta-website-template",
+      "previewUrl": "https://webflow.com/templates/html/fontenta-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481821+00:00"
+    },
+    {
+      "id": "webflow-showly-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/699548573d3ab15fba5bb6be_01dc0400-78f3-46fc-afb0-ac5ba50f88e5.webp",
+      "url": "https://webflow.com/templates/html/showly-website-template",
+      "previewUrl": "https://webflow.com/templates/html/showly-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.481930+00:00"
+    },
+    {
+      "id": "webflow-sympos-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/699548563d3ab15fba5bb6a7_Sympos.webp",
+      "url": "https://webflow.com/templates/html/sympos-website-template",
+      "previewUrl": "https://webflow.com/templates/html/sympos-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482039+00:00"
+    },
+    {
+      "id": "webflow-visuo-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/698cd8de3bd79a96e9a796f8_visuo.webp",
+      "url": "https://webflow.com/templates/html/visuo-website-template",
+      "previewUrl": "https://webflow.com/templates/html/visuo-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482219+00:00"
+    },
+    {
+      "id": "webflow-airlens-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697529cf26b88fe8a78c0273_f95ecbab-2dbe-4566-9c52-80180d74cd6f.webp",
+      "url": "https://webflow.com/templates/html/airlens-website-template",
+      "previewUrl": "https://webflow.com/templates/html/airlens-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482347+00:00"
+    },
+    {
+      "id": "webflow-mindoor-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/697510df7d8ce99c780783e3_0ef90a37-7b71-45c4-b97c-0df1aac6fc4a.webp",
+      "url": "https://webflow.com/templates/html/mindoor-website-template",
+      "previewUrl": "https://webflow.com/templates/html/mindoor-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482456+00:00"
+    },
+    {
+      "id": "webflow-homura-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69707d10a76ea2ffac6fd416_590f9baf-cd11-4de4-a883-4e78de6f7247.webp",
+      "url": "https://webflow.com/templates/html/homura-website-template",
+      "previewUrl": "https://webflow.com/templates/html/homura-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482565+00:00"
+    },
+    {
+      "id": "webflow-lukas-x-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Popular",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Popular"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69709d8e0e2e19826f37b063_1768987966142_447459193_Thumbnail-20-281-29.webp",
+      "url": "https://webflow.com/templates/html/lukas-x-website-template",
+      "previewUrl": "https://webflow.com/templates/html/lukas-x-website-template",
+      "description": "View details — a popular Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:48.482673+00:00"
+    },
+    {
+      "id": "webflow-eclipsis-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696ab674443a976c8bd84809_2194d4b7-269d-491a-a925-3a063490a56e.webp",
+      "url": "https://webflow.com/templates/html/eclipsis-website-template",
+      "previewUrl": "https://webflow.com/templates/html/eclipsis-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.751266+00:00"
+    },
+    {
+      "id": "webflow-angestudio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6952efe5c6bc60c0c3056dc4_f8a444de-e18e-47a9-8527-28073199efb7.webp",
+      "url": "https://webflow.com/templates/html/angestudio-website-template",
+      "previewUrl": "https://webflow.com/templates/html/angestudio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752048+00:00"
+    },
+    {
+      "id": "webflow-stuxen-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c320c611298673cab5555_b75e97ae.webp",
+      "url": "https://webflow.com/templates/html/stuxen-website-template",
+      "previewUrl": "https://webflow.com/templates/html/stuxen-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752253+00:00"
+    },
+    {
+      "id": "webflow-ambrosia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c2dc35e93ec4468edeb33_0c6e8264-3585-4ea9-84eb-73b09551096f.webp",
+      "url": "https://webflow.com/templates/html/ambrosia-website-template",
+      "previewUrl": "https://webflow.com/templates/html/ambrosia-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752343+00:00"
+    },
+    {
+      "id": "webflow-novasite-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694aebc3aa6cba6c72ecbcde_Novasite-Webflow-HTML-Website.webp",
+      "url": "https://webflow.com/templates/html/novasite-website-template",
+      "previewUrl": "https://webflow.com/templates/html/novasite-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752430+00:00"
+    },
+    {
+      "id": "webflow-roundsite-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694acd269fb8ccf2e65faaf4_9ad3b6dc-1938-41a9-922f-9d96c238eb8e.webp",
+      "url": "https://webflow.com/templates/html/roundsite-website-template",
+      "previewUrl": "https://webflow.com/templates/html/roundsite-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752519+00:00"
+    },
+    {
+      "id": "webflow-Arooth-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/694c3f128afcd4593cd9aa4d_1766604529108_429159938_Thumbnail-1.webp",
+      "url": "https://webflow.com/templates/html/Arooth-website-template",
+      "previewUrl": "https://webflow.com/templates/html/Arooth-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752614+00:00"
+    },
+    {
+      "id": "webflow-bitteschon-studio---e-commerce-website-template-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69430acff1840d82621a7628_23bc546c-9a55-4027-b214-6646c6841115.webp",
+      "url": "https://webflow.com/templates/html/bitteschon-studio---e-commerce-website-template-website-template",
+      "previewUrl": "https://webflow.com/templates/html/bitteschon-studio---e-commerce-website-template-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752707+00:00"
+    },
+    {
+      "id": "webflow-inhubs-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6940c8ed5c1ffc0ed7758231_cb397e66-668c-421f-af95-fe4283ccbb2d.webp",
+      "url": "https://webflow.com/templates/html/inhubs-website-template",
+      "previewUrl": "https://webflow.com/templates/html/inhubs-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752799+00:00"
+    },
+    {
+      "id": "webflow-visto-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693c6f82aa60d1c656cfa22b_323479ff-a6d9-4047-aac6-9097584729c6.webp",
+      "url": "https://webflow.com/templates/html/visto-website-template",
+      "previewUrl": "https://webflow.com/templates/html/visto-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.752901+00:00"
+    },
+    {
+      "id": "webflow-kanzo-studio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69633a9711a0b3847b1b81a4_1768108659031_93457011_thumbnail_1_1.webp",
+      "url": "https://webflow.com/templates/html/kanzo-studio-website-template",
+      "previewUrl": "https://webflow.com/templates/html/kanzo-studio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753000+00:00"
+    },
+    {
+      "id": "webflow-catalis-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$169",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693b557e3288c40dc8f16783_756a965b-966e-43cd-9db5-396eb9d877a8.webp",
+      "url": "https://webflow.com/templates/html/catalis-website-template",
+      "previewUrl": "https://webflow.com/templates/html/catalis-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753106+00:00"
+    },
+    {
+      "id": "webflow-prokit-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$29",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69361116532901b72334640e_b447646e-6c18-42e1-a642-990fef83a35c.webp",
+      "url": "https://webflow.com/templates/html/prokit-website-template",
+      "previewUrl": "https://webflow.com/templates/html/prokit-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753204+00:00"
+    },
+    {
+      "id": "webflow-infinite-canvas-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6935baa56e51a338c75bfe7d_2860ff45-3386-4d29-8515-c463b2c9d65f.webp",
+      "url": "https://webflow.com/templates/html/infinite-canvas-website-template",
+      "previewUrl": "https://webflow.com/templates/html/infinite-canvas-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753302+00:00"
+    },
+    {
+      "id": "webflow-movark-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69333846c1fb76afe8af6e70_3371e165-b45c-485f-a2c1-64921764cfd2.webp",
+      "url": "https://webflow.com/templates/html/movark-website-template",
+      "previewUrl": "https://webflow.com/templates/html/movark-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753499+00:00"
+    },
+    {
+      "id": "webflow-protex-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "Free",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6932896d02d52aa1eafc70c7_ae91c546-480b-4243-9b92-82578b2fcd2e.webp",
+      "url": "https://webflow.com/templates/html/protex-website-template",
+      "previewUrl": "https://webflow.com/templates/html/protex-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753616+00:00"
+    },
+    {
+      "id": "webflow-disort-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/693206931539315bd4bd8681_f83b1797-a3f0-4323-8383-37dea3f5a2b2.webp",
+      "url": "https://webflow.com/templates/html/disort-website-template",
+      "previewUrl": "https://webflow.com/templates/html/disort-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753714+00:00"
+    },
+    {
+      "id": "webflow-taskopia-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$129",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6931bf574f648442d5f5a42f_d5b4f046-30ad-48e6-805f-2e66b517104e.webp",
+      "url": "https://webflow.com/templates/html/taskopia-website-template",
+      "previewUrl": "https://webflow.com/templates/html/taskopia-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753809+00:00"
+    },
+    {
+      "id": "webflow-motion-studio-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/696d42aeed370beead1af888_1768768146661_767232480_1-20-288-29.webp",
+      "url": "https://webflow.com/templates/html/motion-studio-website-template",
+      "previewUrl": "https://webflow.com/templates/html/motion-studio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.753909+00:00"
+    },
+    {
+      "id": "webflow-grabfy-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930a159bd33e2a06ebed076_544e6b20-cf24-4121-aaf9-e7c1a689b0cb.webp",
+      "url": "https://webflow.com/templates/html/grabfy-website-template",
+      "previewUrl": "https://webflow.com/templates/html/grabfy-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754003+00:00"
+    },
+    {
+      "id": "webflow-arqonmuseum-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6930483bf9457c40c4f62863_5eac3909-fc36-4c37-9f9c-e46c8d25470f.webp",
+      "url": "https://webflow.com/templates/html/arqonmuseum-website-template",
+      "previewUrl": "https://webflow.com/templates/html/arqonmuseum-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754104+00:00"
+    },
+    {
+      "id": "webflow-ancestra-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691bf332883d4a09faf867e8_277438ee-77fd-4f29-aec8-bcaf656a1f49.webp",
+      "url": "https://webflow.com/templates/html/ancestra-website-template",
+      "previewUrl": "https://webflow.com/templates/html/ancestra-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754201+00:00"
+    },
+    {
+      "id": "webflow-snaped-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$39",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691c9a9b4323ae4cd1dbf528_c6463cc5-aa5d-4068-a97d-3cc227f1f148.webp",
+      "url": "https://webflow.com/templates/html/snaped-website-template",
+      "previewUrl": "https://webflow.com/templates/html/snaped-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754304+00:00"
+    },
+    {
+      "id": "webflow-fleet-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f12743ad06a723d818033_1764692557968_739318412_Fleet_1-20-281-29.webp",
+      "url": "https://webflow.com/templates/html/fleet-website-template",
+      "previewUrl": "https://webflow.com/templates/html/fleet-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754491+00:00"
+    },
+    {
+      "id": "webflow-nomore-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f03ae66f25f03dec42a27_c59508c1-c7b1-4b80-9c07-22fb7b13f6cc.webp",
+      "url": "https://webflow.com/templates/html/nomore-website-template",
+      "previewUrl": "https://webflow.com/templates/html/nomore-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754581+00:00"
+    },
+    {
+      "id": "webflow-throne-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$59",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692f0256f3d95699771fd89f_468c4404-1bab-4235-bf02-f8da6d65d2ee.webp",
+      "url": "https://webflow.com/templates/html/throne-website-template",
+      "previewUrl": "https://webflow.com/templates/html/throne-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754676+00:00"
+    },
+    {
+      "id": "webflow-nimatra-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd79df24f2f20816e1758_187a4013-2951-41a0-be17-791c1523a991.webp",
+      "url": "https://webflow.com/templates/html/nimatra-website-template",
+      "previewUrl": "https://webflow.com/templates/html/nimatra-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754776+00:00"
+    },
+    {
+      "id": "webflow-verin-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$99",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd53e9cafb98f1ea5c843_f04ca505-ccc1-4232-b62a-8b1704f019dc.webp",
+      "url": "https://webflow.com/templates/html/verin-website-template",
+      "previewUrl": "https://webflow.com/templates/html/verin-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754871+00:00"
+    },
+    {
+      "id": "webflow-padelthon-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd44f1f6db484e1391fcd_c4a614c5-612b-4316-b475-d1ce6c607c8d.webp",
+      "url": "https://webflow.com/templates/html/padelthon-website-template",
+      "previewUrl": "https://webflow.com/templates/html/padelthon-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.754963+00:00"
+    },
+    {
+      "id": "webflow-lumira-website-template",
+      "title": "View details",
+      "author": "Unknown",
+      "platform": "Webflow",
+      "category": "Featured",
+      "price": "$79",
+      "rating": 0,
+      "ratingCount": 0,
+      "sales": 0,
+      "tags": [
+        "Webflow",
+        "Featured"
+      ],
+      "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692dd061a9183ae3da607bc6_Thumbnail-1-(7).webp",
+      "url": "https://webflow.com/templates/html/lumira-website-template",
+      "previewUrl": "https://webflow.com/templates/html/lumira-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755061+00:00"
     },
     {
       "id": "webflow-gadgetar-website-template",
@@ -2974,6 +3508,7 @@
       "category": "Featured",
       "price": "$169",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2981,8 +3516,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6929dcf9af52c63c7b170a9a_128e304e-f334-4a88-821d-0ce29cec884f.webp",
       "url": "https://webflow.com/templates/html/gadgetar-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361670+00:00"
+      "previewUrl": "https://webflow.com/templates/html/gadgetar-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755270+00:00"
     },
     {
       "id": "webflow-erontaraya-website-template",
@@ -2992,6 +3530,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -2999,8 +3538,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692b2b5a4ae6de4b195f8847_1764436783557_363781019_sdsd.webp",
       "url": "https://webflow.com/templates/html/erontaraya-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361758+00:00"
+      "previewUrl": "https://webflow.com/templates/html/erontaraya-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755371+00:00"
     },
     {
       "id": "webflow-Axtira-website-template",
@@ -3010,6 +3552,7 @@
       "category": "Featured",
       "price": "$129",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3017,8 +3560,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6928cc924a111717d2b4dde7_58d04539.webp",
       "url": "https://webflow.com/templates/html/Axtira-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361855+00:00"
+      "previewUrl": "https://webflow.com/templates/html/Axtira-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755472+00:00"
     },
     {
       "id": "webflow-bungee-website-template",
@@ -3028,6 +3574,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3035,8 +3582,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6924a9450df62687b85a6c9c_5f1bec39-2278-4442-a619-0fa2c7f31e99.webp",
       "url": "https://webflow.com/templates/html/bungee-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.361947+00:00"
+      "previewUrl": "https://webflow.com/templates/html/bungee-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755569+00:00"
     },
     {
       "id": "webflow-lumenis-website-template",
@@ -3046,6 +3596,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3053,8 +3604,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/692499f59d76026b77b3e2d2_ae97ac7c-01f4-49fa-91e6-1f6dc248fa5c.webp",
       "url": "https://webflow.com/templates/html/lumenis-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362039+00:00"
+      "previewUrl": "https://webflow.com/templates/html/lumenis-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755674+00:00"
     },
     {
       "id": "webflow-credo-website-template",
@@ -3064,6 +3618,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3071,8 +3626,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691ca4bf0c29403971e0c1b8_380451b6-7b67-45c0-8d52-883a3716b370.webp",
       "url": "https://webflow.com/templates/html/credo-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362131+00:00"
+      "previewUrl": "https://webflow.com/templates/html/credo-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755777+00:00"
     },
     {
       "id": "webflow-widvio-website-template",
@@ -3082,6 +3640,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3089,8 +3648,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691bf8d6bf4cac8ed5bcee53_3b445454-1fc7-4499-ae08-dd1ac3dc530f.webp",
       "url": "https://webflow.com/templates/html/widvio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362222+00:00"
+      "previewUrl": "https://webflow.com/templates/html/widvio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755876+00:00"
     },
     {
       "id": "webflow-fithive-website-template",
@@ -3100,6 +3662,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3107,8 +3670,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691be9dd0ab5918f25837543_2ef97f18-60c8-4b1e-bd9d-6a34a0f15f6f.webp",
       "url": "https://webflow.com/templates/html/fithive-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362313+00:00"
+      "previewUrl": "https://webflow.com/templates/html/fithive-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.755974+00:00"
     },
     {
       "id": "webflow-aithra-website-template",
@@ -3118,6 +3684,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3125,8 +3692,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6918253251bca027d7eb9a09_f0fcc4e7-29f0-45a5-a7a4-739aa7e0f488.webp",
       "url": "https://webflow.com/templates/html/aithra-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362403+00:00"
+      "previewUrl": "https://webflow.com/templates/html/aithra-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756076+00:00"
     },
     {
       "id": "webflow-cinematicframe-website-template",
@@ -3136,6 +3706,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3143,8 +3714,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69180ae51d71635147272239_f3f66fa3-cc15-4da6-9708-61d084c39999.webp",
       "url": "https://webflow.com/templates/html/cinematicframe-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362493+00:00"
+      "previewUrl": "https://webflow.com/templates/html/cinematicframe-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756165+00:00"
     },
     {
       "id": "webflow-shmse-website-template",
@@ -3154,6 +3728,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3161,8 +3736,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6916209a3c672589c0003709_f6ca6708-844e-4402-b849-99c47179af04.webp",
       "url": "https://webflow.com/templates/html/shmse-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362585+00:00"
+      "previewUrl": "https://webflow.com/templates/html/shmse-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756254+00:00"
     },
     {
       "id": "webflow-unusually-website-template",
@@ -3172,6 +3750,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3179,8 +3758,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69074cba3a4fd15cbbb0661b_1762086036064_975226254_thumbnail-01.webp",
       "url": "https://webflow.com/templates/html/unusually-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362678+00:00"
+      "previewUrl": "https://webflow.com/templates/html/unusually-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756354+00:00"
     },
     {
       "id": "webflow-vrtx-website-template",
@@ -3190,6 +3772,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3197,8 +3780,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691371597e321adb2756707b_51f80a8c-b893-488f-8201-e52da67ca5e9.webp",
       "url": "https://webflow.com/templates/html/vrtx-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362808+00:00"
+      "previewUrl": "https://webflow.com/templates/html/vrtx-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756448+00:00"
     },
     {
       "id": "webflow-thimos-website-template",
@@ -3208,6 +3794,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3215,8 +3802,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d50932d0c9d19414a95e6_64601256-116e-4a49-ab63-50cb69d890a3.webp",
       "url": "https://webflow.com/templates/html/thimos-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.362911+00:00"
+      "previewUrl": "https://webflow.com/templates/html/thimos-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756554+00:00"
     },
     {
       "id": "webflow-axis-works-website-template",
@@ -3226,6 +3816,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3233,8 +3824,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d4bfe5d4ced0744b36a4f_b798526a-7823-440d-acf3-3848ae1992f0.webp",
       "url": "https://webflow.com/templates/html/axis-works-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363011+00:00"
+      "previewUrl": "https://webflow.com/templates/html/axis-works-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756655+00:00"
     },
     {
       "id": "webflow-oxbridge-website-template",
@@ -3244,6 +3838,7 @@
       "category": "Featured",
       "price": "$129",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3251,8 +3846,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690d4aee68e2a31f91c9bb94_0295514b-afeb-4532-a47e-8e82d5e30cad.webp",
       "url": "https://webflow.com/templates/html/oxbridge-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363101+00:00"
+      "previewUrl": "https://webflow.com/templates/html/oxbridge-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756754+00:00"
     },
     {
       "id": "webflow-davai-website-template",
@@ -3262,6 +3860,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3269,8 +3868,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/691679f26e35f23eea9b477b_2ef84192-d4e5-4b3c-9645-c70fce828cb3.webp",
       "url": "https://webflow.com/templates/html/davai-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363198+00:00"
+      "previewUrl": "https://webflow.com/templates/html/davai-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756854+00:00"
     },
     {
       "id": "webflow-rowters-website-template",
@@ -3280,6 +3882,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3287,8 +3890,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/690a146ccb0d4a9cf4515d40_e63f7df3-d746-47a2-aba7-2c8a5bc1ad6a.webp",
       "url": "https://webflow.com/templates/html/rowters-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363295+00:00"
+      "previewUrl": "https://webflow.com/templates/html/rowters-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.756953+00:00"
     },
     {
       "id": "webflow-setrex-website-template",
@@ -3298,6 +3904,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3305,8 +3912,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69083fdbf61ec75cb176ddee_f19e0716-5bb5-4dbd-bdf3-2858da9521f5.webp",
       "url": "https://webflow.com/templates/html/setrex-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363385+00:00"
+      "previewUrl": "https://webflow.com/templates/html/setrex-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757051+00:00"
     },
     {
       "id": "webflow-kleno-website-template",
@@ -3316,6 +3926,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3323,8 +3934,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69067b210f48fd12fec6db53_2b7b7e8c-bfe1-48e6-a4c7-02221418c002.webp",
       "url": "https://webflow.com/templates/html/kleno-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363473+00:00"
+      "previewUrl": "https://webflow.com/templates/html/kleno-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757148+00:00"
     },
     {
       "id": "webflow-quantumai-website-template",
@@ -3334,6 +3948,7 @@
       "category": "Featured",
       "price": "$169",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3341,8 +3956,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69042b4b793ea7d0f3b9a947_b2b9ab25-8b97-4f8c-be66-71e26cc76c72.webp",
       "url": "https://webflow.com/templates/html/quantumai-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363566+00:00"
+      "previewUrl": "https://webflow.com/templates/html/quantumai-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757238+00:00"
     },
     {
       "id": "webflow-halden-miller-website-template",
@@ -3352,6 +3970,7 @@
       "category": "Featured",
       "price": "$129",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3359,8 +3978,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/69024499ece5fbb9d60ab1dd_07cde1de-9677-4c0f-ab1e-c7d8d956505c.webp",
       "url": "https://webflow.com/templates/html/halden-miller-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363673+00:00"
+      "previewUrl": "https://webflow.com/templates/html/halden-miller-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757337+00:00"
     },
     {
       "id": "webflow-reveo-website-template",
@@ -3370,6 +3992,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3377,8 +4000,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6900d8d9c47c2404dda915f4_fc797056-cec5-41ab-97f0-bf82af445702.webp",
       "url": "https://webflow.com/templates/html/reveo-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363767+00:00"
+      "previewUrl": "https://webflow.com/templates/html/reveo-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757438+00:00"
     },
     {
       "id": "webflow-aerio-website-template",
@@ -3388,6 +4014,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3395,8 +4022,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6900d82038d4fb182dcea6a8_2eaed36a-c82a-4025-9fa3-6f35e0dc759a.webp",
       "url": "https://webflow.com/templates/html/aerio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363859+00:00"
+      "previewUrl": "https://webflow.com/templates/html/aerio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757538+00:00"
     },
     {
       "id": "webflow-biodex-website-template",
@@ -3406,6 +4036,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3413,8 +4044,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ffa36cd394952593d36358_f1cff269-4280-49bd-a948-08c637f41ffc.webp",
       "url": "https://webflow.com/templates/html/biodex-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.363951+00:00"
+      "previewUrl": "https://webflow.com/templates/html/biodex-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757633+00:00"
     },
     {
       "id": "webflow-recrot-website-template",
@@ -3424,6 +4058,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3431,8 +4066,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ff9f7c5b0ee61c179aefd0_3780f182-6bca-4f51-99dc-e18e422769e6.webp",
       "url": "https://webflow.com/templates/html/recrot-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364041+00:00"
+      "previewUrl": "https://webflow.com/templates/html/recrot-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757727+00:00"
     },
     {
       "id": "webflow-signal-x-website-template",
@@ -3442,6 +4080,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3449,8 +4088,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6918b4e7c42440b0dfc557d7_1763226824415_775501683_Thumbnail-204-20-283-29.webp",
       "url": "https://webflow.com/templates/html/signal-x-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364132+00:00"
+      "previewUrl": "https://webflow.com/templates/html/signal-x-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757825+00:00"
     },
     {
       "id": "webflow-cattleya-website-template",
@@ -3460,6 +4102,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3467,8 +4110,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68fa585a581a365ec48174e2_f56ebfd2-e971-4633-99fa-d9586fd91e08.webp",
       "url": "https://webflow.com/templates/html/cattleya-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364239+00:00"
+      "previewUrl": "https://webflow.com/templates/html/cattleya-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.757924+00:00"
     },
     {
       "id": "webflow-structon-website-template",
@@ -3478,6 +4124,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3485,8 +4132,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68fa4ad451ab36389e305f4d_2a53c055-f4a2-42c3-80e2-370602429846.webp",
       "url": "https://webflow.com/templates/html/structon-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364331+00:00"
+      "previewUrl": "https://webflow.com/templates/html/structon-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758020+00:00"
     },
     {
       "id": "webflow-datalog-website-template",
@@ -3496,6 +4146,7 @@
       "category": "Featured",
       "price": "$169",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3503,8 +4154,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f7b8cd45bfe77dd636e9bb_64870c09-1da4-49e5-a141-79bb4083373a.webp",
       "url": "https://webflow.com/templates/html/datalog-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364427+00:00"
+      "previewUrl": "https://webflow.com/templates/html/datalog-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758116+00:00"
     },
     {
       "id": "webflow-arcane-website-template",
@@ -3514,6 +4168,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3521,8 +4176,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f66dff99c9abd1ac08964e_73e0fa10-df35-43f0-85b2-b1b549da82a5.webp",
       "url": "https://webflow.com/templates/html/arcane-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364525+00:00"
+      "previewUrl": "https://webflow.com/templates/html/arcane-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758217+00:00"
     },
     {
       "id": "webflow-rustico-website-template",
@@ -3532,6 +4190,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3539,8 +4198,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2ff98af49b73061dc6177_558aa8b7-b4b9-458b-ba09-6da9529fea54.webp",
       "url": "https://webflow.com/templates/html/rustico-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364613+00:00"
+      "previewUrl": "https://webflow.com/templates/html/rustico-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758320+00:00"
     },
     {
       "id": "webflow-sustify-website-template",
@@ -3550,6 +4212,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3557,8 +4220,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2ff98af49b73061dc61ca_2dd383d6-cde1-45e3-84bf-35a1e45f3786.webp",
       "url": "https://webflow.com/templates/html/sustify-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364707+00:00"
+      "previewUrl": "https://webflow.com/templates/html/sustify-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758419+00:00"
     },
     {
       "id": "webflow-oakayu-website-template",
@@ -3568,6 +4234,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3575,8 +4242,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2c91beeb690babb2a23cc_7eb6d412-c82e-4516-9f50-ad52862c9fca.webp",
       "url": "https://webflow.com/templates/html/oakayu-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364798+00:00"
+      "previewUrl": "https://webflow.com/templates/html/oakayu-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758508+00:00"
     },
     {
       "id": "webflow-poxmic-website-template",
@@ -3586,6 +4256,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3593,8 +4264,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68f2c3b0dd53e63688f83f45_Thumbnail-1.webp",
       "url": "https://webflow.com/templates/html/poxmic-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364891+00:00"
+      "previewUrl": "https://webflow.com/templates/html/poxmic-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758595+00:00"
     },
     {
       "id": "webflow-proforma-db-website-template",
@@ -3604,6 +4278,7 @@
       "category": "Featured",
       "price": "$99",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3611,8 +4286,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed86f1ee6b43e52ee2aae8_e644726f.webp",
       "url": "https://webflow.com/templates/html/proforma-db-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.364994+00:00"
+      "previewUrl": "https://webflow.com/templates/html/proforma-db-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758682+00:00"
     },
     {
       "id": "webflow-audrey-website-template",
@@ -3622,6 +4300,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3629,8 +4308,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed0f88e1a1a925d42bd9a8_7f9dbfd4-842a-4493-9255-038d87e0e440.webp",
       "url": "https://webflow.com/templates/html/audrey-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365084+00:00"
+      "previewUrl": "https://webflow.com/templates/html/audrey-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758771+00:00"
     },
     {
       "id": "webflow-jaeger-website-template",
@@ -3640,6 +4322,7 @@
       "category": "Featured",
       "price": "$29",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3647,8 +4330,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68ed0012d491930f63b21ffb_a9b4ea42-e7f7-4b70-aba8-b81ae5495859.webp",
       "url": "https://webflow.com/templates/html/jaeger-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365186+00:00"
+      "previewUrl": "https://webflow.com/templates/html/jaeger-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758866+00:00"
     },
     {
       "id": "webflow-ignitex-website-template",
@@ -3658,6 +4344,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3665,8 +4352,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e6b274b5466e68fb687f99_feffc8a3-d9df-4656-9fbe-399d8f90316e.webp",
       "url": "https://webflow.com/templates/html/ignitex-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365286+00:00"
+      "previewUrl": "https://webflow.com/templates/html/ignitex-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.758980+00:00"
     },
     {
       "id": "webflow-okio-website-template",
@@ -3676,6 +4366,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3683,8 +4374,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e5cedab83919384f34b284_0944573d-d81c-4959-be87-13d2c6e9b41f.webp",
       "url": "https://webflow.com/templates/html/okio-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365376+00:00"
+      "previewUrl": "https://webflow.com/templates/html/okio-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759080+00:00"
     },
     {
       "id": "webflow-mavon-website-template",
@@ -3694,6 +4388,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3701,8 +4396,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e53bb7e24ee74e3d4871d3_3f01cabe-949f-4d34-b352-26f81afc4207.webp",
       "url": "https://webflow.com/templates/html/mavon-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365469+00:00"
+      "previewUrl": "https://webflow.com/templates/html/mavon-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759182+00:00"
     },
     {
       "id": "webflow-nextel-website-template",
@@ -3712,6 +4410,7 @@
       "category": "Featured",
       "price": "$79",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3719,8 +4418,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e3f06a3d537c618e4f7634_d4dabda8-c26a-4343-b6ae-c8f8bf283d08.webp",
       "url": "https://webflow.com/templates/html/nextel-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365561+00:00"
+      "previewUrl": "https://webflow.com/templates/html/nextel-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759281+00:00"
     },
     {
       "id": "webflow-ousya-website-template",
@@ -3730,6 +4432,7 @@
       "category": "Featured",
       "price": "$39",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3737,8 +4440,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e789079ab8ca211f210cf2_45329001-a54b-4693-b3c5-ba8985ca977f.webp",
       "url": "https://webflow.com/templates/html/ousya-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365651+00:00"
+      "previewUrl": "https://webflow.com/templates/html/ousya-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759379+00:00"
     },
     {
       "id": "webflow-athlenia-website-template",
@@ -3748,6 +4454,7 @@
       "category": "Featured",
       "price": "$59",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3755,8 +4462,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68e14863a96a59137944f64a_bb0ba619-c494-4866-ace2-2de53fc15751.webp",
       "url": "https://webflow.com/templates/html/athlenia-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365738+00:00"
+      "previewUrl": "https://webflow.com/templates/html/athlenia-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759543+00:00"
     },
     {
       "id": "webflow-finture-website-template",
@@ -3766,6 +4476,7 @@
       "category": "Featured",
       "price": "$129",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Webflow",
@@ -3773,8 +4484,11 @@
       ],
       "thumbnail": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/68dc1a5278960895667dd16b_02e427d4-2ad4-4b90-83f2-3cf52f2443d9.webp",
       "url": "https://webflow.com/templates/html/finture-website-template",
-      "description": "View details — a featured Webflow template.",
-      "scrapedAt": "2026-02-18T16:07:16.365826+00:00"
+      "previewUrl": "https://webflow.com/templates/html/finture-website-template",
+      "description": "View details — a featured Webflow template by Unknown.",
+      "compatibility": "Webflow",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:49:55.759649+00:00"
     },
     {
       "id": "framer-category",
@@ -3784,6 +4498,7 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
@@ -3792,8 +4507,11 @@
       ],
       "thumbnail": "",
       "url": "https://framer.com/marketplace/templates/category/",
+      "previewUrl": "https://framer.com/marketplace/templates/category/",
       "description": "See All → — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731012+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.919858+00:00"
     },
     {
       "id": "framer-xtract",
@@ -3803,16 +4521,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51012%2Fxtract-xqzXUvtiwNfRpXdCNOSbHGhjlIXzdS&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51012/xtract-xqzXUvtiwNfRpXdCNOSbHGhjlIXzdS",
       "url": "https://framer.com/marketplace/templates/xtract/",
+      "previewUrl": "https://framer.com/marketplace/templates/xtract/",
       "description": "Xtract — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731127+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.919969+00:00"
     },
     {
       "id": "framer-formance",
@@ -3822,16 +4544,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49608%2Fformance-nB2xQgmuHOpj33799k3B1sv94bJsj5&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/49608/formance-nB2xQgmuHOpj33799k3B1sv94bJsj5",
       "url": "https://framer.com/marketplace/templates/formance/",
+      "previewUrl": "https://framer.com/marketplace/templates/formance/",
       "description": "Formance — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731382+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920193+00:00"
     },
     {
       "id": "framer-cryptix",
@@ -3841,16 +4567,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50660%2Fcryptix-gbRVsktFZZKMUHzIGSnzURlWkMBjnw&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50660/cryptix-gbRVsktFZZKMUHzIGSnzURlWkMBjnw",
       "url": "https://framer.com/marketplace/templates/cryptix/",
+      "previewUrl": "https://framer.com/marketplace/templates/cryptix/",
       "description": "Cryptix — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731298+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920121+00:00"
     },
     {
       "id": "framer-holier",
@@ -3860,16 +4590,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50510%2Fholier-ZSVOMZTG0fT5k0qUgS7JtLgFUvSntA&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50510/holier-ZSVOMZTG0fT5k0qUgS7JtLgFUvSntA",
       "url": "https://framer.com/marketplace/templates/holier/",
+      "previewUrl": "https://framer.com/marketplace/templates/holier/",
       "description": "Holier — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732204+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920770+00:00"
     },
     {
       "id": "framer-wallet",
@@ -3879,16 +4613,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49239%2Fwallet-BcfpwAgJ1L3RP6d39sWPB457kqD8YB&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/49239/wallet-BcfpwAgJ1L3RP6d39sWPB457kqD8YB",
       "url": "https://framer.com/marketplace/templates/wallet/",
+      "previewUrl": "https://framer.com/marketplace/templates/wallet/",
       "description": "Wallet — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731464+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920265+00:00"
     },
     {
       "id": "framer-opalhaus",
@@ -3898,16 +4636,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55245%2Fopalhaus-eZsRMpnt6jMksbv99dPdIcNucpRUB0&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/55245/opalhaus-eZsRMpnt6jMksbv99dPdIcNucpRUB0",
       "url": "https://framer.com/marketplace/templates/opalhaus/",
+      "previewUrl": "https://framer.com/marketplace/templates/opalhaus/",
       "description": "Opalhaus — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.165740+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901014+00:00"
     },
     {
       "id": "framer-plumbing-contractor-local-service-template",
@@ -3917,16 +4659,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F46480%2Fplumbing-contractor-local-service-template-TsyUhDpwe5iC97qNbSrpyWUin1oPv8&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/46480/plumbing-contractor-local-service-template-TsyUhDpwe5iC97qNbSrpyWUin1oPv8",
       "url": "https://framer.com/marketplace/templates/plumbing-contractor-local-service-template/",
+      "previewUrl": "https://framer.com/marketplace/templates/plumbing-contractor-local-service-template/",
       "description": "Plumbing Contractor Local Service Template — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731548+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920338+00:00"
     },
     {
       "id": "framer-cybery",
@@ -3936,16 +4682,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51805%2Fcybery-OgTaP5yfJYTkuTwTGAOcBBUA5Ymwc3&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51805/cybery-OgTaP5yfJYTkuTwTGAOcBBUA5Ymwc3",
       "url": "https://framer.com/marketplace/templates/cybery/",
+      "previewUrl": "https://framer.com/marketplace/templates/cybery/",
       "description": "Cybery — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.166012+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901162+00:00"
     },
     {
       "id": "framer-najmai",
@@ -3955,16 +4705,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F46177%2Fnajmai-s7nr9JD5XcEQM18jYXexj4cQaPfIgn&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/46177/najmai-s7nr9JD5XcEQM18jYXexj4cQaPfIgn",
       "url": "https://framer.com/marketplace/templates/najmai/",
+      "previewUrl": "https://framer.com/marketplace/templates/najmai/",
       "description": "Najmai — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731629+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920412+00:00"
     },
     {
       "id": "framer-agenly",
@@ -3974,16 +4728,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F59833%2Fagenly-D1mMLYytzaCo8e5PTdhbwxySg6tVjm&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/59833/agenly-D1mMLYytzaCo8e5PTdhbwxySg6tVjm",
       "url": "https://framer.com/marketplace/templates/agenly/",
+      "previewUrl": "https://framer.com/marketplace/templates/agenly/",
       "description": "Agenly — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.166221+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901302+00:00"
     },
     {
       "id": "framer-draftr",
@@ -3993,16 +4751,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53016%2Fdraftr-oBWLGFZgtUfVOcJsCicxS1mPY6zNk6&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/53016/draftr-oBWLGFZgtUfVOcJsCicxS1mPY6zNk6",
       "url": "https://framer.com/marketplace/templates/draftr/",
+      "previewUrl": "https://framer.com/marketplace/templates/draftr/",
       "description": "Draftr — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731750+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920481+00:00"
     },
     {
       "id": "framer-bombon",
@@ -4012,16 +4774,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49246%2Fbombon-cVngVZtc6LKOl1h4fJs9d6FK15XTeK&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/49246/bombon-cVngVZtc6LKOl1h4fJs9d6FK15XTeK",
       "url": "https://framer.com/marketplace/templates/bombon/",
+      "previewUrl": "https://framer.com/marketplace/templates/bombon/",
       "description": "Bombon — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.166391+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901446+00:00"
     },
     {
       "id": "framer-refit",
@@ -4031,16 +4797,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50281%2Frefit-KHrqxTg7MUBBlJKeWxfwRIH2EA4T49&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50281/refit-KHrqxTg7MUBBlJKeWxfwRIH2EA4T49",
       "url": "https://framer.com/marketplace/templates/refit/",
+      "previewUrl": "https://framer.com/marketplace/templates/refit/",
       "description": "Refit — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731921+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920550+00:00"
     },
     {
       "id": "framer-menoa",
@@ -4050,16 +4820,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52509%2Fmenoa-QK9q22Kp3IQovYuVqhjzhktGEb5Ss2&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/52509/menoa-QK9q22Kp3IQovYuVqhjzhktGEb5Ss2",
       "url": "https://framer.com/marketplace/templates/menoa/",
+      "previewUrl": "https://framer.com/marketplace/templates/menoa/",
       "description": "Menoa — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.166557+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901590+00:00"
     },
     {
       "id": "framer-limitless",
@@ -4069,16 +4843,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45423%2Flimitless-iUrhuyeHT4wlKxawc6lNUp0ygapDL4&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45423/limitless-iUrhuyeHT4wlKxawc6lNUp0ygapDL4",
       "url": "https://framer.com/marketplace/templates/limitless/",
+      "previewUrl": "https://framer.com/marketplace/templates/limitless/",
       "description": "Limitless — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732021+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920620+00:00"
     },
     {
       "id": "framer-skyris",
@@ -4088,16 +4866,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55216%2Fskyris-ec8ScNhl63yI6w4r99l8asiQTy7Bnh&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/55216/skyris-ec8ScNhl63yI6w4r99l8asiQTy7Bnh",
       "url": "https://framer.com/marketplace/templates/skyris/",
+      "previewUrl": "https://framer.com/marketplace/templates/skyris/",
       "description": "Skyris — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.166729+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.901732+00:00"
     },
     {
       "id": "framer-gardener",
@@ -4107,16 +4889,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45445%2Fgardener-HD45GxyyvfYOQwjrE5VLJDnlj3v6t8&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45445/gardener-HD45GxyyvfYOQwjrE5VLJDnlj3v6t8",
       "url": "https://framer.com/marketplace/templates/gardener/",
+      "previewUrl": "https://framer.com/marketplace/templates/gardener/",
       "description": "Gardener — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732113+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920700+00:00"
     },
     {
       "id": "framer-superior",
@@ -4126,16 +4912,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F49775%2Fsuperior-ZsPtCt6yei7TEo3I8jsCXoNm34LlkK&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/49775/superior-ZsPtCt6yei7TEo3I8jsCXoNm34LlkK",
       "url": "https://framer.com/marketplace/templates/superior/",
+      "previewUrl": "https://framer.com/marketplace/templates/superior/",
       "description": "Superior — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731708+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780989+00:00"
     },
     {
       "id": "framer-perform",
@@ -4145,16 +4935,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51062%2Fperform-KOFbrDtYWD9w0uNIbYc5gdeRZsc7v1&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51062/perform-KOFbrDtYWD9w0uNIbYc5gdeRZsc7v1",
       "url": "https://framer.com/marketplace/templates/perform/",
+      "previewUrl": "https://framer.com/marketplace/templates/perform/",
       "description": "Perform — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732309+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920842+00:00"
     },
     {
       "id": "framer-vectura",
@@ -4164,16 +4958,20 @@
       "category": "Popular (7 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (7 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55472%2Fvectura-1n3Kk0xkPPxa7KzfgJXu6caPYQdCk8&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/55472/vectura-1n3Kk0xkPPxa7KzfgJXu6caPYQdCk8",
       "url": "https://framer.com/marketplace/templates/vectura/",
+      "previewUrl": "https://framer.com/marketplace/templates/vectura/",
       "description": "Vectura — a popular (7 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:37.167086+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:07.902014+00:00"
     },
     {
       "id": "framer-arpeggio",
@@ -4183,16 +4981,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F48693%2Farpeggio-qRMShpuUYEGcVULUbvnU2MOUXmhQ1o&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/48693/arpeggio-qRMShpuUYEGcVULUbvnU2MOUXmhQ1o",
       "url": "https://framer.com/marketplace/templates/arpeggio/",
+      "previewUrl": "https://framer.com/marketplace/templates/arpeggio/",
       "description": "Arpeggio — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.730500+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780139+00:00"
     },
     {
       "id": "framer-portfolite",
@@ -4202,16 +5004,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50716%2Fportfolite-tSdwL2z7uMF6IBuGzhEUgbCmCKfrgt&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50716/portfolite-tSdwL2z7uMF6IBuGzhEUgbCmCKfrgt",
       "url": "https://framer.com/marketplace/templates/portfolite/",
+      "previewUrl": "https://framer.com/marketplace/templates/portfolite/",
       "description": "Portfolite — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.730590+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780213+00:00"
     },
     {
       "id": "framer-fabrica",
@@ -4221,16 +5027,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50744%2Ffabrica-RXrmPPc9YMOnPdwKvStOaE6BffXhoj&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50744/fabrica-RXrmPPc9YMOnPdwKvStOaE6BffXhoj",
       "url": "https://framer.com/marketplace/templates/fabrica/",
+      "previewUrl": "https://framer.com/marketplace/templates/fabrica/",
       "description": "Fabrica — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.730676+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780286+00:00"
     },
     {
       "id": "framer-pearl",
@@ -4240,16 +5050,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45955%2Fpearl-tAAPET5MSOsE1HHKMijfwtUHKw80yW&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45955/pearl-tAAPET5MSOsE1HHKMijfwtUHKw80yW",
       "url": "https://framer.com/marketplace/templates/pearl/",
+      "previewUrl": "https://framer.com/marketplace/templates/pearl/",
       "description": "Pearl — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732487+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921156+00:00"
     },
     {
       "id": "framer-bartix",
@@ -4259,16 +5073,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54831%2Fbartix-xkpqGfPUz4d4YuNL7JXISes82AJpMU&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/54831/bartix-xkpqGfPUz4d4YuNL7JXISes82AJpMU",
       "url": "https://framer.com/marketplace/templates/bartix/",
+      "previewUrl": "https://framer.com/marketplace/templates/bartix/",
       "description": "Bartix — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.730844+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780428+00:00"
     },
     {
       "id": "framer-dreelio",
@@ -4278,16 +5096,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55602%2Fpreelio-i8w6bSSDDkflqbNH9y9gs42I4kLTgu&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/55602/preelio-i8w6bSSDDkflqbNH9y9gs42I4kLTgu",
       "url": "https://framer.com/marketplace/templates/dreelio/",
+      "previewUrl": "https://framer.com/marketplace/templates/dreelio/",
       "description": "Dreelio — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732396+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921062+00:00"
     },
     {
       "id": "framer-viral",
@@ -4297,16 +5119,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53466%2Fviral-eiXeroCBYNt4GbJaWO6MBeqzNu1Q7T&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/53466/viral-eiXeroCBYNt4GbJaWO6MBeqzNu1Q7T",
       "url": "https://framer.com/marketplace/templates/viral/",
+      "previewUrl": "https://framer.com/marketplace/templates/viral/",
       "description": "Viral — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731095+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780570+00:00"
     },
     {
       "id": "framer-portavia",
@@ -4316,16 +5142,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51964%2Fportavia-rILjFxAFp7MlOO3rVQYQdIHV5ybCX9&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51964/portavia-rILjFxAFp7MlOO3rVQYQdIHV5ybCX9",
       "url": "https://framer.com/marketplace/templates/portavia/",
+      "previewUrl": "https://framer.com/marketplace/templates/portavia/",
       "description": "Portavia — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731186+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780641+00:00"
     },
     {
       "id": "framer-orbai",
@@ -4335,16 +5165,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52038%2Forbai-wl01JtZG34cLRjQFIM1p97TJrvdCKN&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/52038/orbai-wl01JtZG34cLRjQFIM1p97TJrvdCKN",
       "url": "https://framer.com/marketplace/templates/orbai/",
+      "previewUrl": "https://framer.com/marketplace/templates/orbai/",
       "description": "Orbai — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731272+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780710+00:00"
     },
     {
       "id": "framer-landio",
@@ -4354,16 +5188,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F50147%2Flandio-AKmog8ctF9MCV76Jfav3GhrsMQGnoI&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/50147/landio-AKmog8ctF9MCV76Jfav3GhrsMQGnoI",
       "url": "https://framer.com/marketplace/templates/landio/",
+      "previewUrl": "https://framer.com/marketplace/templates/landio/",
       "description": "Landio — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731356+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780780+00:00"
     },
     {
       "id": "framer-darling",
@@ -4373,16 +5211,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53974%2Fdarling-Eux2tpRsXlIBQ59sNYQhLl516AfAJL&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/53974/darling-Eux2tpRsXlIBQ59sNYQhLl516AfAJL",
       "url": "https://framer.com/marketplace/templates/darling/",
+      "previewUrl": "https://framer.com/marketplace/templates/darling/",
       "description": "Darling — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731441+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.780850+00:00"
     },
     {
       "id": "framer-palmer",
@@ -4392,16 +5234,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54074%2Fpalmer-AQEbhDjpT4yCnWbCg9F1WJHbDxJVPs&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/54074/palmer-AQEbhDjpT4yCnWbCg9F1WJHbDxJVPs",
       "url": "https://framer.com/marketplace/templates/palmer/",
+      "previewUrl": "https://framer.com/marketplace/templates/palmer/",
       "description": "Palmer — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731796+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.781058+00:00"
     },
     {
       "id": "framer-fizens",
@@ -4411,16 +5257,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F55582%2Ffizens-KFUEdvzppngDOcdt8GBQc4D2SDiFW6&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/55582/fizens-KFUEdvzppngDOcdt8GBQc4D2SDiFW6",
       "url": "https://framer.com/marketplace/templates/fizens/",
+      "previewUrl": "https://framer.com/marketplace/templates/fizens/",
       "description": "Fizens — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.731879+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.781127+00:00"
     },
     {
       "id": "framer-kanso",
@@ -4430,16 +5280,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52723%2Fkanso-kg2U0s0rpYkwrBtCWM4jZzVbsxbk6o&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/52723/kanso-kg2U0s0rpYkwrBtCWM4jZzVbsxbk6o",
       "url": "https://framer.com/marketplace/templates/kanso/",
+      "previewUrl": "https://framer.com/marketplace/templates/kanso/",
       "description": "Kanso — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.732047+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.781271+00:00"
     },
     {
       "id": "framer-jorge",
@@ -4449,16 +5303,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52947%2Fjorge-75PPjdDLxnPdMZKpu2pyaW4kZEuKbw&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/52947/jorge-75PPjdDLxnPdMZKpu2pyaW4kZEuKbw",
       "url": "https://framer.com/marketplace/templates/jorge/",
+      "previewUrl": "https://framer.com/marketplace/templates/jorge/",
       "description": "Jorge — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.732128+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.781340+00:00"
     },
     {
       "id": "framer-ai-supply",
@@ -4468,16 +5326,20 @@
       "category": "Popular (30 days)",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "Popular (30 days)"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F54720%2Fai-supply-8FfceZkv3rkf6cI8AGl2Idi5LSrLOp&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/54720/ai-supply-8FfceZkv3rkf6cI8AGl2Idi5LSrLOp",
       "url": "https://framer.com/marketplace/templates/ai-supply/",
+      "previewUrl": "https://framer.com/marketplace/templates/ai-supply/",
       "description": "Ai Supply — a popular (30 days) Framer template.",
-      "scrapedAt": "2026-02-18T16:07:39.732213+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:09.781410+00:00"
     },
     {
       "id": "framer-finania",
@@ -4487,16 +5349,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51016%2Ffinania-f20QuznGzzoMnx4DFIrmN1kVmqjRbO&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51016/finania-f20QuznGzzoMnx4DFIrmN1kVmqjRbO",
       "url": "https://framer.com/marketplace/templates/finania/",
+      "previewUrl": "https://framer.com/marketplace/templates/finania/",
       "description": "Finania — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.731214+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.920047+00:00"
     },
     {
       "id": "framer-consulting",
@@ -4506,16 +5372,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45523%2Fconsulting-op90MBKegeEqne7zczcc4CcmDEUjdN&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45523/consulting-op90MBKegeEqne7zczcc4CcmDEUjdN",
       "url": "https://framer.com/marketplace/templates/consulting/",
+      "previewUrl": "https://framer.com/marketplace/templates/consulting/",
       "description": "Consulting — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732573+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921243+00:00"
     },
     {
       "id": "framer-handyman",
@@ -4525,16 +5395,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45568%2Fhandyman-pHkXqnXpYrB1I63wCo6NBmgORhrzZH&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45568/handyman-pHkXqnXpYrB1I63wCo6NBmgORhrzZH",
       "url": "https://framer.com/marketplace/templates/handyman/",
+      "previewUrl": "https://framer.com/marketplace/templates/handyman/",
       "description": "Handyman — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732663+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921331+00:00"
     },
     {
       "id": "framer-greenleaf",
@@ -4544,16 +5418,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F52815%2Fgreenleaf-1AToFt8XlqhdNktyyvFgymcTxVGkMR&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/52815/greenleaf-1AToFt8XlqhdNktyyvFgymcTxVGkMR",
       "url": "https://framer.com/marketplace/templates/greenleaf/",
+      "previewUrl": "https://framer.com/marketplace/templates/greenleaf/",
       "description": "Greenleaf — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732756+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921413+00:00"
     },
     {
       "id": "framer-stratex",
@@ -4563,16 +5441,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F51203%2Fstratex-1dS7KRCTGo9f6cNBVU5zxNlDpsGvMb&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/51203/stratex-1dS7KRCTGo9f6cNBVU5zxNlDpsGvMb",
       "url": "https://framer.com/marketplace/templates/stratex/",
+      "previewUrl": "https://framer.com/marketplace/templates/stratex/",
       "description": "Stratex — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732838+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921489+00:00"
     },
     {
       "id": "framer-lando",
@@ -4582,16 +5464,20 @@
       "category": "New",
       "price": "Free",
       "rating": 0,
+      "ratingCount": 0,
       "sales": 0,
       "tags": [
         "Framer",
         "Website",
         "New"
       ],
-      "thumbnail": "/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F45515%2Flando-Nh7vEa1uEBlro1UQzQRPI5zFaoXdW5&w=3840&q=100",
+      "thumbnail": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/templates/45515/lando-Nh7vEa1uEBlro1UQzQRPI5zFaoXdW5",
       "url": "https://framer.com/marketplace/templates/lando/",
+      "previewUrl": "https://framer.com/marketplace/templates/lando/",
       "description": "Lando — a new Framer template.",
-      "scrapedAt": "2026-02-18T16:07:41.732923+00:00"
+      "compatibility": "Framer",
+      "updatedAt": "",
+      "scrapedAt": "2026-02-18T16:50:11.921569+00:00"
     }
   ]
 }

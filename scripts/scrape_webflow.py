@@ -11,7 +11,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
+from typing import Dict, Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -136,11 +136,15 @@ def parse_templates(html: str, category: str = "General") -> list[dict]:
                 "category": category,
                 "price": price_text or "Free",
                 "rating": 0,
+                "ratingCount": 0,
                 "sales": 0,
                 "tags": [PLATFORM, category],
                 "thumbnail": thumbnail,
                 "url": href,
-                "description": f"{title} — a {category.lower()} Webflow template.",
+                "previewUrl": href,
+                "description": f"{title} — a {category.lower()} Webflow template by {author or 'Unknown'}.",
+                "compatibility": "Webflow",
+                "updatedAt": "",
                 "scrapedAt": datetime.now(timezone.utc).isoformat(),
             })
 
@@ -171,7 +175,7 @@ def save_templates(data: dict):
 def main():
     print("🔍 Webflow Scraper — fetching templates from webflow.com...")
 
-    all_templates: dict[str, dict] = {}  # Deduplicate by ID
+    all_templates: Dict[str, dict] = {}  # Deduplicate by ID
 
     for page_config in PAGES_TO_SCRAPE:
         url = page_config["url"]
