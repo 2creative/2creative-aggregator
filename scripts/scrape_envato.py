@@ -13,7 +13,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List
 
+import re
+
 import requests
+from bs4 import BeautifulSoup
 
 # ── Config ──────────────────────────────────────────────────────────────────
 API_BASE = "https://api.envato.com/v1/discovery/search/search/item"
@@ -75,6 +78,23 @@ def fetch_items(token: str, term: str = "", category: str = "wordpress",
         return []
 
 
+def clean_html(html: str, max_length: int = 800) -> str:
+    """Strip HTML tags and return clean text, truncated to max_length."""
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    # Remove script/style elements
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    text = soup.get_text(separator=" ", strip=True)
+    # Collapse multiple whitespace
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > max_length:
+        # Truncate at last space before max_length
+        text = text[:max_length].rsplit(" ", 1)[0] + "…"
+    return text
+
+
 def transform_item(item: dict) -> dict:
     """Transform Envato API item into our unified template schema."""
     # Attributes can be a list of dicts or a dict
@@ -96,6 +116,10 @@ def transform_item(item: dict) -> dict:
     elif "icon_with_landscape_preview" in previews:
         preview = previews["icon_with_landscape_preview"]
         thumbnail = preview.get("landscape_url", preview.get("icon_url", ""))
+
+    # Note: The search API only returns small icons/logos, not real screenshots.
+    # Full-size screenshots would require individual item detail API calls.
+    screenshots: list = []
 
     # Build URL (direct link — replace with affiliate link if you have one)
     url = item.get("url", "")
@@ -146,9 +170,12 @@ def transform_item(item: dict) -> dict:
         "sales": item.get("number_of_sales", 0),
         "tags": tags_list[:8],
         "thumbnail": thumbnail,
+        "screenshots": screenshots,
         "url": url,
         "previewUrl": preview_url,
-        "description": item.get("description_short", item.get("summary", ""))[:300],
+        "description": clean_html(item.get("description", ""))
+                       or item.get("description_short", item.get("summary", ""))[:300],
+        "features": item.get("description_short", item.get("summary", ""))[:200],
         "compatibility": compatibility,
         "updatedAt": item.get("updated_at", ""),
         "scrapedAt": datetime.now(timezone.utc).isoformat(),

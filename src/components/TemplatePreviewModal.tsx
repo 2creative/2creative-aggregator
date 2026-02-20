@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useMemo } from "react";
 import {
   Box,
   Dialog,
@@ -21,6 +22,8 @@ import StarIcon from "@mui/icons-material/Star";
 import UpdateIcon from "@mui/icons-material/Update";
 import DevicesIcon from "@mui/icons-material/Devices";
 import TrendingUpIcon from "@mui/icons-material/TrendingUp";
+import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
+import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import type { Template } from "@/types/template";
 
 const platformColors: Record<string, string> = {
@@ -40,13 +43,32 @@ export default function TemplatePreviewModal({
   open,
   onClose,
 }: TemplatePreviewModalProps) {
+  const [activeImage, setActiveImage] = useState(0);
+
+  // Build the image gallery — main thumbnail + screenshots
+  const allImages = useMemo(() => {
+    if (!template) return [];
+    const images: string[] = [];
+    if (template.thumbnail) images.push(template.thumbnail);
+    if (template.screenshots) {
+      for (const url of template.screenshots) {
+        if (url && !images.includes(url)) {
+          images.push(url);
+        }
+      }
+    }
+    return images;
+  }, [template]);
+
+  // Reset active image when template changes
+  const handleEnter = () => setActiveImage(0);
+
   if (!template) return null;
 
   const color = platformColors[template.platform] || "#6C63FF";
   const isFree =
-    !template.price ||
-    template.price === "Free" ||
-    template.price === "$0";
+    !template.price || template.price === "Free" || template.price === "$0";
+  const hasMultipleImages = allImages.length > 1;
 
   return (
     <Dialog
@@ -54,6 +76,7 @@ export default function TemplatePreviewModal({
       onClose={onClose}
       maxWidth="md"
       fullWidth
+      TransitionProps={{ onEnter: handleEnter }}
       slotProps={{
         paper: {
           sx: {
@@ -85,38 +108,156 @@ export default function TemplatePreviewModal({
         <CloseIcon />
       </IconButton>
 
-      {/* Large thumbnail */}
-      {template.thumbnail && (
-        <Box
-          sx={{
-            position: "relative",
-            width: "100%",
-            maxHeight: 400,
-            overflow: "hidden",
-            "&::after": {
-              content: '""',
-              position: "absolute",
-              bottom: 0,
-              left: 0,
-              right: 0,
-              height: 80,
-              background:
-                "linear-gradient(transparent, #0F1420)",
-            },
-          }}
-        >
+      {/* ─── Image Gallery ─── */}
+      {allImages.length > 0 && (
+        <Box sx={{ position: "relative" }}>
+          {/* Main image */}
           <Box
-            component="img"
-            src={template.thumbnail}
-            alt={template.title}
             sx={{
+              position: "relative",
               width: "100%",
-              height: "auto",
               maxHeight: 400,
-              objectFit: "cover",
-              display: "block",
+              overflow: "hidden",
+              "&::after": {
+                content: '""',
+                position: "absolute",
+                bottom: 0,
+                left: 0,
+                right: 0,
+                height: 80,
+                background: "linear-gradient(transparent, #0F1420)",
+                pointerEvents: "none",
+              },
             }}
-          />
+          >
+            <Box
+              component="img"
+              src={allImages[activeImage] || allImages[0]}
+              alt={`${template.title} — image ${activeImage + 1}`}
+              sx={{
+                width: "100%",
+                height: "auto",
+                maxHeight: 400,
+                objectFit: "cover",
+                display: "block",
+                transition: "opacity 0.3s ease",
+              }}
+            />
+          </Box>
+
+          {/* Prev / Next arrows */}
+          {hasMultipleImages && (
+            <>
+              <IconButton
+                onClick={() =>
+                  setActiveImage((prev) =>
+                    prev === 0 ? allImages.length - 1 : prev - 1
+                  )
+                }
+                aria-label="Previous image"
+                sx={{
+                  position: "absolute",
+                  left: 12,
+                  top: "50%",
+                  transform: "translateY(-50%)",
+                  bgcolor: alpha("#000", 0.6),
+                  backdropFilter: "blur(8px)",
+                  color: "#fff",
+                  "&:hover": { bgcolor: alpha("#000", 0.8) },
+                }}
+              >
+                <ChevronLeftIcon />
+              </IconButton>
+              <IconButton
+                onClick={() =>
+                  setActiveImage((prev) =>
+                    prev === allImages.length - 1 ? 0 : prev + 1
+                  )
+                }
+                aria-label="Next image"
+                sx={{
+                  position: "absolute",
+                  right: 12,
+                  top: "50%",
+                  transform: "translateY(-50%)",
+                  bgcolor: alpha("#000", 0.6),
+                  backdropFilter: "blur(8px)",
+                  color: "#fff",
+                  "&:hover": { bgcolor: alpha("#000", 0.8) },
+                }}
+              >
+                <ChevronRightIcon />
+              </IconButton>
+            </>
+          )}
+
+          {/* Thumbnail strip */}
+          {hasMultipleImages && (
+            <Stack
+              direction="row"
+              spacing={1}
+              sx={{
+                position: "absolute",
+                bottom: 16,
+                left: "50%",
+                transform: "translateX(-50%)",
+                zIndex: 5,
+                px: 1.5,
+                py: 0.75,
+                bgcolor: alpha("#000", 0.5),
+                backdropFilter: "blur(8px)",
+                borderRadius: 2,
+              }}
+            >
+              {allImages.map((img, idx) => (
+                <Box
+                  key={img}
+                  onClick={() => setActiveImage(idx)}
+                  sx={{
+                    width: 48,
+                    height: 32,
+                    borderRadius: 1,
+                    overflow: "hidden",
+                    cursor: "pointer",
+                    border: "2px solid",
+                    borderColor: idx === activeImage ? color : "transparent",
+                    opacity: idx === activeImage ? 1 : 0.6,
+                    transition: "all 0.2s ease",
+                    "&:hover": { opacity: 1 },
+                  }}
+                >
+                  <Box
+                    component="img"
+                    src={img}
+                    alt={`Thumbnail ${idx + 1}`}
+                    sx={{
+                      width: "100%",
+                      height: "100%",
+                      objectFit: "cover",
+                    }}
+                  />
+                </Box>
+              ))}
+            </Stack>
+          )}
+
+          {/* Image counter */}
+          {hasMultipleImages && (
+            <Chip
+              label={`${activeImage + 1} / ${allImages.length}`}
+              size="small"
+              sx={{
+                position: "absolute",
+                top: 12,
+                left: 12,
+                bgcolor: alpha("#000", 0.6),
+                backdropFilter: "blur(8px)",
+                color: "#fff",
+                fontWeight: 600,
+                fontSize: "0.75rem",
+              }}
+            />
+          )}
         </Box>
       )}
 
@@ -141,10 +282,7 @@ export default function TemplatePreviewModal({
             >
               {template.title}
             </Typography>
-            <Typography
-              variant="body2"
-              sx={{ color: "text.secondary" }}
-            >
+            <Typography variant="body2" sx={{ color: "text.secondary" }}>
               by{" "}
               <Box component="span" sx={{ color: color, fontWeight: 600 }}>
                 {template.author}
@@ -185,6 +323,61 @@ export default function TemplatePreviewModal({
           </Stack>
         </Stack>
 
+        {/* Description */}
+        {template.description && (
+          <Typography
+            variant="body1"
+            sx={{
+              color: "text.secondary",
+              lineHeight: 1.7,
+              mb: template.features ? 1.5 : 2.5,
+            }}
+          >
+            {template.description.endsWith("…") ? (
+              <>
+                {template.description.slice(0, -1)}...{" "}
+                <Button
+                  href={template.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  sx={{
+                    minWidth: "auto",
+                    p: 0,
+                    ml: 0.5,
+                    fontSize: "inherit",
+                    fontWeight: 700,
+                    textTransform: "none",
+                    color,
+                    "&:hover": {
+                      bgcolor: "transparent",
+                      textDecoration: "underline",
+                    },
+                  }}
+                >
+                  Read more
+                </Button>
+              </>
+            ) : (
+              template.description
+            )}
+          </Typography>
+        )}
+
+        {/* Features */}
+        {template.features && (
+          <Typography
+            variant="body2"
+            sx={{
+              color: "text.secondary",
+              lineHeight: 1.6,
+              mb: 2.5,
+              opacity: 0.85,
+            }}
+          >
+            {template.features}
+          </Typography>
+        )}
+
         {/* Stats row */}
         <Stack
           direction="row"
@@ -221,9 +414,7 @@ export default function TemplatePreviewModal({
           {/* Sales */}
           {template.sales > 0 && (
             <Stack direction="row" spacing={0.5} alignItems="center">
-              <TrendingUpIcon
-                sx={{ fontSize: 18, color: "text.secondary" }}
-              />
+              <TrendingUpIcon sx={{ fontSize: 18, color: "text.secondary" }} />
               <Typography
                 variant="body2"
                 sx={{ color: "text.secondary", fontWeight: 600 }}
@@ -236,9 +427,7 @@ export default function TemplatePreviewModal({
           {/* Compatibility */}
           {template.compatibility && (
             <Stack direction="row" spacing={0.5} alignItems="center">
-              <DevicesIcon
-                sx={{ fontSize: 18, color: "text.secondary" }}
-              />
+              <DevicesIcon sx={{ fontSize: 18, color: "text.secondary" }} />
               <Typography
                 variant="body2"
                 sx={{
@@ -257,13 +446,8 @@ export default function TemplatePreviewModal({
           {/* Updated at */}
           {template.updatedAt && (
             <Stack direction="row" spacing={0.5} alignItems="center">
-              <UpdateIcon
-                sx={{ fontSize: 18, color: "text.secondary" }}
-              />
-              <Typography
-                variant="body2"
-                sx={{ color: "text.secondary" }}
-              >
+              <UpdateIcon sx={{ fontSize: 18, color: "text.secondary" }} />
+              <Typography variant="body2" sx={{ color: "text.secondary" }}>
                 Updated{" "}
                 {new Date(template.updatedAt).toLocaleDateString("en-US", {
                   month: "short",
@@ -276,20 +460,6 @@ export default function TemplatePreviewModal({
         </Stack>
 
         <Divider sx={{ mb: 2, borderColor: alpha("#F1F5F9", 0.08) }} />
-
-        {/* Description */}
-        {template.description && (
-          <Typography
-            variant="body1"
-            sx={{
-              color: "text.secondary",
-              lineHeight: 1.7,
-              mb: 2.5,
-            }}
-          >
-            {template.description}
-          </Typography>
-        )}
 
         {/* Tags */}
         {template.tags.length > 0 && (
@@ -345,13 +515,7 @@ export default function TemplatePreviewModal({
             href={template.url}
             target="_blank"
             rel="noopener noreferrer"
-            startIcon={
-              isFree ? (
-                <OpenInNewIcon />
-              ) : (
-                <ShoppingCartIcon />
-              )
-            }
+            startIcon={isFree ? <OpenInNewIcon /> : <ShoppingCartIcon />}
             sx={{
               bgcolor: color,
               fontWeight: 700,

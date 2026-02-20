@@ -11,8 +11,8 @@ import {
   Rating,
   alpha,
 } from "@mui/material";
-import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 import StarIcon from "@mui/icons-material/Star";
+import type { Template } from "@/types/template";
 
 // Platform color map
 const platformColors: Record<string, string> = {
@@ -22,42 +22,31 @@ const platformColors: Record<string, string> = {
 };
 
 interface TemplateCardProps {
-  title: string;
-  author: string;
-  platform: string;
-  category: string;
-  price: string;
-  rating: number;
-  sales: number;
-  tags: string[];
-  thumbnail: string;
-  url: string;
-  description: string;
+  template: Template;
+  onClick?: (template: Template) => void;
 }
 
-export default function TemplateCard({
-  title,
-  author,
-  platform,
-  price,
-  rating,
-  sales,
-  tags,
-  thumbnail,
-  url,
-}: TemplateCardProps) {
+export default function TemplateCard({ template, onClick }: TemplateCardProps) {
+  const { title, author, platform, price, rating, sales, tags, thumbnail } =
+    template;
   const platformColor = platformColors[platform] || "#6C63FF";
+  const isFree = !price || price === "Free" || price === "$0";
 
   return (
     <Card
-      component="a"
-      href={url}
-      target="_blank"
-      rel="nofollow noopener noreferrer"
+      role="button"
+      tabIndex={0}
+      onClick={() => onClick?.(template)}
+      onKeyDown={(e: React.KeyboardEvent) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          onClick?.(template);
+        }
+      }}
       sx={{
         display: "flex",
         flexDirection: "column",
-        textDecoration: "none",
+        cursor: "pointer",
         color: "inherit",
         overflow: "hidden",
         transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
@@ -75,26 +64,44 @@ export default function TemplateCard({
     >
       {/* Thumbnail with overlay */}
       <Box sx={{ position: "relative", overflow: "hidden" }}>
-        <CardMedia
-          component="img"
-          image={thumbnail || ""}
-          alt={title}
-          className="template-thumbnail"
-          sx={{
-            height: 200,
-            objectFit: "cover",
-            transition: "transform 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
-            bgcolor: alpha(platformColor, 0.05),
-          }}
-          onError={(e: React.SyntheticEvent<HTMLImageElement>) => {
-            const img = e.currentTarget;
-            img.style.display = "none";
-          }}
-        />
+        {thumbnail ? (
+          <CardMedia
+            component="img"
+            image={thumbnail}
+            alt={title}
+            className="template-thumbnail"
+            sx={{
+              height: 200,
+              objectFit: "cover",
+              transition: "transform 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+              bgcolor: alpha(platformColor, 0.05),
+            }}
+            onError={(e: React.SyntheticEvent<HTMLImageElement>) => {
+              e.currentTarget.style.display = "none";
+            }}
+          />
+        ) : (
+          <Box
+            sx={{
+              height: 200,
+              bgcolor: alpha(platformColor, 0.08),
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Typography
+              variant="h5"
+              sx={{ color: alpha(platformColor, 0.3), fontWeight: 800 }}
+            >
+              {platform}
+            </Typography>
+          </Box>
+        )}
 
         {/* Price badge */}
         <Chip
-          label={price || "Free"}
+          label={isFree ? "Free" : price}
           size="small"
           sx={{
             position: "absolute",
@@ -102,7 +109,7 @@ export default function TemplateCard({
             right: 10,
             bgcolor: "rgba(0, 0, 0, 0.75)",
             backdropFilter: "blur(8px)",
-            color: price === "Free" || price === "$0" ? "#22C55E" : "#fff",
+            color: isFree ? "#22C55E" : "#fff",
             fontWeight: 700,
             fontSize: "0.8rem",
             height: 28,
@@ -141,14 +148,12 @@ export default function TemplateCard({
           }}
         >
           <Chip
-            icon={<OpenInNewIcon sx={{ fontSize: 14 }} />}
-            label="View Template"
+            label="Quick View"
             sx={{
               bgcolor: "rgba(0, 0, 0, 0.8)",
               backdropFilter: "blur(8px)",
               color: "#fff",
               fontWeight: 600,
-              "& .MuiChip-icon": { color: "#fff" },
             }}
           />
         </Box>

@@ -10,9 +10,11 @@ export interface Template {
   sales: number;
   tags: string[];
   thumbnail: string;
+  screenshots?: string[];
   url: string;
   previewUrl?: string;
   description: string;
+  features?: string;
   compatibility?: string;
   updatedAt?: string;
   scrapedAt?: string;

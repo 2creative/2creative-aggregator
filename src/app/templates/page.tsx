@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useCallback } from "react";
 import {
   Box,
   Container,
@@ -26,6 +26,8 @@ import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import ViewQuiltIcon from "@mui/icons-material/ViewQuilt";
 import Link from "next/link";
 import TemplateCard from "@/components/TemplateCard";
+import TemplatePreviewModal from "@/components/TemplatePreviewModal";
+import type { Template } from "@/types/template";
 import templateData from "../../../public/data/templates.json";
 
 // Platform config
@@ -46,21 +48,7 @@ const sortOptions: { label: string; value: SortOption }[] = [
   { label: "Newest", value: "newest" },
 ];
 
-interface Template {
-  id: string;
-  title: string;
-  author: string;
-  platform: string;
-  category: string;
-  price: string;
-  rating: number;
-  sales: number;
-  tags: string[];
-  thumbnail: string;
-  url: string;
-  description: string;
-  scrapedAt?: string;
-}
+
 
 function parsePrice(price: string): number {
   const match = price.match(/\d+/);
@@ -93,6 +81,17 @@ export default function TemplatesPage() {
   const [activePlatform, setActivePlatform] = useState("all");
   const [sortBy, setSortBy] = useState<SortOption>("sales");
   const [searchQuery, setSearchQuery] = useState("");
+  const [selectedTemplate, setSelectedTemplate] = useState<Template | null>(
+    null
+  );
+
+  const handleCardClick = useCallback((template: Template) => {
+    setSelectedTemplate(template);
+  }, []);
+
+  const handleModalClose = useCallback(() => {
+    setSelectedTemplate(null);
+  }, []);
 
   const templates: Template[] = templateData.templates as Template[];
 
@@ -362,17 +361,8 @@ export default function TemplatesPage() {
                     size={{ xs: 12, sm: 6, md: 4, lg: 3 }}
                   >
                     <TemplateCard
-                      title={template.title}
-                      author={template.author}
-                      platform={template.platform}
-                      category={template.category}
-                      price={template.price}
-                      rating={template.rating}
-                      sales={template.sales}
-                      tags={template.tags}
-                      thumbnail={template.thumbnail}
-                      url={template.url}
-                      description={template.description}
+                      template={template}
+                      onClick={handleCardClick}
                     />
                   </Grid>
                 ))}
@@ -411,6 +401,13 @@ export default function TemplatesPage() {
           © {new Date().getFullYear()} 2Creative.net — Built with Next.js & MUI
         </Typography>
       </Box>
+
+      {/* ─── Preview Modal ─── */}
+      <TemplatePreviewModal
+        template={selectedTemplate}
+        open={selectedTemplate !== null}
+        onClose={handleModalClose}
+      />
     </Box>
   );
 }
