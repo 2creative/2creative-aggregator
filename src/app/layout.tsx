@@ -11,21 +11,23 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "2Creative.net — The Ultimate Creative Aggregator",
+  title: "2Creative.net — Premium Creative Resources, One Platform",
   description:
-    "Your command center for creative jobs, templates, AI tools, deals, and inspiration — all in one dashboard.",
+    "Find the best templates, UI kits, 3D models, presets, code, and fonts — curated from top marketplaces like ThemeForest, Webflow, Framer & TemplateMonster.",
   keywords: [
-    "creative jobs",
-    "design templates",
-    "AI tools",
-    "freelance",
-    "developer resources",
-    "web design",
+    "web templates",
+    "UI kits",
+    "3D models",
+    "design assets",
+    "creative fonts",
+    "WordPress themes",
+    "Webflow templates",
+    "Framer templates",
   ],
   openGraph: {
-    title: "2Creative.net — The Ultimate Creative Aggregator",
+    title: "2Creative.net — Premium Creative Resources, One Platform",
     description:
-      "Your command center for creative jobs, templates, AI tools, deals, and inspiration.",
+      "Templates, UI kits, 3D models, presets, code, and fonts — curated from the world's top creative marketplaces.",
     siteName: "2Creative.net",
     type: "website",
   },

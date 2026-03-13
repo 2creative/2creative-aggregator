@@ -19,6 +19,7 @@ const platformColors: Record<string, string> = {
   ThemeForest: "#82B541",
   Webflow: "#4353FF",
   Framer: "#0099FF",
+  TemplateMonster: "#FF5722",
 };
 
 interface TemplateCardProps {

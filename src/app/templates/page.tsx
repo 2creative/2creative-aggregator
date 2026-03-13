@@ -7,8 +7,6 @@ import {
   Typography,
   Chip,
   Stack,
-  AppBar,
-  Toolbar,
   alpha,
   Select,
   MenuItem,
@@ -16,17 +14,17 @@ import {
   InputLabel,
   TextField,
   InputAdornment,
-  IconButton,
   Fade,
   Grid,
+  useTheme,
 } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import SortIcon from "@mui/icons-material/Sort";
-import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import ViewQuiltIcon from "@mui/icons-material/ViewQuilt";
-import Link from "next/link";
 import TemplateCard from "@/components/TemplateCard";
 import TemplatePreviewModal from "@/components/TemplatePreviewModal";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import type { Template } from "@/types/template";
 import templateData from "../../../public/data/templates.json";
 
@@ -36,6 +34,7 @@ const platforms = [
   { label: "ThemeForest", value: "ThemeForest", color: "#82B541" },
   { label: "Webflow", value: "Webflow", color: "#4353FF" },
   { label: "Framer", value: "Framer", color: "#0099FF" },
+  { label: "TemplateMonster", value: "TemplateMonster", color: "#FF5722" },
 ];
 
 type SortOption = "sales" | "price_asc" | "price_desc" | "rating" | "newest";
@@ -47,8 +46,6 @@ const sortOptions: { label: string; value: SortOption }[] = [
   { label: "Top Rated", value: "rating" },
   { label: "Newest", value: "newest" },
 ];
-
-
 
 function parsePrice(price: string): number {
   const match = price.match(/\d+/);
@@ -78,6 +75,8 @@ function sortTemplates(templates: Template[], sortBy: SortOption): Template[] {
 }
 
 export default function TemplatesPage() {
+  const theme = useTheme();
+  const isDark = theme.palette.mode === "dark";
   const [activePlatform, setActivePlatform] = useState("all");
   const [sortBy, setSortBy] = useState<SortOption>("sales");
   const [searchQuery, setSearchQuery] = useState("");
@@ -128,53 +127,8 @@ export default function TemplatesPage() {
   }, [templates, activePlatform, sortBy, searchQuery]);
 
   return (
-    <Box sx={{ minHeight: "100vh" }}>
-      {/* ─── Navigation ─── */}
-      <AppBar position="fixed" elevation={0}>
-        <Toolbar sx={{ justifyContent: "space-between" }}>
-          <Stack direction="row" alignItems="center" spacing={1}>
-            <IconButton
-              component={Link}
-              href="/"
-              sx={{ color: "text.secondary" }}
-              aria-label="Back to home"
-            >
-              <ArrowBackIcon />
-            </IconButton>
-            <Box
-              component={Link}
-              href="/"
-              sx={{
-                display: "flex",
-                alignItems: "center",
-                textDecoration: "none",
-              }}
-            >
-              <Box
-                component="img"
-                src="/images/2creative-logo.jpg"
-                alt="2Creative.net"
-                sx={{
-                  height: 36,
-                  width: "auto",
-                  borderRadius: 1,
-                }}
-              />
-            </Box>
-          </Stack>
-          <Chip
-            icon={<ViewQuiltIcon sx={{ fontSize: 16 }} />}
-            label="Template Market"
-            size="small"
-            sx={{
-              bgcolor: alpha("#6C63FF", 0.15),
-              color: "#9D97FF",
-              fontWeight: 600,
-              "& .MuiChip-icon": { color: "#9D97FF" },
-            }}
-          />
-        </Toolbar>
-      </AppBar>
+    <Box sx={{ minHeight: "100vh", display: "flex", flexDirection: "column" }}>
+      <Header />
 
       {/* ─── Hero / Header ─── */}
       <Box
@@ -191,20 +145,34 @@ export default function TemplatesPage() {
             transform: "translateX(-50%)",
             width: "120%",
             height: "100%",
-            background:
-              "radial-gradient(ellipse at center, rgba(108, 99, 255, 0.08) 0%, transparent 70%)",
+            background: isDark
+              ? "radial-gradient(ellipse at center, rgba(108, 99, 255, 0.08) 0%, transparent 70%)"
+              : "radial-gradient(ellipse at center, rgba(108, 99, 255, 0.05) 0%, transparent 70%)",
             pointerEvents: "none",
           },
         }}
       >
         <Container maxWidth="md">
+          <Chip
+            icon={<ViewQuiltIcon sx={{ fontSize: 16 }} />}
+            label="Web Templates"
+            size="small"
+            sx={{
+              mb: 2,
+              bgcolor: alpha("#6C63FF", isDark ? 0.15 : 0.08),
+              color: isDark ? "#9D97FF" : "#6C63FF",
+              fontWeight: 600,
+              "& .MuiChip-icon": { color: isDark ? "#9D97FF" : "#6C63FF" },
+            }}
+          />
           <Typography
             variant="h2"
             sx={{
               mb: 1,
               fontWeight: 800,
-              background:
-                "linear-gradient(135deg, #F1F5F9 0%, #94A3B8 50%, #F1F5F9 100%)",
+              background: isDark
+                ? "linear-gradient(135deg, #F1F5F9 0%, #94A3B8 50%, #F1F5F9 100%)"
+                : "linear-gradient(135deg, #1E293B 0%, #475569 50%, #1E293B 100%)",
               backgroundClip: "text",
               WebkitBackgroundClip: "text",
               WebkitTextFillColor: "transparent",
@@ -223,8 +191,8 @@ export default function TemplatesPage() {
               lineHeight: 1.7,
             }}
           >
-            {templates.length} top-selling templates from ThemeForest, Webflow &
-            Framer — updated daily.
+            {templates.length} top-selling templates from ThemeForest, Webflow,
+            Framer &amp; TemplateMonster — updated daily.
           </Typography>
         </Container>
       </Box>
@@ -235,7 +203,7 @@ export default function TemplatesPage() {
           position: "sticky",
           top: 64,
           zIndex: 10,
-          bgcolor: alpha("#0B0F1A", 0.85),
+          bgcolor: alpha(theme.palette.background.default, 0.85),
           backdropFilter: "blur(12px)",
           borderBottom: "1px solid",
           borderColor: "divider",
@@ -263,8 +231,8 @@ export default function TemplatesPage() {
                     height: 32,
                     bgcolor:
                       activePlatform === p.value
-                        ? alpha(p.color, 0.2)
-                        : alpha("#F1F5F9", 0.05),
+                        ? alpha(p.color, isDark ? 0.2 : 0.12)
+                        : alpha(theme.palette.text.primary, 0.05),
                     color:
                       activePlatform === p.value ? p.color : "text.secondary",
                     border: "1px solid",
@@ -302,9 +270,9 @@ export default function TemplatesPage() {
                 sx={{
                   minWidth: 200,
                   "& .MuiOutlinedInput-root": {
-                    bgcolor: alpha("#F1F5F9", 0.05),
+                    bgcolor: alpha(theme.palette.text.primary, 0.03),
                     "& fieldset": {
-                      borderColor: alpha("#F1F5F9", 0.1),
+                      borderColor: alpha(theme.palette.text.primary, 0.1),
                     },
                   },
                 }}
@@ -322,9 +290,9 @@ export default function TemplatesPage() {
                   label="Sort"
                   onChange={(e) => setSortBy(e.target.value as SortOption)}
                   sx={{
-                    bgcolor: alpha("#F1F5F9", 0.05),
+                    bgcolor: alpha(theme.palette.text.primary, 0.03),
                     "& fieldset": {
-                      borderColor: alpha("#F1F5F9", 0.1),
+                      borderColor: alpha(theme.palette.text.primary, 0.1),
                     },
                   }}
                 >
@@ -341,7 +309,7 @@ export default function TemplatesPage() {
       </Box>
 
       {/* ─── Template Grid ─── */}
-      <Box sx={{ py: 4 }}>
+      <Box sx={{ py: 4, flexGrow: 1 }}>
         <Container maxWidth="lg">
           {filteredTemplates.length === 0 ? (
             <Box sx={{ textAlign: "center", py: 8 }}>
@@ -387,27 +355,14 @@ export default function TemplatesPage() {
         </Container>
       </Box>
 
-      {/* ─── Footer ─── */}
-      <Box
-        component="footer"
-        sx={{
-          borderTop: "1px solid",
-          borderColor: "divider",
-          py: 4,
-          textAlign: "center",
-        }}
-      >
-        <Typography variant="body2" sx={{ color: "text.secondary" }}>
-          © {new Date().getFullYear()} 2Creative.net — Built with Next.js & MUI
-        </Typography>
-      </Box>
-
       {/* ─── Preview Modal ─── */}
       <TemplatePreviewModal
         template={selectedTemplate}
         open={selectedTemplate !== null}
         onClose={handleModalClose}
       />
+
+      <Footer />
     </Box>
   );
 }
